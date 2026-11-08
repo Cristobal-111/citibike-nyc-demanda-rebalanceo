@@ -1,0 +1,546 @@
+fecha,anio,mes,dia_semana,es_fin_de_semana,temporada,temp_media_c,temp_max_c,precipitacion_mm,viento_kmh,hubo_lluvia,hubo_nieve,Abonado,Ocasional,viajes,tramo_lluvia,tramo_temp
+2016-01-01,2016,1,viernes,False,Invierno,4.7,8.9,0.8,12.0,False,False,8490,2447,10937,Lluvia leve (<5 mm),5-15 °C
+2016-01-02,2016,1,sábado,True,Invierno,2.1,5.6,0.0,11.1,False,False,12118,2413,14531,Sin lluvia,5-15 °C
+2016-01-03,2016,1,domingo,True,Invierno,3.6,7.2,0.0,11.9,False,False,13342,2103,15445,Sin lluvia,5-15 °C
+2016-01-04,2016,1,lunes,False,Invierno,-0.7,3.9,0.0,13.0,False,False,18920,639,19559,Sin lluvia,< 5 °C
+2016-01-05,2016,1,martes,False,Invierno,-7.6,2.2,0.0,11.5,False,False,17544,476,18020,Sin lluvia,< 5 °C
+2016-01-06,2016,1,miércoles,False,Invierno,-0.4,5.0,0.0,4.4,False,False,23658,866,24524,Sin lluvia,< 5 °C
+2016-01-07,2016,1,jueves,False,Invierno,3.3,7.8,0.0,5.4,False,False,26818,891,27709,Sin lluvia,5-15 °C
+2016-01-08,2016,1,viernes,False,Invierno,4.6,7.0,0.0,8.0,False,False,27527,1130,28657,Sin lluvia,5-15 °C
+2016-01-09,2016,1,sábado,True,Invierno,6.3,8.0,0.0,13.7,True,False,19125,1667,20792,Sin lluvia,5-15 °C
+2016-01-10,2016,1,domingo,True,Invierno,10.2,15.0,19.6,15.2,True,False,13328,906,14234,Fuerte (>15 mm),5-15 °C
+2016-01-11,2016,1,lunes,False,Invierno,1.8,15.0,26.2,17.4,False,False,22366,522,22888,Fuerte (>15 mm),5-15 °C
+2016-01-12,2016,1,martes,False,Invierno,0.1,6.7,0.0,8.5,False,False,24701,461,25162,Sin lluvia,5-15 °C
+2016-01-13,2016,1,miércoles,False,Invierno,-2.7,6.7,0.0,17.4,False,False,20744,341,21085,Sin lluvia,5-15 °C
+2016-01-14,2016,1,jueves,False,Invierno,-2.3,2.8,0.0,9.4,False,False,23278,449,23727,Sin lluvia,< 5 °C
+2016-01-15,2016,1,viernes,False,Invierno,5.1,10.6,0.0,7.0,False,False,27336,1039,28375,Sin lluvia,5-15 °C
+2016-01-16,2016,1,sábado,True,Invierno,7.8,11.1,5.3,10.2,True,False,17087,2029,19116,Moderada (5-15 mm),5-15 °C
+2016-01-17,2016,1,domingo,True,Invierno,2.9,11.1,0.8,10.7,False,True,10840,1138,11978,Lluvia leve (<5 mm),5-15 °C
+2016-01-18,2016,1,lunes,False,Invierno,-2.7,5.6,1.3,13.9,False,True,12185,496,12681,Lluvia leve (<5 mm),5-15 °C
+2016-01-19,2016,1,martes,False,Invierno,-6.1,-0.6,0.0,19.3,False,False,16982,268,17250,Sin lluvia,< 5 °C
+2016-01-20,2016,1,miércoles,False,Invierno,-0.7,2.8,0.0,10.4,False,False,22972,409,23381,Sin lluvia,< 5 °C
+2016-01-21,2016,1,jueves,False,Invierno,-0.6,2.8,0.0,9.3,False,False,23207,427,23634,Sin lluvia,< 5 °C
+2016-01-22,2016,1,viernes,False,Invierno,-3.4,2.2,0.0,9.8,False,False,20564,354,20918,Sin lluvia,< 5 °C
+2016-01-27,2016,1,miércoles,False,Invierno,6.6,8.9,0.0,11.5,True,False,6609,124,6733,Sin lluvia,5-15 °C
+2016-01-28,2016,1,jueves,False,Invierno,2.8,8.3,0.0,7.6,False,False,11712,183,11895,Sin lluvia,5-15 °C
+2016-01-29,2016,1,viernes,False,Invierno,3.5,5.6,0.0,10.2,False,False,15650,334,15984,Sin lluvia,5-15 °C
+2016-01-30,2016,1,sábado,True,Invierno,0.4,5.0,0.0,11.1,False,False,12136,794,12930,Sin lluvia,< 5 °C
+2016-01-31,2016,1,domingo,True,Invierno,5.9,13.3,0.0,10.4,False,False,14808,1252,16060,Sin lluvia,5-15 °C
+2016-02-01,2016,2,lunes,False,Invierno,11.2,15.0,0.0,9.3,True,False,23571,706,24277,Sin lluvia,5-15 °C
+2016-02-02,2016,2,martes,False,Invierno,6.9,15.0,0.3,6.3,False,False,27595,868,28463,Lluvia leve (<5 mm),5-15 °C
+2016-02-03,2016,2,miércoles,False,Invierno,9.3,13.9,0.0,8.7,True,False,15882,296,16178,Sin lluvia,5-15 °C
+2016-02-04,2016,2,jueves,False,Invierno,12.6,15.0,18.5,9.3,False,False,26788,920,27708,Fuerte (>15 mm),5-15 °C
+2016-02-05,2016,2,viernes,False,Invierno,3.0,9.4,9.7,13.7,True,True,13348,292,13640,Moderada (5-15 mm),5-15 °C
+2016-02-06,2016,2,sábado,True,Invierno,1.4,6.7,3.8,9.3,False,False,15530,1329,16859,Lluvia leve (<5 mm),5-15 °C
+2016-02-07,2016,2,domingo,True,Invierno,3.9,8.3,0.0,7.4,False,False,15752,1784,17536,Sin lluvia,5-15 °C
+2016-02-08,2016,2,lunes,False,Invierno,2.2,8.3,0.0,17.6,False,True,18601,386,18987,Sin lluvia,5-15 °C
+2016-02-09,2016,2,martes,False,Invierno,-0.9,3.9,1.3,8.7,False,True,22191,492,22683,Lluvia leve (<5 mm),< 5 °C
+2016-02-10,2016,2,miércoles,False,Invierno,1.6,3.9,0.3,7.0,False,True,21957,405,22362,Lluvia leve (<5 mm),< 5 °C
+2016-02-11,2016,2,jueves,False,Invierno,-3.3,3.9,0.0,14.8,False,True,18426,279,18705,Sin lluvia,< 5 °C
+2016-02-12,2016,2,viernes,False,Invierno,-6.4,-0.6,0.0,12.2,False,False,16100,314,16414,Sin lluvia,< 5 °C
+2016-02-13,2016,2,sábado,True,Invierno,-7.1,-2.8,0.0,17.4,False,False,6435,171,6606,Sin lluvia,< 5 °C
+2016-02-14,2016,2,domingo,True,Invierno,-13.9,-5.6,0.0,14.1,False,False,4447,185,4632,Sin lluvia,< 5 °C
+2016-02-15,2016,2,lunes,False,Invierno,-7.2,-1.0,0.0,6.9,False,True,5711,157,5868,Sin lluvia,< 5 °C
+2016-02-16,2016,2,martes,False,Invierno,7.2,12.0,11.7,12.0,True,False,14319,185,14504,Moderada (5-15 mm),5-15 °C
+2016-02-17,2016,2,miércoles,False,Invierno,3.9,12.2,25.1,12.4,False,False,22955,568,23523,Fuerte (>15 mm),5-15 °C
+2016-02-18,2016,2,jueves,False,Invierno,0.3,2.8,0.0,10.9,False,False,21533,666,22199,Sin lluvia,< 5 °C
+2016-02-19,2016,2,viernes,False,Invierno,-1.1,2.8,0.0,9.6,False,False,21161,755,21916,Sin lluvia,< 5 °C
+2016-02-20,2016,2,sábado,True,Invierno,8.7,16.1,0.0,11.1,False,False,20376,3985,24361,Sin lluvia,15-25 °C
+2016-02-21,2016,2,domingo,True,Invierno,11.6,16.1,0.0,8.0,False,False,16862,3074,19936,Sin lluvia,15-25 °C
+2016-02-22,2016,2,lunes,False,Invierno,7.4,12.8,0.8,8.3,True,False,26777,1376,28153,Lluvia leve (<5 mm),5-15 °C
+2016-02-23,2016,2,martes,False,Invierno,3.3,11.1,0.0,20.2,True,False,15835,263,16098,Sin lluvia,5-15 °C
+2016-02-24,2016,2,miércoles,False,Invierno,4.8,13.3,10.9,20.4,True,False,9595,143,9738,Moderada (5-15 mm),5-15 °C
+2016-02-25,2016,2,jueves,False,Invierno,11.4,16.1,28.2,12.8,True,False,24319,734,25053,Fuerte (>15 mm),15-25 °C
+2016-02-26,2016,2,viernes,False,Invierno,1.9,4.4,0.5,15.4,False,False,21759,761,22520,Lluvia leve (<5 mm),< 5 °C
+2016-02-27,2016,2,sábado,True,Invierno,-0.1,5.0,0.0,9.6,False,False,15374,1764,17138,Sin lluvia,< 5 °C
+2016-02-28,2016,2,domingo,True,Invierno,7.8,15.6,0.0,11.9,False,False,20062,5225,25287,Sin lluvia,15-25 °C
+2016-02-29,2016,2,lunes,False,Invierno,11.6,16.1,0.0,13.1,True,False,26712,1172,27884,Sin lluvia,15-25 °C
+2016-03-01,2016,3,martes,False,Primavera,7.6,16.1,1.3,12.0,False,False,28873,1543,30416,Lluvia leve (<5 mm),15-25 °C
+2016-03-02,2016,3,miércoles,False,Primavera,7.7,12.8,3.6,16.5,True,False,25365,763,26128,Lluvia leve (<5 mm),5-15 °C
+2016-03-03,2016,3,jueves,False,Primavera,-0.9,2.2,0.0,10.7,False,False,23166,838,24004,Sin lluvia,< 5 °C
+2016-03-04,2016,3,viernes,False,Primavera,0.8,3.9,1.8,11.5,False,True,16803,525,17328,Lluvia leve (<5 mm),< 5 °C
+2016-03-05,2016,3,sábado,True,Primavera,1.0,5.0,1.0,9.4,False,False,15989,1953,17942,Lluvia leve (<5 mm),< 5 °C
+2016-03-06,2016,3,domingo,True,Primavera,2.9,6.7,0.0,5.0,False,False,16622,2115,18737,Sin lluvia,5-15 °C
+2016-03-07,2016,3,lunes,False,Primavera,7.3,15.6,0.0,11.3,False,False,29519,1861,31380,Sin lluvia,15-25 °C
+2016-03-08,2016,3,martes,False,Primavera,12.8,19.4,0.0,6.1,False,False,34156,2232,36388,Sin lluvia,15-25 °C
+2016-03-09,2016,3,miércoles,False,Primavera,14.0,25.0,0.0,3.3,False,False,38144,3198,41342,Sin lluvia,15-25 °C
+2016-03-10,2016,3,jueves,False,Primavera,21.4,25.6,0.0,8.1,False,False,38504,3566,42070,Sin lluvia,> 25 °C
+2016-03-11,2016,3,viernes,False,Primavera,16.4,26.1,1.5,9.8,True,False,34306,3727,38033,Lluvia leve (<5 mm),> 25 °C
+2016-03-12,2016,3,sábado,True,Primavera,10.1,20.0,0.0,8.1,False,False,24279,8333,32612,Sin lluvia,15-25 °C
+2016-03-13,2016,3,domingo,True,Primavera,13.7,16.7,0.0,6.9,False,False,21114,6281,27395,Sin lluvia,15-25 °C
+2016-03-14,2016,3,lunes,False,Primavera,7.9,16.7,0.5,17.8,True,False,10450,456,10906,Lluvia leve (<5 mm),15-25 °C
+2016-03-15,2016,3,martes,False,Primavera,8.9,13.9,6.9,14.3,True,False,29506,2000,31506,Moderada (5-15 mm),5-15 °C
+2016-03-16,2016,3,miércoles,False,Primavera,12.5,18.3,0.0,4.8,True,False,33066,2855,35921,Sin lluvia,15-25 °C
+2016-03-17,2016,3,jueves,False,Primavera,11.1,18.3,0.5,8.1,False,False,32862,2387,35249,Lluvia leve (<5 mm),15-25 °C
+2016-03-18,2016,3,viernes,False,Primavera,11.1,17.2,0.0,13.1,False,False,31765,2769,34534,Sin lluvia,15-25 °C
+2016-03-19,2016,3,sábado,True,Primavera,5.7,13.9,0.0,7.6,False,False,19785,4151,23936,Sin lluvia,5-15 °C
+2016-03-20,2016,3,domingo,True,Primavera,3.2,7.8,0.0,16.3,False,False,14790,1811,16601,Sin lluvia,5-15 °C
+2016-03-21,2016,3,lunes,False,Primavera,3.7,10.0,3.3,11.9,False,True,24752,1599,26351,Lluvia leve (<5 mm),5-15 °C
+2016-03-22,2016,3,martes,False,Primavera,6.2,12.8,1.5,12.2,False,False,31107,2290,33397,Lluvia leve (<5 mm),5-15 °C
+2016-03-23,2016,3,miércoles,False,Primavera,13.9,21.7,0.0,10.9,False,False,37237,3589,40826,Sin lluvia,15-25 °C
+2016-03-24,2016,3,jueves,False,Primavera,9.9,21.7,0.0,14.8,False,False,32944,3428,36372,Sin lluvia,15-25 °C
+2016-03-25,2016,3,viernes,False,Primavera,14.3,22.2,0.0,5.9,True,False,29523,4418,33941,Sin lluvia,15-25 °C
+2016-03-26,2016,3,sábado,True,Primavera,7.9,22.2,1.0,10.7,False,False,19568,7689,27257,Lluvia leve (<5 mm),15-25 °C
+2016-03-27,2016,3,domingo,True,Primavera,7.6,12.8,0.0,7.8,False,False,16460,5900,22360,Sin lluvia,5-15 °C
+2016-03-28,2016,3,lunes,False,Primavera,8.4,16.7,3.6,12.4,True,False,18847,1446,20293,Lluvia leve (<5 mm),15-25 °C
+2016-03-29,2016,3,martes,False,Primavera,9.2,16.7,6.1,21.3,False,False,29159,2229,31388,Moderada (5-15 mm),15-25 °C
+2016-03-30,2016,3,miércoles,False,Primavera,6.9,13.3,0.0,9.1,False,False,31094,2481,33575,Sin lluvia,5-15 °C
+2016-03-31,2016,3,jueves,False,Primavera,14.7,22.2,0.0,11.3,False,False,35066,3141,38207,Sin lluvia,15-25 °C
+2016-04-01,2016,4,viernes,False,Primavera,19.6,26.1,0.3,8.9,True,False,31242,3073,34315,Lluvia leve (<5 mm),> 25 °C
+2016-04-02,2016,4,sábado,True,Primavera,13.0,20.6,0.3,6.1,True,False,18660,3068,21728,Lluvia leve (<5 mm),15-25 °C
+2016-04-03,2016,4,domingo,True,Primavera,5.0,10.6,6.3,19.3,True,True,13843,1408,15251,Moderada (5-15 mm),5-15 °C
+2016-04-04,2016,4,lunes,False,Primavera,4.3,10.0,0.3,8.9,True,True,12004,276,12280,Lluvia leve (<5 mm),5-15 °C
+2016-04-05,2016,4,martes,False,Primavera,0.6,5.6,11.7,14.6,False,False,25107,1059,26166,Moderada (5-15 mm),5-15 °C
+2016-04-06,2016,4,miércoles,False,Primavera,3.3,8.9,0.0,9.1,False,False,27984,1300,29284,Sin lluvia,5-15 °C
+2016-04-07,2016,4,jueves,False,Primavera,11.3,14.4,0.0,10.7,True,False,29440,880,30320,Sin lluvia,5-15 °C
+2016-04-08,2016,4,viernes,False,Primavera,8.5,14.4,2.3,12.4,False,False,29180,1530,30710,Lluvia leve (<5 mm),5-15 °C
+2016-04-09,2016,4,sábado,True,Primavera,4.4,10.0,0.3,9.1,True,False,11795,851,12646,Lluvia leve (<5 mm),5-15 °C
+2016-04-10,2016,4,domingo,True,Primavera,4.2,10.0,2.8,8.1,False,False,19257,3847,23104,Lluvia leve (<5 mm),5-15 °C
+2016-04-11,2016,4,lunes,False,Primavera,10.5,18.3,0.0,10.4,True,False,29960,2001,31961,Sin lluvia,15-25 °C
+2016-04-12,2016,4,martes,False,Primavera,12.2,18.3,1.0,9.8,True,False,22670,1039,23709,Lluvia leve (<5 mm),15-25 °C
+2016-04-13,2016,4,miércoles,False,Primavera,8.7,15.0,4.3,7.6,False,False,35019,2423,37442,Lluvia leve (<5 mm),5-15 °C
+2016-04-14,2016,4,jueves,False,Primavera,10.3,16.7,0.0,9.1,False,False,35671,2715,38386,Sin lluvia,15-25 °C
+2016-04-15,2016,4,viernes,False,Primavera,10.9,18.3,0.0,6.5,False,False,35813,3722,39535,Sin lluvia,15-25 °C
+2016-04-16,2016,4,sábado,True,Primavera,11.8,20.0,0.0,8.3,False,False,26803,9104,35907,Sin lluvia,15-25 °C
+2016-04-17,2016,4,domingo,True,Primavera,13.4,23.9,0.0,4.3,False,False,27225,11316,38541,Sin lluvia,15-25 °C
+2016-04-18,2016,4,lunes,False,Primavera,17.7,27.8,0.0,5.2,False,False,38628,5198,43826,Sin lluvia,> 25 °C
+2016-04-19,2016,4,martes,False,Primavera,19.1,27.8,0.0,11.9,False,False,41917,4026,45943,Sin lluvia,> 25 °C
+2016-04-20,2016,4,miércoles,False,Primavera,14.7,22.8,0.0,10.7,False,False,40330,4086,44416,Sin lluvia,15-25 °C
+2016-04-21,2016,4,jueves,False,Primavera,15.3,22.8,0.0,8.9,False,False,41087,4337,45424,Sin lluvia,15-25 °C
+2016-04-22,2016,4,viernes,False,Primavera,21.3,26.1,0.0,6.7,False,False,39001,9551,48552,Sin lluvia,> 25 °C
+2016-04-23,2016,4,sábado,True,Primavera,18.7,26.1,3.8,10.4,True,False,24224,9204,33428,Lluvia leve (<5 mm),> 25 °C
+2016-04-24,2016,4,domingo,True,Primavera,13.4,21.7,0.3,11.5,False,False,26671,10903,37574,Lluvia leve (<5 mm),15-25 °C
+2016-04-25,2016,4,lunes,False,Primavera,14.4,20.6,0.0,6.7,False,False,36585,5555,42140,Sin lluvia,15-25 °C
+2016-04-26,2016,4,martes,False,Primavera,12.7,20.6,4.3,9.6,True,False,31816,2724,34540,Lluvia leve (<5 mm),15-25 °C
+2016-04-27,2016,4,miércoles,False,Primavera,10.7,16.7,1.8,8.0,False,False,37326,4478,41804,Lluvia leve (<5 mm),15-25 °C
+2016-04-28,2016,4,jueves,False,Primavera,11.4,16.7,0.0,8.9,False,False,33655,3643,37298,Sin lluvia,15-25 °C
+2016-04-29,2016,4,viernes,False,Primavera,10.8,15.0,0.0,8.0,True,False,31179,3575,34754,Sin lluvia,5-15 °C
+2016-04-30,2016,4,sábado,True,Primavera,11.5,18.3,1.3,9.1,True,False,26784,11193,37977,Lluvia leve (<5 mm),15-25 °C
+2016-05-01,2016,5,domingo,True,Primavera,9.4,18.3,0.0,7.4,True,False,9489,1163,10652,Sin lluvia,15-25 °C
+2016-05-02,2016,5,lunes,False,Primavera,10.1,15.0,4.1,4.1,False,False,34711,3707,38418,Lluvia leve (<5 mm),5-15 °C
+2016-05-03,2016,5,martes,False,Primavera,11.8,15.6,15.0,9.4,True,False,21306,1486,22792,Moderada (5-15 mm),15-25 °C
+2016-05-04,2016,5,miércoles,False,Primavera,10.2,13.3,1.8,11.7,True,False,29418,2133,31551,Lluvia leve (<5 mm),5-15 °C
+2016-05-05,2016,5,jueves,False,Primavera,10.5,13.9,0.3,13.9,False,False,36601,3156,39757,Lluvia leve (<5 mm),5-15 °C
+2016-05-06,2016,5,viernes,False,Primavera,10.4,13.9,6.1,14.4,True,False,17759,1045,18804,Moderada (5-15 mm),5-15 °C
+2016-05-07,2016,5,sábado,True,Primavera,11.2,15.6,7.6,8.9,False,False,24622,6266,30888,Moderada (5-15 mm),15-25 °C
+2016-05-08,2016,5,domingo,True,Primavera,13.1,18.9,2.8,6.9,True,False,23624,7382,31006,Lluvia leve (<5 mm),15-25 °C
+2016-05-09,2016,5,lunes,False,Primavera,16.6,22.2,1.3,6.5,False,False,40660,4885,45545,Lluvia leve (<5 mm),15-25 °C
+2016-05-10,2016,5,martes,False,Primavera,14.2,22.2,0.0,8.3,False,False,41271,3439,44710,Sin lluvia,15-25 °C
+2016-05-11,2016,5,miércoles,False,Primavera,16.9,24.4,0.0,5.2,False,False,45994,5020,51014,Sin lluvia,15-25 °C
+2016-05-12,2016,5,jueves,False,Primavera,19.2,26.7,0.0,4.6,False,False,45864,6206,52070,Sin lluvia,> 25 °C
+2016-05-13,2016,5,viernes,False,Primavera,16.1,18.3,0.0,,False,False,29403,2843,32246,Sin lluvia,15-25 °C
+2016-05-14,2016,5,sábado,True,Primavera,17.5,22.0,6.3,,False,False,30545,11243,41788,Moderada (5-15 mm),15-25 °C
+2016-05-15,2016,5,domingo,True,Primavera,12.6,16.0,0.0,,False,False,22496,5981,28477,Sin lluvia,15-25 °C
+2016-05-16,2016,5,lunes,False,Primavera,11.4,19.0,0.0,,False,False,37677,4977,42654,Sin lluvia,15-25 °C
+2016-05-17,2016,5,martes,False,Primavera,15.1,18.0,0.0,6.5,False,False,39406,3851,43257,Sin lluvia,15-25 °C
+2016-05-18,2016,5,miércoles,False,Primavera,14.3,20.0,0.0,,False,False,40461,4208,44669,Sin lluvia,15-25 °C
+2016-05-19,2016,5,jueves,False,Primavera,15.7,22.8,0.0,2.2,False,False,44340,4689,49029,Sin lluvia,15-25 °C
+2016-05-20,2016,5,viernes,False,Primavera,17.4,24.4,0.0,5.7,False,False,45769,6575,52344,Sin lluvia,15-25 °C
+2016-05-21,2016,5,sábado,True,Primavera,16.5,24.4,0.0,5.7,True,False,24538,5838,30376,Sin lluvia,15-25 °C
+2016-05-22,2016,5,domingo,True,Primavera,15.4,21.1,3.3,6.9,True,False,28922,8717,37639,Lluvia leve (<5 mm),15-25 °C
+2016-05-23,2016,5,lunes,False,Primavera,18.0,25.6,2.3,3.5,True,False,43751,4694,48445,Lluvia leve (<5 mm),> 25 °C
+2016-05-24,2016,5,martes,False,Primavera,17.7,25.6,4.3,4.3,True,False,33007,1716,34723,Lluvia leve (<5 mm),> 25 °C
+2016-05-25,2016,5,miércoles,False,Primavera,22.9,31.1,0.8,5.6,False,False,49195,4093,53288,Lluvia leve (<5 mm),> 25 °C
+2016-05-26,2016,5,jueves,False,Primavera,26.3,32.2,0.0,6.1,False,False,47920,4062,51982,Sin lluvia,> 25 °C
+2016-05-27,2016,5,viernes,False,Primavera,25.6,32.2,0.0,5.7,False,False,42061,4719,46780,Sin lluvia,> 25 °C
+2016-05-28,2016,5,sábado,True,Primavera,26.4,32.2,0.0,8.1,False,False,24828,9180,34008,Sin lluvia,> 25 °C
+2016-05-29,2016,5,domingo,True,Primavera,25.5,33.3,0.0,7.8,False,False,23984,12614,36598,Sin lluvia,> 25 °C
+2016-05-30,2016,5,lunes,False,Primavera,22.8,30.6,41.9,4.8,True,False,24869,7597,32466,Fuerte (>15 mm),> 25 °C
+2016-05-31,2016,5,martes,False,Primavera,24.4,29.4,0.0,6.7,False,False,45688,3927,49615,Sin lluvia,> 25 °C
+2016-06-01,2016,6,miércoles,False,Verano,24.1,29.4,0.0,8.5,False,False,50596,3926,54522,Sin lluvia,> 25 °C
+2016-06-02,2016,6,jueves,False,Verano,20.2,28.3,0.0,8.1,False,False,50302,3963,54265,Sin lluvia,> 25 °C
+2016-06-03,2016,6,viernes,False,Verano,18.6,25.6,0.3,2.8,True,False,36460,2409,38869,Lluvia leve (<5 mm),> 25 °C
+2016-06-04,2016,6,sábado,True,Verano,22.4,28.3,0.8,3.9,True,False,31576,9202,40778,Lluvia leve (<5 mm),> 25 °C
+2016-06-05,2016,6,domingo,True,Verano,19.7,21.1,10.2,6.5,True,False,19737,2598,22335,Moderada (5-15 mm),15-25 °C
+2016-06-06,2016,6,lunes,False,Verano,22.6,28.3,23.1,8.3,False,False,47510,4549,52059,Fuerte (>15 mm),> 25 °C
+2016-06-07,2016,6,martes,False,Verano,24.7,29.4,0.0,8.1,False,False,48542,3190,51732,Sin lluvia,> 25 °C
+2016-06-08,2016,6,miércoles,False,Verano,16.6,29.4,0.0,11.5,True,False,40846,1357,42203,Sin lluvia,> 25 °C
+2016-06-09,2016,6,jueves,False,Verano,16.5,21.7,11.4,14.8,False,False,49318,3497,52815,Moderada (5-15 mm),15-25 °C
+2016-06-10,2016,6,viernes,False,Verano,19.0,25.0,0.0,10.6,False,False,48394,4789,53183,Sin lluvia,15-25 °C
+2016-06-11,2016,6,sábado,True,Verano,22.3,31.1,0.0,4.6,False,False,32599,8322,40921,Sin lluvia,> 25 °C
+2016-06-12,2016,6,domingo,True,Verano,26.3,31.1,0.0,10.4,False,False,31854,8657,40511,Sin lluvia,> 25 °C
+2016-06-13,2016,6,lunes,False,Verano,18.3,28.3,0.0,13.1,False,False,45495,3502,48997,Sin lluvia,> 25 °C
+2016-06-14,2016,6,martes,False,Verano,20.0,26.1,0.0,7.6,False,False,51189,3554,54743,Sin lluvia,> 25 °C
+2016-06-15,2016,6,miércoles,False,Verano,22.9,29.4,0.0,4.1,False,False,51383,3581,54964,Sin lluvia,> 25 °C
+2016-06-16,2016,6,jueves,False,Verano,21.4,29.4,5.1,2.8,True,False,43554,2588,46142,Moderada (5-15 mm),> 25 °C
+2016-06-17,2016,6,viernes,False,Verano,21.2,24.4,0.5,6.5,False,False,48045,6094,54139,Lluvia leve (<5 mm),15-25 °C
+2016-06-18,2016,6,sábado,True,Verano,21.8,30.6,0.0,5.2,False,False,33353,15365,48718,Sin lluvia,> 25 °C
+2016-06-19,2016,6,domingo,True,Verano,23.4,31.1,0.0,3.7,False,False,31146,13939,45085,Sin lluvia,> 25 °C
+2016-06-20,2016,6,lunes,False,Verano,22.7,31.1,0.0,5.4,False,False,48116,4049,52165,Sin lluvia,> 25 °C
+2016-06-21,2016,6,martes,False,Verano,26.2,30.6,0.0,8.0,True,False,50368,3120,53488,Sin lluvia,> 25 °C
+2016-06-22,2016,6,miércoles,False,Verano,25.1,30.6,0.0,7.6,False,False,52370,3273,55643,Sin lluvia,> 25 °C
+2016-06-23,2016,6,jueves,False,Verano,24.0,30.0,0.0,2.8,False,False,50190,2939,53129,Sin lluvia,> 25 °C
+2016-06-24,2016,6,viernes,False,Verano,23.7,28.9,0.0,8.9,False,False,49305,4796,54101,Sin lluvia,> 25 °C
+2016-06-25,2016,6,sábado,True,Verano,22.8,30.0,0.0,6.9,False,False,34166,8652,42818,Sin lluvia,> 25 °C
+2016-06-26,2016,6,domingo,True,Verano,23.7,30.0,0.0,2.6,False,False,33343,9508,42851,Sin lluvia,> 25 °C
+2016-06-27,2016,6,lunes,False,Verano,23.5,30.6,0.0,8.3,False,False,43191,3753,46944,Sin lluvia,> 25 °C
+2016-06-28,2016,6,martes,False,Verano,21.7,28.3,13.7,5.4,True,False,46915,2608,49523,Moderada (5-15 mm),> 25 °C
+2016-06-29,2016,6,miércoles,False,Verano,23.3,28.3,1.0,3.5,True,False,51363,3450,54813,Lluvia leve (<5 mm),> 25 °C
+2016-06-30,2016,6,jueves,False,Verano,24.3,29.4,0.3,4.1,False,False,50954,3827,54781,Lluvia leve (<5 mm),> 25 °C
+2016-07-01,2016,7,viernes,False,Verano,23.6,29.4,0.0,5.9,True,False,35409,4177,39586,Sin lluvia,> 25 °C
+2016-07-02,2016,7,sábado,True,Verano,21.3,26.1,21.1,8.5,True,False,24374,11334,35708,Fuerte (>15 mm),> 25 °C
+2016-07-03,2016,7,domingo,True,Verano,22.3,25.0,0.0,4.3,False,False,21384,13819,35203,Sin lluvia,15-25 °C
+2016-07-04,2016,7,lunes,False,Verano,23.4,28.3,0.0,6.3,False,False,22332,12384,34716,Sin lluvia,> 25 °C
+2016-07-05,2016,7,martes,False,Verano,24.1,30.0,29.2,4.3,True,False,39018,4648,43666,Fuerte (>15 mm),> 25 °C
+2016-07-06,2016,7,miércoles,False,Verano,28.5,32.8,16.8,4.3,False,False,46729,4560,51289,Fuerte (>15 mm),> 25 °C
+2016-07-07,2016,7,jueves,False,Verano,28.2,32.8,0.0,3.1,True,False,44735,3957,48692,Sin lluvia,> 25 °C
+2016-07-08,2016,7,viernes,False,Verano,26.2,29.4,1.0,6.7,True,False,40163,4179,44342,Lluvia leve (<5 mm),> 25 °C
+2016-07-09,2016,7,sábado,True,Verano,20.6,30.0,2.0,7.6,True,False,29750,8290,38040,Lluvia leve (<5 mm),> 25 °C
+2016-07-10,2016,7,domingo,True,Verano,21.9,26.7,13.5,6.7,True,False,31899,9971,41870,Moderada (5-15 mm),> 25 °C
+2016-07-11,2016,7,lunes,False,Verano,22.7,27.2,0.0,6.1,False,False,47545,5236,52781,Sin lluvia,> 25 °C
+2016-07-12,2016,7,martes,False,Verano,23.4,27.8,0.0,5.4,False,False,51360,5090,56450,Sin lluvia,> 25 °C
+2016-07-13,2016,7,miércoles,False,Verano,24.6,29.4,0.0,7.6,False,False,50441,4960,55401,Sin lluvia,> 25 °C
+2016-07-14,2016,7,jueves,False,Verano,25.9,31.1,0.0,5.6,True,False,45973,4269,50242,Sin lluvia,> 25 °C
+2016-07-15,2016,7,viernes,False,Verano,28.3,31.1,15.7,5.7,False,False,43303,5195,48498,Fuerte (>15 mm),> 25 °C
+2016-07-16,2016,7,sábado,True,Verano,27.6,32.2,0.0,7.0,False,False,28447,9838,38285,Sin lluvia,> 25 °C
+2016-07-17,2016,7,domingo,True,Verano,27.2,32.2,0.0,5.4,False,False,30066,11153,41219,Sin lluvia,> 25 °C
+2016-07-18,2016,7,lunes,False,Verano,27.7,33.3,0.0,8.1,True,False,39714,3893,43607,Sin lluvia,> 25 °C
+2016-07-19,2016,7,martes,False,Verano,25.4,33.9,8.9,8.3,False,False,49761,4748,54509,Moderada (5-15 mm),> 25 °C
+2016-07-20,2016,7,miércoles,False,Verano,24.7,29.4,0.0,5.7,False,False,51982,5139,57121,Sin lluvia,> 25 °C
+2016-07-21,2016,7,jueves,False,Verano,25.7,32.2,0.0,6.7,False,False,49829,4914,54743,Sin lluvia,> 25 °C
+2016-07-22,2016,7,viernes,False,Verano,28.2,34.4,0.0,10.7,False,False,44056,5058,49114,Sin lluvia,> 25 °C
+2016-07-23,2016,7,sábado,True,Verano,30.7,35.6,0.0,9.3,False,False,28232,9173,37405,Sin lluvia,> 25 °C
+2016-07-24,2016,7,domingo,True,Verano,28.9,35.6,0.0,5.6,False,False,29435,10104,39539,Sin lluvia,> 25 °C
+2016-07-25,2016,7,lunes,False,Verano,27.9,34.4,0.0,6.1,True,False,31677,3644,35321,Sin lluvia,> 25 °C
+2016-07-26,2016,7,martes,False,Verano,26.1,33.9,25.4,6.9,True,False,48175,4654,52829,Fuerte (>15 mm),> 25 °C
+2016-07-27,2016,7,miércoles,False,Verano,28.1,32.8,0.0,4.3,False,False,49369,4717,54086,Sin lluvia,> 25 °C
+2016-07-28,2016,7,jueves,False,Verano,28.4,35.0,0.0,4.4,True,False,45645,4418,50063,Sin lluvia,> 25 °C
+2016-07-29,2016,7,viernes,False,Verano,24.5,35.0,23.9,7.4,True,False,33140,4515,37655,Fuerte (>15 mm),> 25 °C
+2016-07-30,2016,7,sábado,True,Verano,25.0,29.4,3.8,5.6,True,False,21201,6480,27681,Lluvia leve (<5 mm),> 25 °C
+2016-07-31,2016,7,domingo,True,Verano,23.8,28.9,6.6,6.1,True,False,22101,5498,27599,Moderada (5-15 mm),> 25 °C
+2016-08-01,2016,8,lunes,False,Verano,22.7,26.7,27.2,10.0,True,False,44632,4688,49320,Fuerte (>15 mm),> 25 °C
+2016-08-02,2016,8,martes,False,Verano,22.8,26.7,0.0,11.3,False,False,50896,5793,56689,Sin lluvia,> 25 °C
+2016-08-03,2016,8,miércoles,False,Verano,21.9,26.7,0.0,4.8,False,False,50852,6059,56911,Sin lluvia,> 25 °C
+2016-08-04,2016,8,jueves,False,Verano,22.7,27.2,0.0,3.3,False,False,50501,6016,56517,Sin lluvia,> 25 °C
+2016-08-05,2016,8,viernes,False,Verano,23.6,28.3,0.0,5.9,False,False,46560,6647,53207,Sin lluvia,> 25 °C
+2016-08-06,2016,8,sábado,True,Verano,25.6,30.6,0.0,8.3,True,False,31103,12956,44059,Sin lluvia,> 25 °C
+2016-08-07,2016,8,domingo,True,Verano,26.1,30.6,1.3,5.9,False,False,30772,12738,43510,Lluvia leve (<5 mm),> 25 °C
+2016-08-08,2016,8,lunes,False,Verano,25.9,30.0,0.0,3.1,False,False,46145,6026,52171,Sin lluvia,> 25 °C
+2016-08-09,2016,8,martes,False,Verano,25.7,30.6,0.0,3.3,False,False,50134,5903,56037,Sin lluvia,> 25 °C
+2016-08-10,2016,8,miércoles,False,Verano,26.5,30.6,0.3,6.3,True,False,45628,4412,50040,Lluvia leve (<5 mm),> 25 °C
+2016-08-11,2016,8,jueves,False,Verano,29.1,32.8,2.0,8.0,True,False,42971,4379,47350,Lluvia leve (<5 mm),> 25 °C
+2016-08-12,2016,8,viernes,False,Verano,28.0,33.9,11.9,7.4,True,False,39852,4815,44667,Moderada (5-15 mm),> 25 °C
+2016-08-13,2016,8,sábado,True,Verano,30.5,35.6,8.1,7.6,False,False,28073,10738,38811,Moderada (5-15 mm),> 25 °C
+2016-08-14,2016,8,domingo,True,Verano,31.0,35.6,0.0,6.5,True,False,25558,7302,32860,Sin lluvia,> 25 °C
+2016-08-15,2016,8,lunes,False,Verano,28.1,34.4,1.5,5.0,False,False,43701,5281,48982,Lluvia leve (<5 mm),> 25 °C
+2016-08-16,2016,8,martes,False,Verano,28.1,33.3,0.0,4.8,True,False,45641,4712,50353,Sin lluvia,> 25 °C
+2016-08-17,2016,8,miércoles,False,Verano,27.1,30.6,3.0,10.7,True,False,48835,5082,53917,Lluvia leve (<5 mm),> 25 °C
+2016-08-18,2016,8,jueves,False,Verano,26.0,29.4,0.8,3.3,True,False,47744,5397,53141,Lluvia leve (<5 mm),> 25 °C
+2016-08-19,2016,8,viernes,False,Verano,26.7,31.1,0.0,3.1,False,False,45244,6329,51573,Sin lluvia,> 25 °C
+2016-08-20,2016,8,sábado,True,Verano,24.8,28.3,0.3,7.2,True,False,31621,14034,45655,Lluvia leve (<5 mm),> 25 °C
+2016-08-21,2016,8,domingo,True,Verano,25.6,30.0,20.8,5.6,True,False,25943,9005,34948,Fuerte (>15 mm),> 25 °C
+2016-08-22,2016,8,lunes,False,Verano,23.2,30.0,7.9,9.8,False,False,48293,6040,54333,Moderada (5-15 mm),> 25 °C
+2016-08-23,2016,8,martes,False,Verano,21.8,27.8,0.0,3.5,False,False,52565,6027,58592,Sin lluvia,> 25 °C
+2016-08-24,2016,8,miércoles,False,Verano,24.9,31.0,0.0,3.9,False,False,52478,5585,58063,Sin lluvia,> 25 °C
+2016-08-25,2016,8,jueves,False,Verano,25.4,30.0,0.0,,False,False,48247,5147,53394,Sin lluvia,> 25 °C
+2016-08-26,2016,8,viernes,False,Verano,28.0,32.0,0.3,,False,False,45868,6080,51948,Lluvia leve (<5 mm),> 25 °C
+2016-08-27,2016,8,sábado,True,Verano,26.8,31.1,0.0,6.7,False,False,33559,11974,45533,Sin lluvia,> 25 °C
+2016-08-28,2016,8,domingo,True,Verano,25.8,31.7,0.0,3.3,False,False,32644,11865,44509,Sin lluvia,> 25 °C
+2016-08-29,2016,8,lunes,False,Verano,27.0,32.8,0.0,7.2,False,False,47639,5581,53220,Sin lluvia,> 25 °C
+2016-08-30,2016,8,martes,False,Verano,25.0,32.8,0.0,6.9,False,False,52319,5000,57319,Sin lluvia,> 25 °C
+2016-08-31,2016,8,miércoles,False,Verano,26.1,31.7,0.0,4.6,False,False,52363,4784,57147,Sin lluvia,> 25 °C
+2016-09-01,2016,9,jueves,False,Otoño,23.3,31.7,1.0,3.0,True,False,35504,2619,38123,Lluvia leve (<5 mm),> 25 °C
+2016-09-02,2016,9,viernes,False,Otoño,22.6,27.2,11.7,8.7,False,False,45257,7657,52914,Moderada (5-15 mm),> 25 °C
+2016-09-03,2016,9,sábado,True,Otoño,21.8,27.2,0.0,10.9,False,False,27514,14001,41515,Sin lluvia,> 25 °C
+2016-09-04,2016,9,domingo,True,Otoño,21.6,26.7,0.0,10.9,False,False,28086,17767,45853,Sin lluvia,> 25 °C
+2016-09-05,2016,9,lunes,False,Otoño,22.7,28.9,0.0,10.9,False,False,31558,13763,45321,Sin lluvia,> 25 °C
+2016-09-06,2016,9,martes,False,Otoño,24.8,28.9,0.0,16.3,False,False,47850,4547,52397,Sin lluvia,> 25 °C
+2016-09-07,2016,9,miércoles,False,Otoño,24.4,29.4,0.0,13.0,False,False,55562,4846,60408,Sin lluvia,> 25 °C
+2016-09-08,2016,9,jueves,False,Otoño,25.7,31.7,0.0,3.7,False,False,55929,5605,61534,Sin lluvia,> 25 °C
+2016-09-09,2016,9,viernes,False,Otoño,29.4,32.8,0.0,5.9,False,False,51344,5366,56710,Sin lluvia,> 25 °C
+2016-09-10,2016,9,sábado,True,Otoño,27.3,32.8,5.6,6.3,True,False,37346,10989,48335,Moderada (5-15 mm),> 25 °C
+2016-09-11,2016,9,domingo,True,Otoño,26.3,32.2,0.0,9.4,False,False,40126,11969,52095,Sin lluvia,> 25 °C
+2016-09-12,2016,9,lunes,False,Otoño,20.8,28.3,0.0,7.8,False,False,54876,6141,61017,Sin lluvia,> 25 °C
+2016-09-13,2016,9,martes,False,Otoño,21.6,28.3,0.0,5.0,False,False,59617,5119,64736,Sin lluvia,> 25 °C
+2016-09-14,2016,9,miércoles,False,Otoño,24.3,32.8,0.0,8.0,True,False,54401,4702,59103,Sin lluvia,> 25 °C
+2016-09-15,2016,9,jueves,False,Otoño,20.0,22.8,14.2,9.3,False,False,61600,5623,67223,Moderada (5-15 mm),15-25 °C
+2016-09-16,2016,9,viernes,False,Otoño,19.0,23.3,0.0,4.1,False,False,58205,6980,65185,Sin lluvia,15-25 °C
+2016-09-17,2016,9,sábado,True,Otoño,19.5,25.0,0.0,4.8,False,False,44571,14457,59028,Sin lluvia,15-25 °C
+2016-09-18,2016,9,domingo,True,Otoño,23.5,27.8,0.0,5.7,False,False,40300,11276,51576,Sin lluvia,> 25 °C
+2016-09-19,2016,9,lunes,False,Otoño,22.6,27.8,6.1,4.6,True,False,32286,1891,34177,Moderada (5-15 mm),> 25 °C
+2016-09-20,2016,9,martes,False,Otoño,22.7,27.8,11.2,3.9,False,False,59732,5070,64802,Moderada (5-15 mm),> 25 °C
+2016-09-21,2016,9,miércoles,False,Otoño,24.1,28.9,0.0,5.6,False,False,60212,5162,65374,Sin lluvia,> 25 °C
+2016-09-22,2016,9,jueves,False,Otoño,23.4,30.0,0.0,3.9,False,False,62044,5693,67737,Sin lluvia,> 25 °C
+2016-09-23,2016,9,viernes,False,Otoño,23.3,30.6,0.0,2.4,False,False,58765,6661,65426,Sin lluvia,> 25 °C
+2016-09-24,2016,9,sábado,True,Otoño,18.8,30.6,5.3,8.7,True,False,41201,11943,53144,Moderada (5-15 mm),> 25 °C
+2016-09-25,2016,9,domingo,True,Otoño,16.3,21.7,5.1,5.0,False,False,41087,12328,53415,Moderada (5-15 mm),15-25 °C
+2016-09-26,2016,9,lunes,False,Otoño,17.3,23.3,0.0,5.9,False,False,55702,5611,61313,Sin lluvia,15-25 °C
+2016-09-27,2016,9,martes,False,Otoño,20.1,23.3,5.6,6.1,True,False,56672,4602,61274,Moderada (5-15 mm),15-25 °C
+2016-09-28,2016,9,miércoles,False,Otoño,18.0,23.3,0.0,10.6,False,False,55947,3437,59384,Sin lluvia,15-25 °C
+2016-09-29,2016,9,jueves,False,Otoño,15.9,20.6,0.0,16.3,False,False,52469,3053,55522,Sin lluvia,15-25 °C
+2016-09-30,2016,9,viernes,False,Otoño,14.8,17.8,0.0,16.7,True,False,20728,622,21350,Sin lluvia,15-25 °C
+2017-04-01,2017,4,sábado,True,Primavera,4.6,8.9,30.2,19.1,True,False,21864,1925,23789,Fuerte (>15 mm),5-15 °C
+2017-04-02,2017,4,domingo,True,Primavera,9.9,17.2,0.0,8.9,False,False,30663,8960,39623,Sin lluvia,15-25 °C
+2017-04-03,2017,4,lunes,False,Primavera,12.9,17.2,0.0,6.3,False,False,40557,2845,43402,Sin lluvia,15-25 °C
+2017-04-04,2017,4,martes,False,Primavera,9.5,17.2,30.5,11.5,True,False,29351,611,29962,Fuerte (>15 mm),15-25 °C
+2017-04-05,2017,4,miércoles,False,Primavera,10.7,18.3,0.3,4.8,False,False,44373,3176,47549,Lluvia leve (<5 mm),15-25 °C
+2017-04-06,2017,4,jueves,False,Primavera,6.7,11.1,0.5,14.3,True,False,17810,193,18003,Lluvia leve (<5 mm),5-15 °C
+2017-04-07,2017,4,viernes,False,Primavera,8.7,11.7,18.0,15.7,False,False,34568,1163,35731,Fuerte (>15 mm),5-15 °C
+2017-04-08,2017,4,sábado,True,Primavera,7.7,13.9,0.0,15.7,False,False,29324,6519,35843,Sin lluvia,5-15 °C
+2017-04-09,2017,4,domingo,True,Primavera,11.8,19.4,0.0,8.0,False,False,32617,11099,43716,Sin lluvia,15-25 °C
+2017-04-10,2017,4,lunes,False,Primavera,16.9,23.3,0.0,9.1,False,False,44322,6000,50322,Sin lluvia,15-25 °C
+2017-04-11,2017,4,martes,False,Primavera,20.8,26.7,0.0,10.6,False,False,49452,7704,57156,Sin lluvia,> 25 °C
+2017-04-12,2017,4,miércoles,False,Primavera,18.4,26.7,0.0,4.1,True,False,47026,4087,51113,Sin lluvia,> 25 °C
+2017-04-13,2017,4,jueves,False,Primavera,14.1,24.4,0.5,7.6,False,False,46174,6632,52806,Lluvia leve (<5 mm),15-25 °C
+2017-04-14,2017,4,viernes,False,Primavera,13.6,18.9,0.0,5.9,False,False,42434,9679,52113,Sin lluvia,15-25 °C
+2017-04-15,2017,4,sábado,True,Primavera,13.8,18.9,0.0,7.8,False,False,30480,11912,42392,Sin lluvia,15-25 °C
+2017-04-16,2017,4,domingo,True,Primavera,21.2,30.6,0.0,11.1,True,False,30971,16888,47859,Sin lluvia,> 25 °C
+2017-04-17,2017,4,lunes,False,Primavera,20.7,30.6,0.0,11.3,False,False,46382,6753,53135,Sin lluvia,> 25 °C
+2017-04-18,2017,4,martes,False,Primavera,14.1,23.3,0.0,10.7,False,False,48343,5373,53716,Sin lluvia,15-25 °C
+2017-04-19,2017,4,miércoles,False,Primavera,8.9,19.4,0.0,12.0,True,False,43339,2395,45734,Sin lluvia,15-25 °C
+2017-04-20,2017,4,jueves,False,Primavera,12.6,18.9,3.3,4.4,True,False,41200,3010,44210,Lluvia leve (<5 mm),15-25 °C
+2017-04-21,2017,4,viernes,False,Primavera,10.8,18.9,7.9,12.2,True,False,37054,2754,39808,Moderada (5-15 mm),15-25 °C
+2017-04-22,2017,4,sábado,True,Primavera,11.0,13.9,0.5,7.0,True,False,25255,9225,34480,Lluvia leve (<5 mm),5-15 °C
+2017-04-23,2017,4,domingo,True,Primavera,12.1,18.9,2.8,8.0,False,False,36744,12205,48949,Lluvia leve (<5 mm),15-25 °C
+2017-04-24,2017,4,lunes,False,Primavera,12.3,18.9,0.0,5.0,False,False,44745,3866,48611,Sin lluvia,15-25 °C
+2017-04-25,2017,4,martes,False,Primavera,11.0,15.6,0.3,18.1,True,False,19515,785,20300,Lluvia leve (<5 mm),15-25 °C
+2017-04-26,2017,4,miércoles,False,Primavera,12.8,15.6,30.5,12.6,True,False,35784,1898,37682,Fuerte (>15 mm),15-25 °C
+2017-04-27,2017,4,jueves,False,Primavera,16.3,21.1,1.0,3.1,False,False,47510,4433,51943,Lluvia leve (<5 mm),15-25 °C
+2017-04-28,2017,4,viernes,False,Primavera,19.2,29.4,0.0,4.6,True,False,53562,8506,62068,Sin lluvia,> 25 °C
+2017-04-29,2017,4,sábado,True,Primavera,23.9,29.4,1.5,7.8,True,False,41208,16260,57468,Lluvia leve (<5 mm),> 25 °C
+2017-04-30,2017,4,domingo,True,Primavera,17.0,29.4,0.0,10.0,False,False,32852,9953,42805,Sin lluvia,> 25 °C
+2017-05-01,2017,5,lunes,False,Primavera,14.0,23.3,0.0,7.8,False,False,49394,6716,56110,Sin lluvia,15-25 °C
+2017-05-02,2017,5,martes,False,Primavera,20.7,23.3,0.0,12.4,False,False,54707,6386,61093,Sin lluvia,15-25 °C
+2017-05-03,2017,5,miércoles,False,Primavera,16.3,23.9,0.0,15.0,False,False,53623,5533,59156,Sin lluvia,15-25 °C
+2017-05-04,2017,5,jueves,False,Primavera,12.8,18.3,0.0,8.3,False,False,51921,5409,57330,Sin lluvia,15-25 °C
+2017-05-05,2017,5,viernes,False,Primavera,12.1,17.8,0.5,10.6,True,False,23019,957,23976,Lluvia leve (<5 mm),15-25 °C
+2017-05-06,2017,5,sábado,True,Primavera,15.4,19.4,80.8,8.0,True,False,37482,9014,46496,Fuerte (>15 mm),15-25 °C
+2017-05-07,2017,5,domingo,True,Primavera,11.4,15.0,4.6,8.3,True,False,28083,6117,34200,Lluvia leve (<5 mm),5-15 °C
+2017-05-08,2017,5,lunes,False,Primavera,10.2,13.9,0.3,10.9,False,False,47249,4222,51471,Lluvia leve (<5 mm),5-15 °C
+2017-05-09,2017,5,martes,False,Primavera,11.8,17.2,0.0,7.6,False,False,52522,3853,56375,Sin lluvia,15-25 °C
+2017-05-10,2017,5,miércoles,False,Primavera,13.8,21.1,0.0,5.2,False,False,53985,4365,58350,Sin lluvia,15-25 °C
+2017-05-11,2017,5,jueves,False,Primavera,11.9,16.1,0.0,5.2,False,False,52751,4381,57132,Sin lluvia,15-25 °C
+2017-05-12,2017,5,viernes,False,Primavera,12.3,18.3,0.0,6.5,False,False,51156,5407,56563,Sin lluvia,15-25 °C
+2017-05-13,2017,5,sábado,True,Primavera,10.3,18.3,2.8,11.7,True,False,5350,333,5683,Lluvia leve (<5 mm),15-25 °C
+2017-05-14,2017,5,domingo,True,Primavera,11.6,18.3,38.1,9.8,True,False,31375,7232,38607,Fuerte (>15 mm),15-25 °C
+2017-05-15,2017,5,lunes,False,Primavera,15.1,20.0,0.5,14.6,False,False,50527,4122,54649,Lluvia leve (<5 mm),15-25 °C
+2017-05-16,2017,5,martes,False,Primavera,19.0,26.1,0.0,8.3,False,False,58528,5850,64378,Sin lluvia,> 25 °C
+2017-05-17,2017,5,miércoles,False,Primavera,24.4,32.2,0.0,7.8,False,False,59961,5705,65666,Sin lluvia,> 25 °C
+2017-05-18,2017,5,jueves,False,Primavera,28.4,33.3,0.0,8.5,False,False,57513,6109,63622,Sin lluvia,> 25 °C
+2017-05-19,2017,5,viernes,False,Primavera,28.3,33.3,0.0,8.7,False,False,55110,6905,62015,Sin lluvia,> 25 °C
+2017-05-20,2017,5,sábado,True,Primavera,17.4,32.8,0.3,9.6,True,False,37025,10670,47695,Lluvia leve (<5 mm),> 25 °C
+2017-05-21,2017,5,domingo,True,Primavera,15.2,20.6,0.0,4.8,False,False,40063,14620,54683,Sin lluvia,15-25 °C
+2017-05-22,2017,5,lunes,False,Primavera,13.7,16.1,3.3,5.0,True,False,23731,862,24593,Lluvia leve (<5 mm),15-25 °C
+2017-05-23,2017,5,martes,False,Primavera,16.8,20.6,11.7,4.3,False,False,55297,4648,59945,Moderada (5-15 mm),15-25 °C
+2017-05-24,2017,5,miércoles,False,Primavera,16.8,20.6,1.0,5.9,True,False,55541,4989,60530,Lluvia leve (<5 mm),15-25 °C
+2017-05-25,2017,5,jueves,False,Primavera,14.2,20.6,2.0,12.6,True,False,16929,544,17473,Lluvia leve (<5 mm),15-25 °C
+2017-05-26,2017,5,viernes,False,Primavera,16.7,22.8,15.2,10.2,True,False,46967,6697,53664,Fuerte (>15 mm),15-25 °C
+2017-05-27,2017,5,sábado,True,Primavera,19.0,22.8,2.5,5.9,False,False,30815,15528,46343,Lluvia leve (<5 mm),15-25 °C
+2017-05-28,2017,5,domingo,True,Primavera,17.7,21.7,0.0,6.1,False,False,28902,17610,46512,Sin lluvia,15-25 °C
+2017-05-29,2017,5,lunes,False,Primavera,14.6,17.2,2.3,8.3,True,False,21834,4418,26252,Lluvia leve (<5 mm),15-25 °C
+2017-05-30,2017,5,martes,False,Primavera,13.9,16.1,1.0,4.3,True,False,46643,3467,50110,Lluvia leve (<5 mm),15-25 °C
+2017-05-31,2017,5,miércoles,False,Primavera,17.3,23.9,2.3,3.3,True,False,54250,5161,59411,Lluvia leve (<5 mm),15-25 °C
+2017-06-01,2017,6,jueves,False,Verano,20.2,26.1,0.8,5.7,True,False,60863,6405,67268,Lluvia leve (<5 mm),> 25 °C
+2017-06-02,2017,6,viernes,False,Verano,20.0,23.9,0.0,7.4,False,False,59172,7606,66778,Sin lluvia,15-25 °C
+2017-06-03,2017,6,sábado,True,Verano,17.9,22.2,0.5,5.7,True,False,42412,13668,56080,Lluvia leve (<5 mm),15-25 °C
+2017-06-04,2017,6,domingo,True,Verano,17.4,22.8,0.3,3.0,True,False,32103,7907,40010,Lluvia leve (<5 mm),15-25 °C
+2017-06-05,2017,6,lunes,False,Verano,16.9,21.1,2.8,6.7,True,False,50985,4819,55804,Lluvia leve (<5 mm),15-25 °C
+2017-06-06,2017,6,martes,False,Verano,13.8,17.2,0.3,11.1,True,False,39330,1888,41218,Lluvia leve (<5 mm),15-25 °C
+2017-06-07,2017,6,miércoles,False,Verano,14.3,19.4,1.3,8.7,False,False,59245,5097,64342,Lluvia leve (<5 mm),15-25 °C
+2017-06-08,2017,6,jueves,False,Verano,16.7,20.6,0.0,4.6,False,False,56831,5724,62555,Sin lluvia,15-25 °C
+2017-06-09,2017,6,viernes,False,Verano,18.9,26.7,0.0,7.6,False,False,58521,7827,66348,Sin lluvia,> 25 °C
+2017-06-10,2017,6,sábado,True,Verano,24.3,29.4,0.0,6.1,False,False,42797,14068,56865,Sin lluvia,> 25 °C
+2017-06-11,2017,6,domingo,True,Verano,27.4,32.2,0.0,7.4,False,False,39174,12061,51235,Sin lluvia,> 25 °C
+2017-06-12,2017,6,lunes,False,Verano,28.9,33.9,0.0,7.2,False,False,52265,5508,57773,Sin lluvia,> 25 °C
+2017-06-13,2017,6,martes,False,Verano,30.0,34.4,0.0,5.2,False,False,56227,4603,60830,Sin lluvia,> 25 °C
+2017-06-14,2017,6,miércoles,False,Verano,25.2,34.4,6.9,8.0,True,False,55425,4986,60411,Moderada (5-15 mm),> 25 °C
+2017-06-15,2017,6,jueves,False,Verano,21.2,24.4,0.5,6.1,False,False,58734,5898,64632,Lluvia leve (<5 mm),15-25 °C
+2017-06-16,2017,6,viernes,False,Verano,18.9,24.4,0.0,8.5,False,False,51547,4740,56287,Sin lluvia,15-25 °C
+2017-06-17,2017,6,sábado,True,Verano,20.4,23.3,0.0,4.6,True,False,28354,6414,34768,Sin lluvia,15-25 °C
+2017-06-18,2017,6,domingo,True,Verano,24.4,29.4,35.3,4.6,False,False,38150,11117,49267,Fuerte (>15 mm),> 25 °C
+2017-06-19,2017,6,lunes,False,Verano,26.3,30.6,0.0,6.3,True,False,34900,3317,38217,Sin lluvia,> 25 °C
+2017-06-20,2017,6,martes,False,Verano,24.1,31.1,35.1,7.8,True,False,59370,5143,64513,Fuerte (>15 mm),> 25 °C
+2017-06-21,2017,6,miércoles,False,Verano,25.3,28.3,0.8,7.8,False,False,61756,5327,67083,Lluvia leve (<5 mm),> 25 °C
+2017-06-22,2017,6,jueves,False,Verano,24.3,28.3,0.0,3.5,False,False,60211,5943,66154,Sin lluvia,> 25 °C
+2017-06-23,2017,6,viernes,False,Verano,26.5,28.3,0.0,7.0,True,False,49770,5453,55223,Sin lluvia,> 25 °C
+2017-06-24,2017,6,sábado,True,Verano,25.4,28.9,29.5,9.3,True,False,39466,12506,51972,Fuerte (>15 mm),> 25 °C
+2017-06-25,2017,6,domingo,True,Verano,24.5,28.9,4.3,3.9,False,False,40668,13751,54419,Lluvia leve (<5 mm),> 25 °C
+2017-06-26,2017,6,lunes,False,Verano,22.4,28.3,0.0,6.5,False,False,55489,7040,62529,Sin lluvia,> 25 °C
+2017-06-27,2017,6,martes,False,Verano,21.1,26.1,4.6,4.4,True,False,58908,5731,64639,Lluvia leve (<5 mm),> 25 °C
+2017-06-28,2017,6,miércoles,False,Verano,20.9,25.6,0.0,8.0,False,False,61578,6020,67598,Sin lluvia,> 25 °C
+2017-06-29,2017,6,jueves,False,Verano,23.7,27.8,0.0,8.5,False,False,58744,5408,64152,Sin lluvia,> 25 °C
+2017-06-30,2017,6,viernes,False,Verano,26.3,31.1,0.0,9.1,False,False,52362,6157,58519,Sin lluvia,> 25 °C
+2017-07-01,2017,7,sábado,True,Verano,26.1,29.4,0.0,7.4,True,False,27348,9229,36577,Sin lluvia,> 25 °C
+2017-07-02,2017,7,domingo,True,Verano,25.4,30.6,5.8,7.2,False,False,28182,14599,42781,Moderada (5-15 mm),> 25 °C
+2017-07-03,2017,7,lunes,False,Verano,26.9,31.1,0.0,5.0,True,False,36584,11415,47999,Sin lluvia,> 25 °C
+2017-07-04,2017,7,martes,False,Verano,24.8,31.1,11.4,4.4,False,False,33883,15761,49644,Moderada (5-15 mm),> 25 °C
+2017-07-05,2017,7,miércoles,False,Verano,24.8,29.4,0.0,7.2,False,False,53213,6956,60169,Sin lluvia,> 25 °C
+2017-07-06,2017,7,jueves,False,Verano,22.7,29.4,0.0,5.9,False,False,55971,6049,62020,Sin lluvia,> 25 °C
+2017-07-07,2017,7,viernes,False,Verano,22.7,26.7,0.5,8.3,True,False,40046,3932,43978,Lluvia leve (<5 mm),> 25 °C
+2017-07-08,2017,7,sábado,True,Verano,24.3,28.9,44.7,5.9,True,False,41803,13033,54836,Fuerte (>15 mm),> 25 °C
+2017-07-09,2017,7,domingo,True,Verano,24.0,28.9,0.0,5.7,False,False,42812,14090,56902,Sin lluvia,> 25 °C
+2017-07-10,2017,7,lunes,False,Verano,24.6,28.9,0.0,5.4,False,False,55270,5520,60790,Sin lluvia,> 25 °C
+2017-07-11,2017,7,martes,False,Verano,26.0,29.4,0.0,5.4,False,False,56962,4601,61563,Sin lluvia,> 25 °C
+2017-07-12,2017,7,miércoles,False,Verano,27.9,31.1,0.0,6.7,False,False,57273,4421,61694,Sin lluvia,> 25 °C
+2017-07-13,2017,7,jueves,False,Verano,28.3,32.2,0.0,8.5,True,False,51973,4376,56349,Sin lluvia,> 25 °C
+2017-07-14,2017,7,viernes,False,Verano,20.9,32.2,0.3,7.4,True,False,29807,1973,31780,Lluvia leve (<5 mm),> 25 °C
+2017-07-15,2017,7,sábado,True,Verano,23.2,28.9,8.6,6.3,False,False,42429,13865,56294,Moderada (5-15 mm),> 25 °C
+2017-07-16,2017,7,domingo,True,Verano,24.9,30.6,0.0,4.6,False,False,42293,14312,56605,Sin lluvia,> 25 °C
+2017-07-17,2017,7,lunes,False,Verano,25.7,30.6,0.0,3.9,False,False,56547,5885,62432,Sin lluvia,> 25 °C
+2017-07-18,2017,7,martes,False,Verano,26.4,31.1,0.0,3.5,False,False,60340,5756,66096,Sin lluvia,> 25 °C
+2017-07-19,2017,7,miércoles,False,Verano,28.4,33.3,0.0,6.5,False,False,58241,5554,63795,Sin lluvia,> 25 °C
+2017-07-20,2017,7,jueves,False,Verano,29.8,34.4,0.0,3.9,False,False,54500,5043,59543,Sin lluvia,> 25 °C
+2017-07-21,2017,7,viernes,False,Verano,28.1,34.4,0.3,5.7,True,False,53600,6333,59933,Lluvia leve (<5 mm),> 25 °C
+2017-07-22,2017,7,sábado,True,Verano,28.8,33.3,0.0,4.6,True,False,36440,11399,47839,Sin lluvia,> 25 °C
+2017-07-23,2017,7,domingo,True,Verano,23.7,33.3,15.7,3.7,True,False,36082,10710,46792,Fuerte (>15 mm),> 25 °C
+2017-07-24,2017,7,lunes,False,Verano,20.7,26.1,9.1,10.6,True,False,40604,3103,43707,Moderada (5-15 mm),> 25 °C
+2017-07-25,2017,7,martes,False,Verano,18.8,22.8,9.9,8.7,False,False,59970,5263,65233,Moderada (5-15 mm),15-25 °C
+2017-07-26,2017,7,miércoles,False,Verano,20.9,25.0,0.0,7.4,False,False,63548,6634,70182,Sin lluvia,15-25 °C
+2017-07-27,2017,7,jueves,False,Verano,21.6,25.6,0.0,4.4,True,False,60065,5598,65663,Sin lluvia,> 25 °C
+2017-07-28,2017,7,viernes,False,Verano,24.9,29.4,0.0,2.4,False,False,56657,7111,63768,Sin lluvia,> 25 °C
+2017-07-29,2017,7,sábado,True,Verano,22.7,29.4,0.0,15.2,False,False,40271,12541,52812,Sin lluvia,> 25 °C
+2017-07-30,2017,7,domingo,True,Verano,22.4,27.8,0.0,8.1,False,False,42412,16739,59151,Sin lluvia,> 25 °C
+2017-07-31,2017,7,lunes,False,Verano,24.5,31.1,0.0,3.5,False,False,57115,7008,64123,Sin lluvia,> 25 °C
+2017-08-01,2017,8,martes,False,Verano,26.8,33.3,0.0,3.3,False,False,60700,5841,66541,Sin lluvia,> 25 °C
+2017-08-02,2017,8,miércoles,False,Verano,25.3,33.3,0.0,3.1,True,False,49656,6391,56047,Sin lluvia,> 25 °C
+2017-08-03,2017,8,jueves,False,Verano,24.0,30.6,2.3,2.6,False,False,59886,6119,66005,Lluvia leve (<5 mm),> 25 °C
+2017-08-04,2017,8,viernes,False,Verano,24.9,30.6,3.8,5.7,True,False,49598,6689,56287,Lluvia leve (<5 mm),> 25 °C
+2017-08-05,2017,8,sábado,True,Verano,23.7,28.9,7.6,7.6,True,False,42544,16249,58793,Moderada (5-15 mm),> 25 °C
+2017-08-06,2017,8,domingo,True,Verano,21.2,25.6,0.0,7.0,False,False,40447,15836,56283,Sin lluvia,> 25 °C
+2017-08-07,2017,8,lunes,False,Verano,20.0,24.4,0.0,4.4,True,False,22383,977,23360,Sin lluvia,15-25 °C
+2017-08-08,2017,8,martes,False,Verano,20.8,25.6,19.3,4.4,True,False,59389,5726,65115,Fuerte (>15 mm),> 25 °C
+2017-08-09,2017,8,miércoles,False,Verano,23.3,29.4,0.0,2.0,False,False,61251,6476,67727,Sin lluvia,> 25 °C
+2017-08-10,2017,8,jueves,False,Verano,24.1,29.4,0.0,3.9,False,False,59680,6461,66141,Sin lluvia,> 25 °C
+2017-08-11,2017,8,viernes,False,Verano,23.5,28.3,0.0,4.4,False,False,54868,8141,63009,Sin lluvia,> 25 °C
+2017-08-12,2017,8,sábado,True,Verano,21.7,27.8,2.8,3.9,True,False,42197,18138,60335,Lluvia leve (<5 mm),> 25 °C
+2017-08-13,2017,8,domingo,True,Verano,24.5,28.3,0.0,6.9,False,False,41234,16121,57355,Sin lluvia,> 25 °C
+2017-08-14,2017,8,lunes,False,Verano,24.1,28.3,0.0,3.5,False,False,54277,7059,61336,Sin lluvia,> 25 °C
+2017-08-15,2017,8,martes,False,Verano,22.3,23.9,7.1,2.2,True,False,48815,3570,52385,Moderada (5-15 mm),15-25 °C
+2017-08-16,2017,8,miércoles,False,Verano,24.4,30.6,4.3,2.8,False,False,61795,6498,68293,Lluvia leve (<5 mm),> 25 °C
+2017-08-17,2017,8,jueves,False,Verano,24.3,30.6,0.0,5.0,False,False,59598,6900,66498,Sin lluvia,> 25 °C
+2017-08-18,2017,8,viernes,False,Verano,24.7,28.3,0.8,3.7,True,False,33537,2994,36531,Lluvia leve (<5 mm),> 25 °C
+2017-08-19,2017,8,sábado,True,Verano,25.5,30.0,21.6,4.6,False,False,43843,18348,62191,Fuerte (>15 mm),> 25 °C
+2017-08-20,2017,8,domingo,True,Verano,24.8,30.0,0.0,7.8,False,False,41385,13860,55245,Sin lluvia,> 25 °C
+2017-08-21,2017,8,lunes,False,Verano,25.5,30.6,0.0,4.1,False,False,54060,6849,60909,Sin lluvia,> 25 °C
+2017-08-22,2017,8,martes,False,Verano,27.0,31.7,0.0,8.3,False,False,54775,5600,60375,Sin lluvia,> 25 °C
+2017-08-23,2017,8,miércoles,False,Verano,24.7,31.7,7.6,9.1,True,False,59125,5808,64933,Moderada (5-15 mm),> 25 °C
+2017-08-24,2017,8,jueves,False,Verano,22.7,27.2,0.0,4.4,False,False,59473,6695,66168,Sin lluvia,> 25 °C
+2017-08-25,2017,8,viernes,False,Verano,21.4,26.7,0.0,3.9,False,False,55842,8245,64087,Sin lluvia,> 25 °C
+2017-08-26,2017,8,sábado,True,Verano,21.1,25.6,0.0,5.7,False,False,39775,10196,49971,Sin lluvia,> 25 °C
+2017-08-27,2017,8,domingo,True,Verano,20.7,25.6,0.0,7.2,False,False,40855,13546,54401,Sin lluvia,> 25 °C
+2017-08-28,2017,8,lunes,False,Verano,20.6,25.6,0.0,8.7,False,False,54759,6031,60790,Sin lluvia,> 25 °C
+2017-08-29,2017,8,martes,False,Verano,18.7,24.4,0.0,13.3,True,False,33348,1754,35102,Sin lluvia,15-25 °C
+2017-08-30,2017,8,miércoles,False,Verano,19.5,25.6,7.6,9.4,True,False,59486,5724,65210,Moderada (5-15 mm),> 25 °C
+2017-08-31,2017,8,jueves,False,Verano,22.3,27.2,0.3,6.5,False,False,58575,6222,64797,Lluvia leve (<5 mm),> 25 °C
+2017-09-01,2017,9,viernes,False,Otoño,17.9,27.2,0.0,7.2,False,False,49542,5225,54767,Sin lluvia,> 25 °C
+2017-09-02,2017,9,sábado,True,Otoño,16.6,21.7,0.0,8.1,True,False,26536,11140,37676,Sin lluvia,15-25 °C
+2017-09-03,2017,9,domingo,True,Otoño,16.7,20.6,28.4,8.9,True,False,22675,8179,30854,Fuerte (>15 mm),15-25 °C
+2017-09-04,2017,9,lunes,False,Otoño,20.7,26.7,3.8,8.3,False,False,38249,16800,55049,Lluvia leve (<5 mm),> 25 °C
+2017-09-05,2017,9,martes,False,Otoño,24.2,29.4,0.0,6.5,False,False,59266,6046,65312,Sin lluvia,> 25 °C
+2017-09-06,2017,9,miércoles,False,Otoño,19.9,29.4,0.3,4.4,True,False,40457,1784,42241,Lluvia leve (<5 mm),> 25 °C
+2017-09-07,2017,9,jueves,False,Otoño,18.0,22.2,10.7,7.2,True,False,64206,5190,69396,Moderada (5-15 mm),15-25 °C
+2017-09-08,2017,9,viernes,False,Otoño,18.3,21.7,0.3,4.8,False,False,62849,6618,69467,Lluvia leve (<5 mm),15-25 °C
+2017-09-09,2017,9,sábado,True,Otoño,16.7,21.7,0.0,7.8,False,False,47472,12519,59991,Sin lluvia,15-25 °C
+2017-09-10,2017,9,domingo,True,Otoño,17.6,22.2,0.0,9.3,False,False,47467,13067,60534,Sin lluvia,15-25 °C
+2017-09-11,2017,9,lunes,False,Otoño,18.6,24.4,0.0,3.5,False,False,64361,7435,71796,Sin lluvia,15-25 °C
+2017-09-12,2017,9,martes,False,Otoño,20.6,25.6,0.0,1.5,False,False,68331,6140,74471,Sin lluvia,> 25 °C
+2017-09-13,2017,9,miércoles,False,Otoño,21.9,28.3,0.0,3.7,True,False,64084,5375,69459,Sin lluvia,> 25 °C
+2017-09-14,2017,9,jueves,False,Otoño,23.3,28.3,1.5,3.9,False,False,66536,5442,71978,Lluvia leve (<5 mm),> 25 °C
+2017-09-15,2017,9,viernes,False,Otoño,23.4,27.2,0.5,3.7,False,False,64970,7206,72176,Lluvia leve (<5 mm),> 25 °C
+2017-09-16,2017,9,sábado,True,Otoño,23.7,27.8,0.0,4.3,False,False,47702,13147,60849,Sin lluvia,> 25 °C
+2017-09-17,2017,9,domingo,True,Otoño,22.9,27.8,0.0,4.4,False,False,46872,12934,59806,Sin lluvia,> 25 °C
+2017-09-18,2017,9,lunes,False,Otoño,21.5,27.2,0.0,8.7,False,False,58597,5440,64037,Sin lluvia,> 25 °C
+2017-09-19,2017,9,martes,False,Otoño,22.4,25.6,0.0,14.8,True,False,54617,3214,57831,Sin lluvia,> 25 °C
+2017-09-20,2017,9,miércoles,False,Otoño,23.4,26.1,5.6,12.6,False,False,66386,4678,71064,Moderada (5-15 mm),> 25 °C
+2017-09-21,2017,9,jueves,False,Otoño,24.1,26.7,0.0,8.1,False,False,61865,5788,67653,Sin lluvia,> 25 °C
+2017-09-22,2017,9,viernes,False,Otoño,23.5,27.8,0.0,10.9,False,False,62596,7380,69976,Sin lluvia,> 25 °C
+2017-09-23,2017,9,sábado,True,Otoño,24.8,30.6,0.0,9.6,False,False,48392,14088,62480,Sin lluvia,> 25 °C
+2017-09-24,2017,9,domingo,True,Otoño,25.8,32.8,0.0,2.4,False,False,45016,12266,57282,Sin lluvia,> 25 °C
+2017-09-25,2017,9,lunes,False,Otoño,25.9,32.8,0.0,4.3,False,False,63361,5757,69118,Sin lluvia,> 25 °C
+2017-09-26,2017,9,martes,False,Otoño,23.2,31.1,0.0,4.1,False,False,66292,5159,71451,Sin lluvia,> 25 °C
+2017-09-27,2017,9,miércoles,False,Otoño,24.4,30.6,0.0,6.3,False,False,65067,4759,69826,Sin lluvia,> 25 °C
+2017-09-28,2017,9,jueves,False,Otoño,23.3,30.6,0.0,8.5,False,False,65492,5310,70802,Sin lluvia,> 25 °C
+2017-09-29,2017,9,viernes,False,Otoño,16.4,26.1,0.0,5.0,False,False,61021,6046,67067,Sin lluvia,> 25 °C
+2017-09-30,2017,9,sábado,True,Otoño,15.7,20.0,0.0,7.6,False,False,41592,8459,50051,Sin lluvia,15-25 °C
+2017-10-01,2017,10,domingo,True,Otoño,14.6,20.0,0.0,7.0,False,False,44966,10356,55322,Sin lluvia,15-25 °C
+2017-10-02,2017,10,lunes,False,Otoño,16.3,22.8,0.0,4.3,False,False,60190,5222,65412,Sin lluvia,15-25 °C
+2017-10-03,2017,10,martes,False,Otoño,16.9,22.8,0.0,4.6,False,False,64463,4555,69018,Sin lluvia,15-25 °C
+2017-10-04,2017,10,miércoles,False,Otoño,17.8,23.9,0.0,6.9,False,False,66412,4958,71370,Sin lluvia,15-25 °C
+2017-10-05,2017,10,jueves,False,Otoño,22.1,28.3,0.0,9.1,False,False,65024,5072,70096,Sin lluvia,> 25 °C
+2017-10-06,2017,10,viernes,False,Otoño,22.9,28.3,0.0,5.2,True,False,63324,6817,70141,Sin lluvia,> 25 °C
+2017-10-07,2017,10,sábado,True,Otoño,22.5,27.8,0.0,4.8,False,False,48245,15191,63436,Sin lluvia,> 25 °C
+2017-10-08,2017,10,domingo,True,Otoño,23.3,27.2,0.0,8.3,True,False,33424,7498,40922,Sin lluvia,> 25 °C
+2017-10-09,2017,10,lunes,False,Otoño,23.3,25.0,6.9,6.5,True,False,35851,2468,38319,Moderada (5-15 mm),15-25 °C
+2017-10-10,2017,10,martes,False,Otoño,23.2,27.2,5.3,6.1,False,False,67576,6440,74016,Moderada (5-15 mm),> 25 °C
+2017-10-11,2017,10,miércoles,False,Otoño,20.9,27.2,0.0,7.8,True,False,59378,4138,63516,Sin lluvia,> 25 °C
+2017-10-12,2017,10,jueves,False,Otoño,15.9,25.0,3.0,13.3,True,False,57244,3916,61160,Lluvia leve (<5 mm),15-25 °C
+2017-10-13,2017,10,viernes,False,Otoño,14.6,19.4,0.3,10.6,False,False,61367,5559,66926,Lluvia leve (<5 mm),15-25 °C
+2017-10-14,2017,10,sábado,True,Otoño,18.6,22.2,2.0,5.7,True,False,47444,11197,58641,Lluvia leve (<5 mm),15-25 °C
+2017-10-15,2017,10,domingo,True,Otoño,20.4,23.3,0.0,5.7,False,False,44981,11426,56407,Sin lluvia,15-25 °C
+2017-10-16,2017,10,lunes,False,Otoño,16.1,23.3,0.3,9.8,True,False,57455,4218,61673,Lluvia leve (<5 mm),15-25 °C
+2017-10-17,2017,10,martes,False,Otoño,9.9,20.6,0.0,6.7,False,False,60454,3967,64421,Sin lluvia,15-25 °C
+2017-10-18,2017,10,miércoles,False,Otoño,14.7,22.2,0.0,5.9,False,False,65478,4665,70143,Sin lluvia,15-25 °C
+2017-10-19,2017,10,jueves,False,Otoño,17.3,22.2,0.0,7.6,False,False,66726,5486,72212,Sin lluvia,15-25 °C
+2017-10-20,2017,10,viernes,False,Otoño,18.2,22.8,0.0,7.4,False,False,64823,7247,72070,Sin lluvia,15-25 °C
+2017-10-21,2017,10,sábado,True,Otoño,18.6,25.6,0.0,3.1,False,False,50775,14925,65700,Sin lluvia,> 25 °C
+2017-10-22,2017,10,domingo,True,Otoño,18.9,25.6,0.0,3.0,False,False,47074,14891,61965,Sin lluvia,> 25 °C
+2017-10-23,2017,10,lunes,False,Otoño,19.3,24.4,0.0,5.4,False,False,62459,6713,69172,Sin lluvia,15-25 °C
+2017-10-24,2017,10,martes,False,Otoño,20.9,23.3,1.3,12.0,True,False,46020,2008,48028,Lluvia leve (<5 mm),15-25 °C
+2017-10-25,2017,10,miércoles,False,Otoño,17.3,20.0,3.8,3.0,False,False,66804,4393,71197,Lluvia leve (<5 mm),15-25 °C
+2017-10-26,2017,10,jueves,False,Otoño,13.4,19.4,0.0,9.1,False,False,60330,3610,63940,Sin lluvia,15-25 °C
+2017-10-27,2017,10,viernes,False,Otoño,12.1,16.7,0.0,6.7,False,False,62719,6424,69143,Sin lluvia,15-25 °C
+2017-10-28,2017,10,sábado,True,Otoño,15.9,20.6,0.0,7.0,False,False,48586,12589,61175,Sin lluvia,15-25 °C
+2017-10-29,2017,10,domingo,True,Otoño,17.3,20.6,2.3,9.3,True,False,8744,767,9511,Lluvia leve (<5 mm),15-25 °C
+2017-10-30,2017,10,lunes,False,Otoño,13.1,19.4,80.3,14.1,True,False,46537,2649,49186,Fuerte (>15 mm),15-25 °C
+2017-10-31,2017,10,martes,False,Otoño,11.1,16.1,0.8,9.8,False,False,56574,3592,60166,Lluvia leve (<5 mm),15-25 °C
+2017-11-01,2017,11,miércoles,False,Otoño,10.0,13.9,0.0,4.4,False,False,57792,2926,60718,Sin lluvia,5-15 °C
+2017-11-02,2017,11,jueves,False,Otoño,17.4,22.2,0.0,4.6,False,False,65439,5278,70717,Sin lluvia,15-25 °C
+2017-11-03,2017,11,viernes,False,Otoño,19.3,23.3,0.0,7.2,False,False,64082,7607,71689,Sin lluvia,15-25 °C
+2017-11-04,2017,11,sábado,True,Otoño,10.8,14.4,0.0,9.4,False,False,43583,9738,53321,Sin lluvia,5-15 °C
+2017-11-05,2017,11,domingo,True,Otoño,12.8,15.6,0.3,8.5,True,False,30981,3883,34864,Lluvia leve (<5 mm),15-25 °C
+2017-11-06,2017,11,lunes,False,Otoño,16.7,20.0,0.3,6.5,True,False,54058,3467,57525,Lluvia leve (<5 mm),15-25 °C
+2017-11-07,2017,11,martes,False,Otoño,7.8,18.9,0.3,10.0,True,False,34101,2195,36296,Lluvia leve (<5 mm),15-25 °C
+2017-11-08,2017,11,miércoles,False,Otoño,6.0,9.4,17.8,10.0,True,False,52018,2093,54111,Fuerte (>15 mm),5-15 °C
+2017-11-09,2017,11,jueves,False,Otoño,8.1,12.8,0.0,5.0,False,False,55574,2771,58345,Sin lluvia,5-15 °C
+2017-11-10,2017,11,viernes,False,Otoño,5.2,12.8,0.3,14.1,False,False,36914,1468,38382,Lluvia leve (<5 mm),5-15 °C
+2017-11-11,2017,11,sábado,True,Otoño,-1.6,10.6,0.0,9.1,False,False,25807,2295,28102,Sin lluvia,5-15 °C
+2017-11-12,2017,11,domingo,True,Otoño,3.2,7.8,0.0,3.0,False,False,28971,3448,32419,Sin lluvia,5-15 °C
+2017-11-13,2017,11,lunes,False,Otoño,6.6,8.3,0.0,5.4,True,False,37710,1009,38719,Sin lluvia,5-15 °C
+2017-11-14,2017,11,martes,False,Otoño,5.2,8.9,1.8,6.9,False,False,50548,1676,52224,Lluvia leve (<5 mm),5-15 °C
+2017-11-15,2017,11,miércoles,False,Otoño,5.9,9.4,0.0,8.1,False,False,52416,1769,54185,Sin lluvia,5-15 °C
+2017-11-16,2017,11,jueves,False,Otoño,10.8,13.9,4.3,10.6,True,False,48011,1677,49688,Lluvia leve (<5 mm),5-15 °C
+2017-11-17,2017,11,viernes,False,Otoño,6.4,13.9,0.8,13.7,False,False,46496,2444,48940,Lluvia leve (<5 mm),5-15 °C
+2017-11-18,2017,11,sábado,True,Otoño,5.9,10.6,0.0,4.8,True,False,25335,2337,27672,Sin lluvia,5-15 °C
+2017-11-19,2017,11,domingo,True,Otoño,11.2,15.0,7.9,14.4,True,False,28709,2826,31535,Moderada (5-15 mm),5-15 °C
+2017-11-20,2017,11,lunes,False,Otoño,5.3,15.0,0.5,12.4,False,True,43526,1557,45083,Lluvia leve (<5 mm),5-15 °C
+2017-11-21,2017,11,martes,False,Otoño,8.9,14.4,0.0,7.4,False,False,49875,2517,52392,Sin lluvia,5-15 °C
+2017-11-22,2017,11,miércoles,False,Otoño,10.6,14.4,1.8,9.6,True,False,30915,1342,32257,Lluvia leve (<5 mm),5-15 °C
+2017-11-23,2017,11,jueves,False,Otoño,2.6,13.3,3.6,9.4,False,False,11247,2399,13646,Lluvia leve (<5 mm),5-15 °C
+2017-11-24,2017,11,viernes,False,Otoño,5.1,10.0,0.0,5.4,False,False,20256,3420,23676,Sin lluvia,5-15 °C
+2017-11-25,2017,11,sábado,True,Otoño,9.3,13.9,0.0,7.8,False,False,24270,6173,30443,Sin lluvia,5-15 °C
+2017-11-26,2017,11,domingo,True,Otoño,8.4,13.9,0.0,9.8,False,False,23877,3261,27138,Sin lluvia,5-15 °C
+2017-11-27,2017,11,lunes,False,Otoño,6.4,10.6,0.0,10.9,False,False,44889,1804,46693,Sin lluvia,5-15 °C
+2017-11-28,2017,11,martes,False,Otoño,6.3,11.7,0.0,7.2,False,False,49700,1429,51129,Sin lluvia,5-15 °C
+2017-11-29,2017,11,miércoles,False,Otoño,12.0,17.2,0.0,9.4,False,False,53387,1872,55259,Sin lluvia,15-25 °C
+2017-11-30,2017,11,jueves,False,Otoño,6.5,17.2,0.0,7.2,False,False,49982,1685,51667,Sin lluvia,15-25 °C
+2017-12-01,2017,12,viernes,False,Invierno,9.3,11.7,0.8,7.8,True,False,48500,2162,50662,Lluvia leve (<5 mm),5-15 °C
+2017-12-02,2017,12,sábado,True,Invierno,6.4,11.1,0.0,6.5,False,False,34720,4138,38858,Sin lluvia,5-15 °C
+2017-12-03,2017,12,domingo,True,Invierno,7.4,9.0,0.0,3.5,False,False,30525,3159,33684,Sin lluvia,5-15 °C
+2017-12-04,2017,12,lunes,False,Invierno,7.3,10.6,0.0,4.6,False,False,47536,2057,49593,Sin lluvia,5-15 °C
+2017-12-05,2017,12,martes,False,Invierno,12.3,16.1,0.0,10.2,True,False,40523,1227,41750,Sin lluvia,15-25 °C
+2017-12-06,2017,12,miércoles,False,Invierno,9.6,16.1,19.0,13.7,True,False,45123,1160,46283,Fuerte (>15 mm),15-25 °C
+2017-12-07,2017,12,jueves,False,Invierno,4.9,15.0,0.0,10.7,False,False,44002,1333,45335,Sin lluvia,5-15 °C
+2017-12-08,2017,12,viernes,False,Invierno,2.8,6.7,0.0,6.9,False,False,40068,1238,41306,Sin lluvia,5-15 °C
+2017-12-09,2017,12,sábado,True,Invierno,0.9,2.2,0.0,8.0,False,True,10414,363,10777,Sin lluvia,< 5 °C
+2017-12-10,2017,12,domingo,True,Invierno,0.6,3.9,11.7,9.3,False,True,18949,840,19789,Moderada (5-15 mm),< 5 °C
+2017-12-11,2017,12,lunes,False,Invierno,2.6,5.0,0.0,9.6,False,False,40712,1095,41807,Sin lluvia,< 5 °C
+2017-12-12,2017,12,martes,False,Invierno,6.5,10.0,0.0,10.0,False,False,41772,823,42595,Sin lluvia,5-15 °C
+2017-12-13,2017,12,miércoles,False,Invierno,-2.8,10.0,0.0,17.6,False,True,32120,486,32606,Sin lluvia,5-15 °C
+2017-12-14,2017,12,jueves,False,Invierno,-2.7,0.0,1.8,9.4,False,True,27100,376,27476,Lluvia leve (<5 mm),< 5 °C
+2017-12-15,2017,12,viernes,False,Invierno,-4.7,0.0,0.5,7.2,False,True,22677,249,22926,Lluvia leve (<5 mm),< 5 °C
+2017-12-16,2017,12,sábado,True,Invierno,-1.7,3.9,2.8,11.1,False,True,18429,616,19045,Lluvia leve (<5 mm),< 5 °C
+2017-12-17,2017,12,domingo,True,Invierno,1.5,3.9,0.0,5.2,False,False,21480,901,22381,Sin lluvia,< 5 °C
+2017-12-18,2017,12,lunes,False,Invierno,3.7,7.8,0.5,6.3,True,False,39054,1081,40135,Lluvia leve (<5 mm),5-15 °C
+2017-12-19,2017,12,martes,False,Invierno,9.7,12.8,0.0,11.1,False,False,47939,1528,49467,Sin lluvia,5-15 °C
+2017-12-20,2017,12,miércoles,False,Invierno,7.8,12.8,0.0,13.5,False,False,40267,1161,41428,Sin lluvia,5-15 °C
+2017-12-21,2017,12,jueves,False,Invierno,2.0,10.6,0.0,6.9,False,False,36324,1230,37554,Sin lluvia,5-15 °C
+2017-12-22,2017,12,viernes,False,Invierno,4.4,10.0,0.0,5.7,False,False,32792,1519,34311,Sin lluvia,5-15 °C
+2017-12-23,2017,12,sábado,True,Invierno,5.2,10.0,1.3,8.7,True,False,9311,284,9595,Lluvia leve (<5 mm),5-15 °C
+2017-12-24,2017,12,domingo,True,Invierno,4.4,8.9,11.2,10.4,True,False,11829,1362,13191,Moderada (5-15 mm),5-15 °C
+2017-12-25,2017,12,lunes,False,Invierno,2.1,5.0,6.1,17.6,True,True,5331,1123,6454,Moderada (5-15 mm),< 5 °C
+2017-12-26,2017,12,martes,False,Invierno,-3.1,3.3,5.8,15.2,False,False,13357,741,14098,Moderada (5-15 mm),< 5 °C
+2017-12-27,2017,12,miércoles,False,Invierno,-5.7,-2.2,0.0,10.0,False,False,15678,656,16334,Sin lluvia,< 5 °C
+2017-12-28,2017,12,jueves,False,Invierno,-8.8,-4.4,0.0,12.6,False,False,13043,358,13401,Sin lluvia,< 5 °C
+2017-12-29,2017,12,viernes,False,Invierno,-9.2,-5.6,0.0,11.5,False,False,13346,404,13750,Sin lluvia,< 5 °C
+2017-12-30,2017,12,sábado,True,Invierno,-6.8,-5.0,0.0,8.5,False,True,5781,167,5948,Sin lluvia,< 5 °C
+2017-12-31,2017,12,domingo,True,Invierno,-6.2,-5.6,1.3,11.5,False,False,6343,207,6550,Lluvia leve (<5 mm),< 5 °C

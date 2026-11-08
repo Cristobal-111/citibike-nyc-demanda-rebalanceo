@@ -1,0 +1,18 @@
+distrito,barrio,estaciones_2016,estaciones_2017,carga_por_estacion_2016,carga_por_estacion_2017,indice_crecimiento,rebalanceo_prom_estacion,pct_abonados_2017,puntaje_expansion,recomendacion,lat_2017,lng_2017
+Manhattan,Chelsea and Clinton,80.0,82.0,131.53,153.51,1.17,26.3,0.9,81.0,Prioridad alta: densificar,40.75295526621563,-73.99272410627415
+Manhattan,Tribeca,2.0,2.0,241.86,273.71,1.13,45.5,0.82,81.0,Prioridad alta: densificar,40.71644312,-74.014902115
+Manhattan,Gramercy Park and Murray Hill,49.0,49.0,114.07,141.03,1.23,27.93,0.92,79.0,Prioridad alta: densificar,40.749442308127584,-73.97664922577113
+Manhattan,Greenwich Village and Soho,43.0,40.0,121.91,145.65,1.19,19.78,0.88,77.0,Prioridad alta: densificar,40.72665882981083,-74.00339942227365
+Manhattan,Lower East Side,67.0,67.0,103.49,118.68,1.15,23.61,0.93,67.0,Prioridad media: monitorear,40.7246004043977,-73.9854142064518
+Brooklyn,Greenpoint,56.0,54.0,33.56,49.07,1.46,8.9,0.89,62.0,Prioridad media: monitorear,40.71908998410782,-73.95420714387365
+Manhattan,Lower Manhattan,33.0,36.0,82.51,91.75,1.11,19.32,0.8,58.0,Prioridad media: monitorear,40.70729458733118,-74.00917621153013
+Brooklyn,Northwest Brooklyn,131.0,139.0,28.14,35.65,1.27,8.48,0.89,54.0,Prioridad media: monitorear,40.68419286787769,-73.98761597682872
+Manhattan,Upper West Side,51.0,53.0,73.89,81.41,1.1,16.27,0.8,52.0,Prioridad media: monitorear,40.78658644251317,-73.97308878585473
+Manhattan,Central Harlem,,22.0,,21.3,,2.01,0.88,50.0,Prioridad media: monitorear,40.80848392277163,-73.95412598761406
+Brooklyn,Bushwick and Williamsburg,23.0,24.0,11.69,19.1,1.63,5.36,0.89,46.0,Prioridad media: monitorear,40.69892626359613,-73.94369958288921
+Manhattan,Upper East Side,42.0,43.0,51.39,54.2,1.05,10.84,0.9,46.0,Prioridad media: monitorear,40.772989547646354,-73.95647963196632
+Brooklyn,Central Brooklyn,32.0,50.0,22.95,26.73,1.16,5.05,0.9,42.0,Sin urgencia,40.679356285131256,-73.95830775387633
+Brooklyn,Sunset Park,2.0,5.0,5.9,8.12,1.37,2.44,0.94,34.0,Sin urgencia,40.65234879721988,-74.01215727133942
+Brooklyn,Flatbush,,9.0,,5.84,,0.5,0.88,33.0,Sin urgencia,40.665741122222215,-73.95788273333334
+Manhattan,East Harlem,18.0,40.0,31.41,20.42,0.65,3.96,0.9,24.0,Sin urgencia,40.79580061485355,-73.9436154504855
+Queens,Northwest Queens,13.0,76.0,21.01,12.46,0.59,2.0,0.89,13.0,Sin urgencia,40.76020054066996,-73.93243215274981

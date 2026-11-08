@@ -1,0 +1,814 @@
+station_id,nombre,distrito,barrio,lat,lng,salidas_dia,llegadas_dia,flujo_neto_dia,minimo_acumulado,maximo_acumulado,flujo_neto_punta_am,flujo_neto_punta_pm,amplitud_rebalanceo,perfil,ranking,pct_acumulado_necesidad
+3443,W 52 St & 6 Ave,Manhattan,Chelsea and Clinton,40.76132983124814,-73.97982001304625,232.45,261.21,28.74,-0.16,179.16,148.12,-106.18,179.3,Se llena en la mañana (destino),1,0.02
+402,Broadway & E 22 St,Manhattan,Gramercy Park and Murray Hill,40.7403432,-73.98955109,394.58,423.17,28.59,-0.26,160.0,121.86,-110.72,160.3,Se llena en la mañana (destino),2,0.03
+3255,8 Ave & W 31 St,Manhattan,Chelsea and Clinton,40.7505853470215,-73.9946848154068,375.26,382.77,7.5,-131.2,9.62,-56.38,69.79,140.8,Se vacía en la mañana (origen),3,0.05
+432,E 7 St & Avenue A,Manhattan,Lower East Side,40.72621788,-73.98379855,229.02,266.4,37.39,-99.42,37.39,-72.13,65.16,136.8,Se vacía en la mañana (origen),4,0.06
+281,Grand Army Plaza & Central Park S,Manhattan,Chelsea and Clinton,40.7643971,-73.97371465,273.42,247.02,-26.42,-26.42,109.3,100.29,-75.03,135.7,Se llena en la mañana (destino),5,0.07
+359,E 47 St & Park Ave,Manhattan,Gramercy Park and Murray Hill,40.75510267,-73.97498696,263.9,267.65,3.69,-0.07,123.84,111.71,-89.59,123.9,Se llena en la mañana (destino),6,0.08
+304,Broadway & Battery Pl,Manhattan,Lower Manhattan,40.70463334,-74.01361706,174.37,216.09,41.7,0.32,105.14,79.76,-52.33,104.8,Se llena en la mañana (destino),7,0.09
+3236,W 42 St & Dyer Ave,Manhattan,Chelsea and Clinton,40.758984813996335,-73.99379968643187,160.95,148.74,-12.17,-89.72,0.52,-42.39,49.19,90.2,Se vacía en la mañana (origen),8,0.1
+377,6 Ave & Canal St,Manhattan,Greenwich Village and Soho,40.72243797,-74.00566443,157.71,168.49,10.76,-0.51,87.11,65.1,-62.13,87.6,Se llena en la mañana (destino),9,0.11
+3223,E 55 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.75899655960512,-73.96865397691727,150.62,151.12,0.49,-0.23,75.15,65.06,-59.44,75.4,Se llena en la mañana (destino),10,0.12
+520,W 52 St & 5 Ave,Manhattan,Chelsea and Clinton,40.75992262,-73.97648516,138.48,153.77,15.32,-0.15,75.0,58.83,-31.97,75.2,Se llena en la mañana (destino),11,0.13
+491,E 24 St & Park Ave S,Manhattan,Gramercy Park and Murray Hill,40.74096374,-73.98602213,216.16,219.36,3.25,-0.5,70.65,47.35,-34.28,71.2,Se llena en la mañana (destino),12,0.13
+514,12 Ave & W 40 St,Manhattan,Chelsea and Clinton,40.76087502,-74.00277668,271.89,287.81,15.93,-54.0,15.93,-48.29,50.22,69.9,Se vacía en la mañana (origen),13,0.14
+426,West St & Chambers St,Manhattan,Tribeca,40.71754834,-74.01322069,344.09,382.31,38.26,0.17,69.82,52.24,-28.27,69.6,Se llena en la mañana (destino),14,0.15
+3164,Columbus Ave & W 72 St,Manhattan,Upper West Side,40.7770575,-73.97898475,179.34,135.51,-43.81,-61.71,0.73,-44.39,14.04,62.4,Se vacía en la mañana (origen),15,0.15
+433,E 13 St & Avenue A,Manhattan,Lower East Side,40.72955361,-73.98057249,175.56,177.99,2.42,-59.67,2.42,-45.6,32.78,62.1,Se vacía en la mañana (origen),16,0.16
+487,E 20 St & FDR Drive,Manhattan,Lower East Side,40.73314259,-73.97573881,152.23,139.52,-12.7,-60.26,1.39,-41.58,24.54,61.6,Se vacía en la mañana (origen),17,0.16
+524,W 43 St & 6 Ave,Manhattan,Chelsea and Clinton,40.75527307,-73.98316936,187.08,185.59,-1.49,-1.49,58.25,49.43,-35.48,59.7,Se llena en la mañana (destino),18,0.17
+492,W 33 St & 7 Ave,Manhattan,Chelsea and Clinton,40.75019995,-73.99093085,266.66,260.99,-5.64,-37.11,17.27,-6.12,-8.12,54.4,Equilibrada,19,0.17
+497,E 17 St & Broadway,Manhattan,Lower East Side,40.73704984,-73.99009296,371.59,381.72,10.15,-0.32,50.8,39.49,-25.12,51.1,Se llena en la mañana (destino),20,0.18
+484,W 44 St & 5 Ave,Manhattan,Chelsea and Clinton,40.75500254,-73.98014437,172.42,176.0,3.58,-0.19,50.11,37.39,-24.16,50.3,Se llena en la mañana (destino),21,0.18
+445,E 10 St & Avenue A,Manhattan,Lower East Side,40.72740794,-73.98142006,158.09,161.3,3.23,-46.43,3.23,-37.8,29.82,49.7,Se vacía en la mañana (origen),22,0.19
+477,W 41 St & 8 Ave,Manhattan,Chelsea and Clinton,40.75640548,-73.9900262,319.05,307.11,-11.94,-38.66,10.67,-1.93,-18.12,49.3,Equilibrada,23,0.19
+324,DeKalb Ave & Hudson Ave,Brooklyn,Northwest Brooklyn,40.689888,-73.981013,71.78,97.56,25.77,-1.0,44.63,31.36,-9.25,45.6,Se llena en la mañana (destino),24,0.2
+522,E 51 St & Lexington Ave,Manhattan,Gramercy Park and Murray Hill,40.75714758,-73.97207836,110.84,109.18,-1.63,-1.63,41.26,31.45,-12.41,42.9,Se llena en la mañana (destino),25,0.2
+3140,1 Ave & E 78 St,Manhattan,Upper East Side,40.77140426,-73.9535166,115.46,118.75,3.28,-39.09,3.28,-33.25,31.22,42.4,Se vacía en la mañana (origen),26,0.21
+459,W 20 St & 11 Ave,Manhattan,Chelsea and Clinton,40.746745,-74.007756,301.96,316.01,14.05,-0.05,41.81,16.56,-10.27,41.9,Se llena en la mañana (destino),27,0.21
+3427,Lafayette St & Jersey St,Manhattan,Greenwich Village and Soho,40.72430527250332,-73.99600982666014,213.13,216.48,3.34,-0.36,37.41,27.49,-23.56,37.8,Se llena en la mañana (destino),28,0.21
+490,8 Ave & W 33 St,Manhattan,Chelsea and Clinton,40.751551,-73.993934,339.93,325.16,-14.78,-33.14,4.62,-6.12,-6.45,37.8,Equilibrada,29,0.22
+504,1 Ave & E 16 St,Manhattan,Lower East Side,40.73221853,-73.98165557,210.07,213.73,3.71,-33.06,3.82,-26.83,29.02,36.9,Se vacía en la mañana (origen),30,0.22
+3141,1 Ave & E 68 St,Manhattan,Upper East Side,40.76500525,-73.95818491,198.15,198.62,0.47,0.13,37.05,21.92,-12.9,36.9,Se llena en la mañana (destino),31,0.22
+511,E 14 St & Avenue B,Manhattan,Lower East Side,40.72938685,-73.97772429,71.2,66.69,-4.5,-35.61,1.12,-29.61,15.01,36.7,Se vacía en la mañana (origen),32,0.23
+173,Broadway & W 49 St,Manhattan,Chelsea and Clinton,40.76068327096592,-73.9845272898674,202.3,201.21,-1.08,-1.08,35.42,21.51,-9.06,36.5,Se llena en la mañana (destino),33,0.23
+168,W 18 St & 6 Ave,Manhattan,Chelsea and Clinton,40.73971301,-73.99456405,257.87,260.66,2.81,-0.14,36.13,30.7,-21.26,36.3,Se llena en la mañana (destino),34,0.24
+228,E 48 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.7546011026,-73.971878855,86.49,85.97,-0.51,-0.55,35.59,32.35,-21.32,36.1,Se llena en la mañana (destino),35,0.24
+394,E 9 St & Avenue C,Manhattan,Lower East Side,40.72521311,-73.97768752,104.23,103.05,-1.15,-34.26,1.4,-27.43,20.9,35.7,Se vacía en la mañana (origen),36,0.24
+500,Broadway & W 51 St,Manhattan,Chelsea and Clinton,40.76228826,-73.98336183,130.12,127.72,-2.41,-2.41,32.27,27.19,-11.8,34.7,Se llena en la mañana (destino),37,0.25
+379,W 31 St & 7 Ave,Manhattan,Chelsea and Clinton,40.749156,-73.9916,271.27,264.18,-7.07,-20.81,13.61,-4.44,-15.09,34.4,Equilibrada,38,0.25
+529,W 42 St & 8 Ave,Manhattan,Chelsea and Clinton,40.7575699,-73.99098507,161.78,160.26,-1.52,-27.09,7.23,-1.71,-4.74,34.3,Equilibrada,39,0.25
+474,5 Ave & E 29 St,Manhattan,Gramercy Park and Murray Hill,40.7451677,-73.98683077,177.87,178.79,0.94,-0.1,33.89,29.11,-14.68,34.0,Se llena en la mañana (destino),40,0.26
+527,E 33 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.744023,-73.976056,210.57,206.37,-4.21,-10.0,23.84,-22.04,1.38,33.8,Se vacía en la mañana (origen),41,0.26
+2006,Central Park S & 6 Ave,Manhattan,Upper West Side,40.76590936,-73.97634151,230.79,226.04,-4.76,-4.76,29.03,23.7,-18.22,33.8,Se llena en la mañana (destino),42,0.26
+496,E 16 St & 5 Ave,Manhattan,Lower East Side,40.73726186,-73.99238967,208.81,207.99,-0.85,-0.85,32.82,29.4,-24.82,33.7,Se llena en la mañana (destino),43,0.26
+435,W 21 St & 6 Ave,Manhattan,Chelsea and Clinton,40.74173969,-73.99415556,354.29,357.02,2.71,-0.14,33.51,26.47,-21.45,33.6,Se llena en la mañana (destino),44,0.27
+2003,1 Ave & E 18 St,Manhattan,Lower East Side,40.73381219196632,-73.98054420948029,148.72,148.58,-0.13,-32.67,0.84,-24.1,24.97,33.5,Se vacía en la mañana (origen),45,0.27
+3233,E 48 St & 5 Ave,Manhattan,Gramercy Park and Murray Hill,40.75724567911726,-73.978059142828,186.38,185.85,-0.52,-0.52,32.97,25.7,-10.94,33.5,Se llena en la mañana (destino),46,0.27
+301,E 2 St & Avenue B,Manhattan,Lower East Side,40.72217444,-73.98368779,128.14,130.36,2.24,-30.81,2.24,-24.51,24.56,33.0,Se vacía en la mañana (origen),47,0.28
+237,E 11 St & 2 Ave,Manhattan,Lower East Side,40.73047309,-73.98672378,164.65,169.6,4.96,-27.73,5.1,-20.99,25.33,32.8,Se vacía en la mañana (origen),48,0.28
+519,Pershing Square North,Manhattan,Gramercy Park and Murray Hill,40.751873,-73.977706,621.96,616.03,-5.89,-5.89,26.65,5.24,-29.17,32.5,Equilibrada,49,0.28
+3161,W 76 St & Columbus Ave,Manhattan,Upper West Side,40.7801839724239,-73.97728532552718,86.64,67.91,-18.71,-31.47,1.0,-21.47,9.42,32.5,Se vacía en la mañana (origen),50,0.29
+236,St Marks Pl & 2 Ave,Manhattan,Lower East Side,40.7284186,-73.98713956,150.6,155.92,5.31,-25.66,5.31,-22.94,25.27,31.0,Se vacía en la mañana (origen),51,0.29
+439,E 4 St & 2 Ave,Manhattan,Lower East Side,40.7262807,-73.98978041,140.8,142.79,1.96,-29.01,1.96,-24.41,22.45,31.0,Se vacía en la mañana (origen),52,0.29
+351,Front St & Maiden Ln,Manhattan,Lower Manhattan,40.70530954,-74.00612572,83.9,83.63,-0.23,-0.48,30.24,26.56,-20.75,30.7,Se llena en la mañana (destino),53,0.3
+455,1 Ave & E 44 St,Manhattan,Gramercy Park and Murray Hill,40.75001986,-73.96905301,106.46,105.76,-0.75,-1.63,29.02,27.31,-15.35,30.6,Se llena en la mañana (destino),54,0.3
+309,Murray St & West St,Manhattan,Lower Manhattan,40.7149787,-74.013012,116.75,115.68,-1.09,-1.21,29.41,16.76,-20.39,30.6,Se llena en la mañana (destino),55,0.3
+3119,Vernon Blvd & 50 Ave,Queens,Northwest Queens,40.74232744,-73.95411749,86.89,85.87,-1.01,-1.01,29.59,25.4,-21.75,30.6,Se llena en la mañana (destino),56,0.3
+469,Broadway & W 53 St,Manhattan,Chelsea and Clinton,40.76344058,-73.98268129,131.24,121.19,-10.0,-10.0,20.53,19.43,-10.55,30.5,Se llena en la mañana (destino),57,0.31
+3440,Fulton St & Adams St,Brooklyn,Northwest Brooklyn,40.69241829257847,-73.98949474096298,83.2,82.6,-0.64,-0.69,29.72,25.3,-20.39,30.4,Se llena en la mañana (destino),58,0.31
+415,Pearl St & Hanover Square,Manhattan,Lower Manhattan,40.7047177,-74.00926027,84.25,84.86,0.6,-0.59,29.86,27.95,-23.79,30.4,Se llena en la mañana (destino),59,0.31
+456,E 53 St & Madison Ave,Manhattan,Gramercy Park and Murray Hill,40.7597108,-73.97402311,100.46,100.96,0.51,-0.21,29.88,15.7,-4.58,30.1,Se llena en la mañana (destino),60,0.32
+337,Old Slip & Front St,Manhattan,Lower Manhattan,40.7037992,-74.00838676,67.68,68.57,0.93,0.1,30.22,27.73,-19.21,30.1,Se llena en la mañana (destino),61,0.32
+3173,Riverside Blvd & W 67 St,Manhattan,West Side,40.777507027547976,-73.98888587951657,83.4,85.9,2.45,-27.33,2.45,-23.92,22.34,29.8,Se vacía en la mañana (origen),62,0.32
+401,Allen St & Rivington St,Manhattan,Lower East Side,40.72019576,-73.98997825,153.86,155.01,1.11,-28.42,1.11,-23.92,19.74,29.5,Se vacía en la mañana (origen),63,0.32
+358,Christopher St & Greenwich St,Manhattan,Greenwich Village and Soho,40.73291553,-74.00711384,250.24,255.43,5.16,-24.14,5.3,-14.69,15.85,29.4,Equilibrada,64,0.33
+2012,E 27 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.739445,-73.976806,134.36,132.31,-2.04,-6.09,23.32,-3.92,-1.77,29.4,Equilibrada,65,0.33
+164,E 47 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.75323098,-73.97032517,96.88,95.57,-1.27,-1.27,27.92,25.76,-17.02,29.2,Se llena en la mañana (destino),66,0.33
+3323,W 106 St & Central Park West,Manhattan,Upper West Side,40.7981856,-73.9605909006,62.13,64.11,1.93,-27.17,1.93,-16.48,16.16,29.1,Se vacía en la mañana (origen),67,0.34
+438,St Marks Pl & 1 Ave,Manhattan,Lower East Side,40.72779126,-73.98564945,123.44,126.96,3.56,-25.58,3.56,-19.57,21.51,29.1,Se vacía en la mañana (origen),68,0.34
+195,Liberty St & Broadway,Manhattan,Lower Manhattan,40.70905623,-74.01043382,147.56,146.88,-0.67,-1.47,27.56,22.43,-15.77,29.0,Se llena en la mañana (destino),69,0.34
+410,Suffolk St & Stanton St,Manhattan,Lower East Side,40.72066442,-73.98517977,140.55,141.83,1.27,-27.56,1.27,-24.54,21.75,28.8,Se vacía en la mañana (origen),70,0.34
+260,Broad St & Bridge St,Manhattan,Lower Manhattan,40.70365182,-74.01167797,56.3,56.09,-0.21,-0.33,28.27,26.1,-16.89,28.6,Se llena en la mañana (destino),71,0.35
+380,W 4 St & 7 Ave S,Manhattan,Greenwich Village and Soho,40.73401143,-74.00293877,162.59,164.78,2.17,-22.8,5.76,-15.46,18.8,28.6,Se vacía en la mañana (origen),72,0.35
+393,E 5 St & Avenue C,Manhattan,Lower East Side,40.72299208,-73.97995466,61.48,65.52,4.04,-24.54,4.04,-20.93,21.33,28.6,Se vacía en la mañana (origen),73,0.35
+386,Centre St & Worth St,Manhattan,Lower Manhattan,40.71494807,-74.00234482,89.18,89.06,-0.1,-0.33,28.09,26.41,-15.98,28.4,Se llena en la mañana (destino),74,0.36
+523,W 38 St & 8 Ave,Manhattan,Chelsea and Clinton,40.75466591,-73.99138152,324.15,326.6,2.45,-11.91,16.27,-2.87,-9.95,28.2,Equilibrada,75,0.36
+323,Lawrence St & Willoughby St,Brooklyn,Northwest Brooklyn,40.69236178,-73.98631746,85.13,82.22,-2.93,-2.93,25.16,22.3,-17.42,28.1,Se llena en la mañana (destino),76,0.36
+3177,W 84 St & Broadway,Manhattan,Upper West Side,40.7867947,-73.977112,66.77,52.61,-14.16,-28.2,-0.06,-23.24,9.58,28.1,Se vacía en la mañana (origen),77,0.36
+356,Bialystoker Pl & Delancey St,Manhattan,Lower East Side,40.71622644,-73.98261206,61.79,53.38,-8.39,-25.91,2.05,-18.93,9.46,28.0,Se vacía en la mañana (origen),78,0.37
+3151,E 81 St & York Ave,Manhattan,Upper East Side,40.7728384,-73.94989233,60.61,63.69,3.07,-24.73,3.07,-19.4,16.13,27.8,Se vacía en la mañana (origen),79,0.37
+478,11 Ave & W 41 St,Manhattan,Chelsea and Clinton,40.76030096,-73.99884222,150.21,153.6,3.38,-24.41,3.38,-19.28,15.57,27.8,Se vacía en la mañana (origen),80,0.37
+509,9 Ave & W 22 St,Manhattan,Chelsea and Clinton,40.7454973,-74.00197139,200.38,203.88,3.52,-24.19,3.52,-13.46,11.12,27.7,Equilibrada,81,0.37
+361,Allen St & Hester St,Manhattan,Lower East Side,40.71605866,-73.99190759,134.08,133.77,-0.29,-26.53,0.94,-25.54,12.61,27.5,Se vacía en la mañana (origen),82,0.38
+427,Bus Slip & State St,Manhattan,Lower Manhattan,40.701907,-74.013942,86.5,86.3,-0.2,-0.83,26.7,25.79,-21.02,27.5,Se llena en la mañana (destino),83,0.38
+2010,Grand St & Greene St,Manhattan,Greenwich Village and Soho,40.72165481,-74.00234737,115.69,114.65,-1.04,-1.04,26.26,22.39,-20.51,27.3,Se llena en la mañana (destino),84,0.38
+217,Old Fulton St,Brooklyn,Northwest Brooklyn,40.70277159,-73.99383605,87.64,108.84,21.15,-0.65,26.55,14.02,-1.45,27.2,Equilibrada,85,0.38
+501,FDR Drive & E 35 St,Manhattan,Gramercy Park and Murray Hill,40.744219,-73.97121214,149.17,143.89,-5.27,-26.06,0.97,-18.9,6.31,27.0,Se vacía en la mañana (origen),86,0.39
+257,Lispenard St & Broadway,Manhattan,Greenwich Village and Soho,40.71939226,-74.00247214,129.6,130.29,0.68,0.1,27.01,23.39,-19.45,26.9,Se llena en la mañana (destino),87,0.39
+383,Greenwich Ave & Charles St,Manhattan,Chelsea and Clinton,40.735238,-74.000271,149.01,152.31,3.3,-21.01,5.87,-17.34,18.2,26.9,Se vacía en la mañana (origen),88,0.39
+347,Greenwich St & W Houston St,Manhattan,Greenwich Village and Soho,40.728846,-74.008591,189.79,192.35,2.57,-0.9,25.9,20.23,-7.67,26.8,Se llena en la mañana (destino),89,0.39
+532,S 5 Pl & S 4 St,Brooklyn,Greenpoint,40.710451,-73.960876,105.28,93.54,-11.75,-26.07,0.71,-21.5,9.92,26.8,Se vacía en la mañana (origen),90,0.4
+3166,Riverside Dr & W 72 St,Manhattan,Upper West Side,40.78057799010334,-73.98562431335449,81.04,82.63,1.59,-25.2,1.59,-22.21,19.26,26.8,Se vacía en la mañana (origen),91,0.4
+368,Carmine St & 6 Ave,Manhattan,Greenwich Village and Soho,40.73038599,-74.00214988,254.74,259.44,4.66,-17.3,9.55,-9.37,11.12,26.8,Equilibrada,92,0.4
+150,E 2 St & Avenue C,Manhattan,Lower East Side,40.7208736,-73.98085795,77.09,79.27,2.18,-24.51,2.18,-21.63,20.21,26.7,Se vacía en la mañana (origen),93,0.41
+3458,W 55 St & 6 Ave,Manhattan,Chelsea and Clinton,40.76309387270797,-73.9783501625061,126.21,126.46,0.28,-0.29,26.44,20.67,-6.01,26.7,Se llena en la mañana (destino),94,0.41
+387,Centre St & Chambers St,Manhattan,Lower Manhattan,40.71273266,-74.0046073,217.79,216.04,-1.77,-1.77,24.78,24.79,-18.44,26.6,Se llena en la mañana (destino),95,0.41
+317,E 6 St & Avenue B,Manhattan,Lower East Side,40.72453734,-73.98185424,113.68,113.56,-0.12,-26.22,0.3,-22.51,17.42,26.5,Se vacía en la mañana (origen),96,0.41
+3288,E 88 St & 1 Ave,Manhattan,Upper East Side,40.778301,-73.9488134,60.68,61.7,0.97,-25.35,0.97,-22.27,21.14,26.3,Se vacía en la mañana (origen),97,0.42
+440,E 45 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.75255434,-73.97282625,126.65,126.06,-0.58,-0.67,25.65,17.92,-7.95,26.3,Se llena en la mañana (destino),98,0.42
+305,E 58 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.76095756,-73.96724467,141.34,140.78,-0.58,-0.69,25.47,18.4,-9.27,26.2,Se llena en la mañana (destino),99,0.42
+259,South St & Whitehall St,Manhattan,Lower Manhattan,40.70122128,-74.01234218,101.31,103.3,1.97,-0.74,25.43,25.89,-16.39,26.2,Se llena en la mañana (destino),100,0.42
+502,Henry St & Grand St,Manhattan,Lower East Side,40.714215,-73.981346,94.87,96.53,1.7,-24.47,1.7,-19.71,17.62,26.2,Se vacía en la mañana (origen),101,0.43
+3165,Central Park West & W 72 St,Manhattan,Upper West Side,40.77579376683666,-73.9762057363987,148.61,135.99,-12.62,-25.97,0.06,-22.52,7.64,26.0,Se vacía en la mañana (origen),102,0.43
+366,Clinton Ave & Myrtle Ave,Brooklyn,Northwest Brooklyn,40.693261,-73.968896,67.53,68.27,0.74,-24.92,0.84,-21.72,18.74,25.8,Se vacía en la mañana (origen),103,0.43
+472,E 32 St & Park Ave,Manhattan,Gramercy Park and Murray Hill,40.7457121,-73.98194829,211.97,211.34,-0.63,-1.02,24.78,19.45,-7.17,25.8,Se llena en la mañana (destino),104,0.43
+3632,E 12 St & Avenue B,Manhattan,Lower East Side,40.728048571362606,-73.97881150245665,42.87,55.8,12.94,-12.54,12.94,-10.89,10.98,25.5,Equilibrada,105,0.44
+2023,E 55 St & Lexington Ave,Manhattan,Gramercy Park and Murray Hill,40.75968085,-73.97031366,73.7,73.39,-0.32,-0.38,24.87,19.26,-8.43,25.2,Se llena en la mañana (destino),106,0.44
+458,11 Ave & W 27 St,Manhattan,Chelsea and Clinton,40.751396,-74.005226,186.39,192.2,5.79,-0.45,24.5,19.0,-4.6,25.0,Se llena en la mañana (destino),107,0.44
+546,E 30 St & Park Ave S,Manhattan,Gramercy Park and Murray Hill,40.74444921,-73.98303529,156.22,155.22,-1.01,-1.49,23.26,19.31,-12.02,24.8,Se llena en la mañana (destino),108,0.44
+461,E 20 St & 2 Ave,Manhattan,Lower East Side,40.73587678,-73.98205027,174.95,174.88,-0.07,-23.75,0.99,-23.26,17.19,24.7,Se vacía en la mañana (origen),109,0.44
+376,John St & William St,Manhattan,Lower Manhattan,40.70862144,-74.00722156,96.58,95.25,-1.33,-3.27,21.41,16.82,-19.84,24.7,Se llena en la mañana (destino),110,0.45
+534,Water - Whitehall Plaza,Manhattan,Lower Manhattan,40.70255065,-74.0127234,64.2,63.83,-0.36,-0.57,24.01,20.86,-16.88,24.6,Se llena en la mañana (destino),111,0.45
+517,Pershing Square South,Manhattan,Gramercy Park and Murray Hill,40.751581,-73.97791,202.64,192.84,-9.75,-9.75,14.74,13.1,-15.2,24.5,Equilibrada,112,0.45
+536,1 Ave & E 30 St,Manhattan,Gramercy Park and Murray Hill,40.74144387,-73.97536082,155.87,154.29,-1.59,-3.71,20.62,-2.14,-0.22,24.3,Equilibrada,113,0.45
+3429,Hanson Pl & Ashland Pl,Brooklyn,Northwest Brooklyn,40.685068073081766,-73.97790759801862,128.31,128.18,-0.19,-5.69,18.56,7.56,-9.11,24.2,Equilibrada,114,0.46
+486,Broadway & W 29 St,Manhattan,Chelsea and Clinton,40.7462009,-73.98855723,204.97,204.96,0.03,-0.13,24.01,16.74,-15.73,24.1,Se llena en la mañana (destino),115,0.46
+444,Broadway & W 24 St,Manhattan,Gramercy Park and Murray Hill,40.7423543,-73.98915076,149.89,150.46,0.59,-0.18,23.79,21.73,-11.7,24.0,Se llena en la mañana (destino),116,0.46
+342,Columbia St & Rivington St,Manhattan,Lower East Side,40.71739973,-73.98016555,58.39,59.31,0.92,-23.01,0.92,-17.76,14.06,23.9,Se vacía en la mañana (origen),117,0.46
+505,6 Ave & W 33 St,Manhattan,Chelsea and Clinton,40.74901271,-73.98848395,248.5,250.71,2.17,-4.6,19.23,-2.36,-11.64,23.8,Equilibrada,118,0.47
+312,Allen St & Stanton St,Manhattan,Lower East Side,40.722055,-73.989111,146.96,148.22,1.28,-22.24,1.53,-17.0,17.4,23.8,Se vacía en la mañana (origen),119,0.47
+330,Reade St & Broadway,Manhattan,Lower Manhattan,40.71450451,-74.00562789,90.38,89.61,-0.85,-0.93,22.65,18.17,-17.62,23.6,Se llena en la mañana (destino),120,0.47
+3459,E 53 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.75763227739442,-73.96930575370787,87.96,87.8,-0.18,-0.42,23.18,20.58,-15.39,23.6,Se llena en la mañana (destino),121,0.47
+3466,W 45 St & 6 Ave,Manhattan,Chelsea and Clinton,40.75668720603179,-73.98257732391357,96.68,96.24,-0.4,-0.4,22.96,18.17,-5.53,23.4,Se llena en la mañana (destino),122,0.47
+515,W 43 St & 10 Ave,Manhattan,Chelsea and Clinton,40.76009437,-73.99461843,107.96,110.54,2.56,-20.73,2.56,-15.27,13.9,23.3,Se vacía en la mañana (origen),123,0.48
+3305,E 91 St & 2 Ave,Manhattan,Upper East Side,40.78112229934166,-73.94965589046478,66.43,67.95,1.56,-21.73,1.56,-19.08,15.8,23.3,Se vacía en la mañana (origen),124,0.48
+239,Willoughby St & Fleet St,Brooklyn,Northwest Brooklyn,40.69196566,-73.9813018,74.82,70.64,-4.18,-4.33,18.81,17.26,-15.48,23.1,Se llena en la mañana (destino),125,0.48
+453,W 22 St & 8 Ave,Manhattan,Chelsea and Clinton,40.74475148,-73.99915362,168.74,169.32,0.58,-21.76,1.38,-15.46,12.59,23.1,Se vacía en la mañana (origen),126,0.48
+530,11 Ave & W 59 St,Manhattan,Chelsea and Clinton,40.771522,-73.990541,162.36,163.33,0.99,-18.73,4.13,-21.27,15.12,22.9,Se vacía en la mañana (origen),127,0.49
+499,Broadway & W 60 St,Manhattan,Upper West Side,40.76915505,-73.98191841,227.21,206.39,-20.79,-20.79,1.89,-8.81,-5.88,22.7,Equilibrada,128,0.49
+3150,E 85 St & York Ave,Manhattan,Upper East Side,40.77536905,-73.94803392,54.49,55.67,1.16,-21.5,1.16,-17.66,12.92,22.7,Se vacía en la mañana (origen),129,0.49
+153,E 40 St & 5 Ave,Manhattan,Gramercy Park and Murray Hill,40.752062307,-73.9816324043,104.12,100.35,-3.72,-3.72,18.89,15.14,-7.87,22.6,Se llena en la mañana (destino),130,0.49
+238,Bank St & Washington St,Manhattan,Greenwich Village and Soho,40.7361967,-74.00859207,96.25,97.33,1.07,-20.28,2.34,-15.23,14.83,22.6,Se vacía en la mañana (origen),131,0.49
+350,Clinton St & Grand St,Manhattan,Lower East Side,40.71559509,-73.9870295,87.61,88.87,1.23,-21.39,1.23,-18.16,17.08,22.6,Se vacía en la mañana (origen),132,0.5
+388,W 26 St & 10 Ave,Manhattan,Chelsea and Clinton,40.749717753,-74.002950346,130.28,130.98,0.67,-1.6,20.98,19.39,-13.44,22.6,Se llena en la mañana (destino),133,0.5
+3132,E 59 St & Madison Ave,Manhattan,Gramercy Park and Murray Hill,40.76350532,-73.97109243,76.24,76.39,0.19,-0.16,22.27,17.06,-8.55,22.4,Se llena en la mañana (destino),134,0.5
+326,E 11 St & 1 Ave,Manhattan,Lower East Side,40.72953837,-73.98426726,131.65,133.65,1.98,-20.23,2.09,-14.94,16.35,22.3,Equilibrada,135,0.5
+442,W 27 St & 7 Ave,Manhattan,Chelsea and Clinton,40.746647,-73.993915,239.99,241.03,1.04,0.08,22.22,17.66,-12.89,22.1,Se llena en la mañana (destino),136,0.51
+382,University Pl & E 14 St,Manhattan,Lower East Side,40.73492695,-73.99200509,265.61,272.17,6.56,-0.24,21.85,16.23,-7.16,22.1,Se llena en la mañana (destino),137,0.51
+339,Avenue D & E 12 St,Manhattan,Lower East Side,40.72580614,-73.97422494,39.57,35.25,-4.32,-21.35,0.56,-17.11,11.87,21.9,Se vacía en la mañana (origen),138,0.51
+485,W 37 St & 5 Ave,Manhattan,Chelsea and Clinton,40.75038009,-73.98338988,139.61,139.01,-0.59,-0.59,21.29,17.97,-8.96,21.9,Se llena en la mañana (destino),139,0.51
+360,William St & Pine St,Manhattan,Lower Manhattan,40.70717936,-74.00887308,77.3,76.53,-0.76,-2.16,19.77,15.76,-13.76,21.9,Se llena en la mañana (destino),140,0.51
+403,E 2 St & 2 Ave,Manhattan,Lower East Side,40.72502876,-73.99069656,113.94,115.88,1.96,-18.93,2.86,-17.59,15.77,21.8,Se vacía en la mañana (origen),141,0.52
+3090,N 8 St & Driggs Ave,Brooklyn,Greenpoint,40.71774592,-73.95600096,95.06,96.96,1.9,-0.52,21.28,18.41,-12.93,21.8,Se llena en la mañana (destino),142,0.52
+303,Mercer St & Spring St,Manhattan,Greenwich Village and Soho,40.72362738,-73.99949601,112.24,112.21,-0.06,-0.06,21.67,18.38,-15.57,21.7,Se llena en la mañana (destino),143,0.52
+448,W 37 St & 10 Ave,Manhattan,Chelsea and Clinton,40.75660359,-73.9979009,138.56,138.72,0.21,-20.17,1.48,-12.87,7.34,21.7,Equilibrada,144,0.52
+369,Washington Pl & 6 Ave,Manhattan,Chelsea and Clinton,40.73224119,-74.00026394,95.25,97.56,2.32,-15.9,5.6,-12.05,15.77,21.5,Equilibrada,145,0.52
+3093,N 6 St & Bedford Ave,Brooklyn,Greenpoint,40.71745169,-73.95850939,125.45,127.26,1.82,-0.55,20.83,16.71,-8.8,21.4,Se llena en la mañana (destino),146,0.53
+346,Bank St & Hudson St,Manhattan,Greenwich Village and Soho,40.73652889,-74.00618026,117.48,118.75,1.29,-19.08,2.35,-12.46,13.85,21.4,Equilibrada,147,0.53
+327,Vesey Pl & River Terrace,Manhattan,Tribeca,40.7153379,-74.01658354,222.94,220.77,-2.16,-2.51,18.93,14.92,-15.26,21.4,Equilibrada,148,0.53
+3295,Central Park W & W 96 St,Manhattan,Upper West Side,40.79127,-73.964839,82.09,73.62,-8.49,-21.15,0.15,-17.13,9.04,21.3,Se vacía en la mañana (origen),149,0.53
+526,E 33 St & 5 Ave,Manhattan,Gramercy Park and Murray Hill,40.74765947,-73.98490707,174.8,173.94,-0.86,-0.86,20.41,16.32,-7.25,21.3,Se llena en la mañana (destino),150,0.53
+3169,Riverside Dr & W 82 St,Manhattan,Upper West Side,40.78720869,-73.98128127,57.07,57.01,-0.09,-20.81,0.38,-18.21,14.42,21.2,Se vacía en la mañana (origen),151,0.54
+3258,W 27 St & 10 Ave,Manhattan,Chelsea and Clinton,40.75018156325683,-74.00218427181245,175.83,177.44,1.64,-4.38,16.85,14.12,-15.62,21.2,Equilibrada,152,0.54
+3374,Central Park North & Adam Clayton Powell Blvd,Manhattan,East Harlem,40.799484,-73.955613,120.04,122.94,2.9,-18.34,2.9,-15.45,13.58,21.2,Se vacía en la mañana (origen),153,0.54
+516,E 47 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.75206862,-73.96784384,67.97,67.46,-0.47,-1.03,20.19,19.87,-16.78,21.2,Se llena en la mañana (destino),154,0.54
+428,E 3 St & 1 Ave,Manhattan,Lower East Side,40.72467721,-73.98783413,121.05,122.77,1.72,-19.07,2.17,-13.38,15.76,21.2,Equilibrada,155,0.54
+2009,Catherine St & Monroe St,Manhattan,Lower Manhattan,40.71117444,-73.99682619,66.83,67.63,0.8,-19.88,1.25,-17.96,11.16,21.1,Se vacía en la mañana (origen),156,0.55
+319,Fulton St & Broadway,Manhattan,Lower Manhattan,40.711066,-74.009447,128.88,128.01,-0.88,-1.19,19.75,17.01,-15.73,20.9,Se llena en la mañana (destino),157,0.55
+212,W 16 St & The High Line,Manhattan,Chelsea and Clinton,40.74334935,-74.00681753,168.99,169.55,0.51,-0.46,20.19,11.02,-4.87,20.7,Equilibrada,158,0.55
+302,Avenue D & E 3 St,Manhattan,Lower East Side,40.72082834,-73.97793172,61.46,62.88,1.4,-19.31,1.4,-16.41,13.0,20.7,Se vacía en la mañana (origen),159,0.55
+266,Avenue D & E 8 St,Manhattan,Lower East Side,40.72368361,-73.97574813,45.74,45.94,0.18,-19.92,0.59,-17.01,13.89,20.5,Se vacía en la mañana (origen),160,0.55
+3462,E 44 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.751183874632765,-73.97138714790344,61.59,61.55,-0.06,-0.32,20.0,18.11,-10.71,20.3,Se llena en la mañana (destino),161,0.56
+3167,Amsterdam Ave & W 73 St,Manhattan,Upper West Side,40.77966809007312,-73.98093044757842,153.51,153.34,-0.16,-18.25,2.09,-14.22,16.2,20.3,Equilibrada,162,0.56
+3171,Amsterdam Ave & W 82 St,Manhattan,Upper West Side,40.78524672,-73.97667321,87.39,84.7,-2.69,-19.97,0.31,-17.02,13.27,20.3,Se vacía en la mañana (origen),163,0.56
+3472,W 15 St & 10 Ave,Manhattan,Chelsea and Clinton,40.74275382865903,-74.0074735879898,68.63,70.22,1.56,-0.51,19.6,16.46,-11.13,20.1,Se llena en la mañana (destino),164,0.56
+151,Cleveland Pl & Spring St,Manhattan,Greenwich Village and Soho,40.722103786686034,-73.99724900722502,246.94,246.17,-0.77,-0.77,19.2,14.77,-11.0,20.0,Equilibrada,165,0.56
+244,Willoughby Ave & Hall St,Brooklyn,Northwest Brooklyn,40.69196035,-73.96536851,50.05,47.85,-2.2,-19.2,0.85,-17.18,9.14,20.0,Se vacía en la mañana (origen),166,0.57
+466,W 25 St & 6 Ave,Manhattan,Gramercy Park and Murray Hill,40.74395411,-73.99144871,195.54,195.71,0.18,-0.5,19.44,17.76,-11.58,19.9,Se llena en la mañana (destino),167,0.57
+161,LaGuardia Pl & W 3 St,Manhattan,Greenwich Village and Soho,40.72917025,-73.99810231,184.91,189.91,5.03,-4.23,15.47,3.22,5.75,19.7,Equilibrada,168,0.57
+430,York St & Jay St,Brooklyn,Northwest Brooklyn,40.7014851,-73.98656928,108.49,107.8,-0.69,-0.69,19.01,17.41,-12.58,19.7,Se llena en la mañana (destino),169,0.57
+293,Lafayette St & E 8 St,Manhattan,Lower East Side,40.730206605299536,-73.99102628231049,269.14,273.76,4.66,-0.44,19.23,14.08,-3.88,19.7,Equilibrada,170,0.57
+483,E 12 St & 3 Ave,Manhattan,Lower East Side,40.73223272,-73.98889957,182.77,185.21,2.42,-13.93,5.75,-15.69,14.3,19.7,Se vacía en la mañana (origen),171,0.58
+3232,Bond St & Fulton St,Brooklyn,Northwest Brooklyn,40.68962188790333,-73.98304268717766,49.94,63.22,13.26,-0.79,18.86,11.89,-0.91,19.6,Equilibrada,172,0.58
+174,E 25 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.7381765,-73.97738662,129.26,128.46,-0.76,-17.79,1.69,-15.12,6.18,19.5,Se vacía en la mañana (origen),173,0.58
+335,Washington Pl & Broadway,Manhattan,Greenwich Village and Soho,40.72903917,-73.99404649,141.48,144.27,2.81,-0.45,19.04,15.9,-3.74,19.5,Se llena en la mañana (destino),174,0.58
+3436,Greenwich St & Hubert St,Manhattan,Greenwich Village and Soho,40.721319,-74.010065,95.32,94.55,-0.78,-0.87,18.63,4.73,-3.71,19.5,Equilibrada,175,0.58
+2000,Front St & Washington St,Brooklyn,Northwest Brooklyn,40.70255088,-73.98940236,86.12,86.53,0.41,-0.11,19.35,16.02,-14.77,19.5,Se llena en la mañana (destino),176,0.58
+503,E 20 St & Park Ave,Manhattan,Gramercy Park and Murray Hill,40.73827428,-73.98751968,179.83,178.59,-1.24,-1.45,18.05,13.19,-7.98,19.5,Equilibrada,177,0.59
+399,Lafayette Ave & St James Pl,Brooklyn,Northwest Brooklyn,40.68851534,-73.9647628,50.3,32.59,-17.73,-19.06,0.14,-8.73,-1.31,19.2,Equilibrada,178,0.59
+331,Pike St & Monroe St,Manhattan,Lower East Side,40.71173107,-73.99193043,51.2,51.2,0.02,-18.05,0.93,-15.6,9.39,19.0,Se vacía en la mañana (origen),179,0.59
+482,W 15 St & 7 Ave,Manhattan,Chelsea and Clinton,40.73935542,-73.99931783,178.69,181.64,2.91,-15.93,3.12,-13.67,7.94,19.0,Equilibrada,180,0.59
+3224,W 13 St & Hudson St,Manhattan,Greenwich Village and Soho,40.73997354103409,-74.00513872504233,202.8,207.46,4.69,-2.1,16.91,11.84,-6.66,19.0,Equilibrada,181,0.59
+3308,Kane St & Clinton St,Brooklyn,Northwest Brooklyn,40.6861758,-73.99645295,38.37,39.21,0.83,-18.05,0.83,-15.21,10.56,18.9,Se vacía en la mañana (origen),182,0.6
+311,Norfolk St & Broome St,Manhattan,Lower East Side,40.7172274,-73.98802084,87.68,90.09,2.39,-16.52,2.39,-16.2,10.32,18.9,Se vacía en la mañana (origen),183,0.6
+3315,Henry St & Degraw St,Brooklyn,Northwest Brooklyn,40.6847514,-73.99917254,43.72,44.58,0.85,-17.97,0.85,-15.39,13.72,18.8,Se vacía en la mañana (origen),184,0.6
+268,Howard St & Centre St,Manhattan,Greenwich Village and Soho,40.71910537,-73.99973337,128.2,127.97,-0.27,-1.3,17.48,16.84,-11.94,18.8,Se llena en la mañana (destino),185,0.6
+470,W 20 St & 8 Ave,Manhattan,Chelsea and Clinton,40.74345335,-74.00004031,144.05,144.47,0.41,-18.25,0.58,-12.18,9.18,18.8,Equilibrada,186,0.6
+462,W 22 St & 10 Ave,Manhattan,Chelsea and Clinton,40.74691959,-74.00451887,195.89,196.92,1.05,-13.86,4.94,-5.89,5.56,18.8,Equilibrada,187,0.6
+229,Great Jones St,Manhattan,Greenwich Village and Soho,40.72743423,-73.99379025,252.02,258.28,6.24,-0.52,18.16,5.46,-4.38,18.7,Equilibrada,188,0.61
+3350,W 100 St & Broadway,Manhattan,Upper West Side,40.7973721,-73.97041192,59.14,57.94,-1.23,-18.3,0.44,-15.59,11.53,18.7,Se vacía en la mañana (origen),189,0.61
+3176,W 64 St & West End Ave,Manhattan,Upper West Side,40.77452835,-73.98753759,55.32,56.03,0.71,-17.97,0.76,-16.15,12.32,18.7,Se vacía en la mañana (origen),190,0.61
+3168,Central Park West & W 85 St,Manhattan,Upper West Side,40.78472675,-73.96961715,109.49,104.36,-5.11,-18.59,0.0,-14.55,9.67,18.6,Equilibrada,191,0.61
+332,Cherry St,Manhattan,Lower East Side,40.71219906,-73.97948148,50.04,51.36,1.35,-17.23,1.35,-14.61,11.19,18.6,Equilibrada,192,0.61
+3285,W 87 St  & Amsterdam Ave,Manhattan,Upper West Side,40.78839,-73.9747,59.35,56.66,-2.7,-18.22,0.27,-13.7,11.97,18.5,Equilibrada,193,0.62
+3163,Central Park West & W 68 St,Manhattan,Upper West Side,40.7734066,-73.97782542,127.69,108.98,-18.72,-18.72,-0.21,-13.89,-1.31,18.5,Equilibrada,194,0.62
+265,Stanton St & Chrystie St,Manhattan,Lower East Side,40.72229346,-73.99147535,139.45,141.49,2.06,-15.81,2.57,-15.26,14.5,18.4,Se vacía en la mañana (origen),195,0.62
+3260,Mercer St & Bleecker St,Manhattan,Greenwich Village and Soho,40.727063633483056,-73.99662137031555,170.51,174.04,3.5,-0.7,17.73,15.39,-7.18,18.4,Se llena en la mañana (destino),196,0.62
+3178,Riverside Dr & W 78 St,Manhattan,Upper West Side,40.78414472,-73.98362492,48.67,47.01,-1.6,-18.15,0.19,-14.77,10.42,18.3,Equilibrada,197,0.62
+3170,W 84 St & Columbus Ave,Manhattan,Upper West Side,40.78499979,-73.97283406,65.38,56.99,-8.4,-18.21,0.08,-13.67,7.62,18.3,Equilibrada,198,0.62
+411,E 6 St & Avenue D,Manhattan,Lower East Side,40.72228087,-73.97668709,55.75,57.23,1.51,-16.77,1.51,-15.15,13.34,18.3,Se vacía en la mañana (origen),199,0.63
+3290,E 89 St & York Ave,Manhattan,Upper East Side,40.7779453,-73.946041,47.58,48.06,0.48,-16.68,1.6,-13.9,11.75,18.3,Equilibrada,200,0.63
+127,Barrow St & Hudson St,Manhattan,Greenwich Village and Soho,40.73172428,-74.00674436,209.68,211.5,1.82,-16.51,1.82,-8.7,9.24,18.3,Equilibrada,201,0.63
+3235,E 41 St & Madison Ave,Manhattan,Gramercy Park and Murray Hill,40.752165280621966,-73.97992193698882,125.83,125.78,-0.07,-0.12,18.18,13.45,-6.26,18.3,Equilibrada,202,0.63
+3283,W 89 St & Columbus Ave,Manhattan,Upper West Side,40.7882213,-73.97041561,59.52,50.95,-8.56,-18.17,0.11,-14.1,7.63,18.3,Equilibrada,203,0.63
+545,E 23 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.736502,-73.97809472,180.56,181.11,0.51,-17.03,1.2,-13.22,14.6,18.2,Equilibrada,204,0.63
+473,Rivington St & Chrystie St,Manhattan,Lower East Side,40.72110063,-73.9919254,96.36,96.65,0.27,-17.69,0.56,-15.61,10.47,18.2,Se vacía en la mañana (origen),205,0.64
+285,Broadway & E 14 St,Manhattan,Lower East Side,40.73454567,-73.99074142,262.18,260.48,-1.75,-1.75,16.33,11.92,-7.88,18.1,Equilibrada,206,0.64
+270,Adelphi St & Myrtle Ave,Brooklyn,Northwest Brooklyn,40.69308257,-73.97178913,43.83,43.18,-0.61,-17.55,0.46,-13.15,11.4,18.0,Equilibrada,207,0.64
+314,Cadman Plaza West & Montague St,Brooklyn,Northwest Brooklyn,40.69383,-73.990539,59.95,55.03,-4.91,-4.91,13.06,10.79,-11.13,18.0,Equilibrada,208,0.64
+340,Madison St & Clinton St,Manhattan,Lower East Side,40.71269042,-73.98776323,55.03,56.07,1.07,-16.95,1.07,-13.61,10.41,18.0,Equilibrada,209,0.64
+258,DeKalb Ave & Vanderbilt Ave,Brooklyn,Northwest Brooklyn,40.68940747,-73.96885458,49.82,40.81,-9.0,-17.82,0.22,-13.76,6.31,18.0,Equilibrada,210,0.65
+531,Forsyth St & Broome St,Manhattan,Lower East Side,40.71893904,-73.99266288,151.81,153.23,1.43,-16.62,1.43,-16.17,8.06,18.0,Se vacía en la mañana (origen),211,0.65
+3226,W 82 St & Central Park West,Manhattan,Upper West Side,40.78275,-73.97137,73.53,66.21,-7.33,-17.46,0.26,-15.24,8.31,17.7,Se vacía en la mañana (origen),212,0.65
+264,Maiden Ln & Pearl St,Manhattan,Lower Manhattan,40.70706456,-74.00731853,76.46,76.69,0.26,-2.07,15.65,15.53,-14.56,17.7,Se llena en la mañana (destino),213,0.65
+307,Canal St & Rutgers St,Manhattan,Lower East Side,40.71427487,-73.98990025,127.39,128.04,0.64,-16.88,0.76,-15.24,13.33,17.6,Se vacía en la mañana (origen),214,0.65
+3351,E 102 St & 1 Ave,Manhattan,East Harlem,40.7869946,-73.94164802,47.76,48.46,0.73,-16.85,0.73,-13.34,11.39,17.6,Equilibrada,215,0.65
+392,Jay St & Tech Pl,Brooklyn,Northwest Brooklyn,40.695065,-73.987167,69.8,69.96,0.11,-0.2,17.33,16.18,-10.25,17.5,Se llena en la mañana (destino),216,0.66
+349,Rivington St & Ridge St,Manhattan,Lower East Side,40.71850211,-73.98329859,59.05,59.83,0.78,-16.66,0.78,-13.62,10.74,17.4,Equilibrada,217,0.66
+390,Duffield St & Willoughby St,Brooklyn,Northwest Brooklyn,40.69221589,-73.9842844,57.48,56.2,-1.29,-1.29,16.14,15.11,-12.63,17.4,Se llena en la mañana (destino),218,0.66
+3307,West End Ave & W 94 St,Manhattan,Upper West Side,40.7941654,-73.974124,46.38,46.77,0.36,-16.93,0.46,-14.33,10.54,17.4,Equilibrada,219,0.66
+315,South St & Gouverneur Ln,Manhattan,Lower Manhattan,40.70355377,-74.00670227,142.96,144.77,1.81,-0.6,16.69,17.29,-13.47,17.3,Se llena en la mañana (destino),220,0.66
+336,Sullivan St & Washington Sq,Manhattan,Greenwich Village and Soho,40.73047747,-73.99906065,158.01,162.99,5.0,-5.93,11.32,-3.1,8.52,17.2,Equilibrada,221,0.66
+495,W 47 St & 10 Ave,Manhattan,Chelsea and Clinton,40.76269882,-73.99301222,131.69,131.82,0.15,-16.91,0.3,-9.67,7.92,17.2,Equilibrada,222,0.67
+253,W 13 St & 5 Ave,Manhattan,Chelsea and Clinton,40.73543934,-73.99453948,136.55,136.19,-0.39,-0.39,16.78,10.88,-7.1,17.2,Equilibrada,223,0.67
+3100,Nassau Ave & Newell St,Brooklyn,Greenpoint,40.724812564400175,-73.94752621650694,41.23,41.64,0.47,-15.13,1.99,-12.09,6.17,17.1,Equilibrada,224,0.67
+537,Lexington Ave & E 24 St,Manhattan,Gramercy Park and Murray Hill,40.74025878,-73.98409214,225.6,223.18,-2.43,-3.75,13.34,8.73,-7.88,17.1,Equilibrada,225,0.67
+128,MacDougal St & Prince St,Manhattan,Greenwich Village and Soho,40.72710258,-74.00297088,217.05,218.02,0.93,-1.38,15.75,15.81,-10.05,17.1,Se llena en la mañana (destino),226,0.67
+3108,Nassau Ave & Russell St,Brooklyn,Greenpoint,40.72557,-73.94434,51.7,51.74,0.02,-16.37,0.57,-13.61,7.72,16.9,Equilibrada,227,0.67
+468,Broadway & W 56 St,Manhattan,Chelsea and Clinton,40.7652654,-73.98192338,175.54,169.21,-6.33,-6.57,10.3,8.47,-4.37,16.9,Equilibrada,228,0.68
+3461,Murray St & Greenwich St,Manhattan,Lower Manhattan,40.71485150526252,-74.01122331619263,82.92,81.76,-1.13,-1.2,15.56,13.46,-13.16,16.8,Equilibrada,229,0.68
+321,Cadman Plaza E & Red Cross Pl,Brooklyn,Northwest Brooklyn,40.69991755,-73.98971773,63.77,61.18,-2.59,-2.59,14.26,11.77,-11.14,16.8,Equilibrada,230,0.68
+3077,Stagg St & Union Ave,Brooklyn,Greenpoint,40.70877084,-73.95095259,39.53,39.96,0.39,-15.63,1.15,-14.2,8.36,16.8,Equilibrada,231,0.68
+291,Madison St & Montgomery St,Manhattan,Lower East Side,40.713126,-73.984844,53.36,54.46,1.07,-15.57,1.07,-12.31,11.84,16.6,Equilibrada,232,0.68
+79,Franklin St & W Broadway,Manhattan,Greenwich Village and Soho,40.71911552,-74.00666661,92.25,92.67,0.42,-0.19,16.42,11.05,-10.98,16.6,Equilibrada,233,0.68
+249,Harrison St & Hudson St,Manhattan,Greenwich Village and Soho,40.71870987,-74.0090009,75.48,74.26,-1.15,-1.16,15.33,12.5,-12.07,16.5,Equilibrada,234,0.68
+363,West Thames St,Manhattan,Lower Manhattan,40.70834698,-74.01713445,128.85,125.74,-3.14,-15.42,1.07,-11.66,1.01,16.5,Equilibrada,235,0.69
+248,Laight St & Hudson St,Manhattan,Greenwich Village and Soho,40.72185379,-74.00771779,44.8,44.01,-0.8,-0.8,15.67,13.66,-12.27,16.5,Equilibrada,236,0.69
+3263,Cooper Square & E 7 St,Manhattan,Lower East Side,40.72923649910006,-73.9908680319786,260.36,260.61,0.23,-0.44,15.96,-1.06,3.85,16.4,Equilibrada,237,0.69
+391,Clark St & Henry St,Brooklyn,Northwest Brooklyn,40.69760127,-73.99344559,88.64,73.09,-15.55,-15.55,0.9,-3.26,-5.6,16.4,Equilibrada,238,0.69
+479,9 Ave & W 45 St,Manhattan,Chelsea and Clinton,40.76019252,-73.9912551,202.76,203.46,0.7,-11.64,4.65,-6.25,4.2,16.3,Equilibrada,239,0.69
+243,Fulton St & Rockwell Pl,Brooklyn,Northwest Brooklyn,40.688226,-73.979382,43.42,53.64,10.2,-0.16,16.03,11.77,-2.21,16.2,Equilibrada,240,0.69
+3162,W 78 St & Broadway,Manhattan,Upper West Side,40.78339981,-73.98093133,63.76,61.29,-2.47,-16.09,0.14,-14.23,9.4,16.2,Equilibrada,241,0.7
+3172,W 74 St & Columbus Ave,Manhattan,Upper West Side,40.7785669,-73.97754961,55.73,53.78,-1.95,-15.92,0.33,-10.81,9.42,16.2,Equilibrada,242,0.7
+252,MacDougal St & Washington Sq,Manhattan,Chelsea and Clinton,40.73226398,-73.99852205,113.5,116.4,2.92,-9.76,6.49,-7.91,10.97,16.2,Equilibrada,243,0.7
+414,Pearl St & Anchorage Pl,Brooklyn,Northwest Brooklyn,40.70281858,-73.98765762,52.75,53.43,0.68,0.06,16.0,14.12,-11.71,15.9,Equilibrada,244,0.7
+262,Washington Park,Brooklyn,Northwest Brooklyn,40.6917823,-73.9737299,34.23,30.75,-3.5,-15.38,0.47,-12.78,6.95,15.8,Equilibrada,245,0.7
+348,W Broadway & Spring St,Manhattan,Greenwich Village and Soho,40.72490985,-74.00154702,88.28,91.29,2.98,-1.15,14.53,11.86,-9.54,15.7,Equilibrada,246,0.7
+223,W 13 St & 7 Ave,Manhattan,Chelsea and Clinton,40.73781509,-73.99994661,103.36,105.89,2.53,-10.27,5.42,-9.81,9.71,15.7,Equilibrada,247,0.7
+284,Greenwich Ave & 8 Ave,Manhattan,Greenwich Village and Soho,40.7390169121,-74.0026376103,250.13,254.82,4.72,-10.0,5.55,-10.36,6.26,15.6,Equilibrada,248,0.71
+3312,1 Ave & E 94 St,Manhattan,Upper East Side,40.7817212,-73.94594,38.68,40.48,1.8,-13.67,1.8,-10.2,10.64,15.5,Equilibrada,249,0.71
+3286,E 89 St & 3 Ave,Manhattan,Upper East Side,40.7806284,-73.9521667,54.44,55.2,0.8,-14.55,0.8,-12.22,9.92,15.4,Equilibrada,250,0.71
+3474,6 Ave & Spring St,Manhattan,Greenwich Village and Soho,40.7252556952547,-74.00412082672118,55.81,55.39,-0.49,-0.61,14.65,12.69,-11.71,15.3,Equilibrada,251,0.71
+254,W 11 St & 6 Ave,Manhattan,Chelsea and Clinton,40.73532427,-73.99800419,94.47,96.7,2.22,-9.55,5.72,-8.83,9.74,15.3,Equilibrada,252,0.71
+3092,Berry St & N 8 St,Brooklyn,Greenpoint,40.7190095,-73.95852515,79.51,80.14,0.63,-1.36,13.91,13.77,-4.49,15.3,Equilibrada,253,0.71
+3136,5 Ave & E 63 St,Manhattan,Upper East Side,40.766368,-73.971518,71.05,69.68,-1.37,-1.37,13.86,12.28,-10.61,15.2,Equilibrada,254,0.72
+3434,W 88 St & West End Ave,Manhattan,Upper West Side,40.79025417330419,-73.97718340158461,41.38,39.56,-1.78,-14.76,0.42,-10.94,8.11,15.2,Equilibrada,255,0.72
+3160,Central Park West & W 76 St,Manhattan,Upper West Side,40.77896784,-73.97374737,85.27,77.06,-8.2,-15.18,-0.11,-12.47,4.68,15.1,Equilibrada,256,0.72
+362,Broadway & W 37 St,Manhattan,Chelsea and Clinton,40.75172632,-73.98753523,79.52,78.05,-1.49,-1.49,13.57,11.35,-9.78,15.1,Equilibrada,257,0.72
+3301,Columbus Ave & W 95 St,Manhattan,Upper West Side,40.7919557,-73.968087,66.05,62.41,-3.6,-14.79,0.19,-11.69,6.17,15.0,Equilibrada,258,0.72
+167,E 39 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.7489006,-73.97604882,150.16,149.55,-0.62,-1.28,13.67,10.92,-6.73,15.0,Equilibrada,259,0.72
+480,W 53 St & 10 Ave,Manhattan,Chelsea and Clinton,40.76669671,-73.99061728,128.44,128.44,0.03,-14.38,0.6,-12.51,7.67,15.0,Equilibrada,260,0.72
+3360,Amsterdam Ave & W 79 St,Manhattan,Upper West Side,40.7829391,-73.9786517,82.08,80.49,-1.58,-14.96,0.02,-10.81,11.74,15.0,Equilibrada,261,0.73
+408,Market St & Cherry St,Manhattan,Lower East Side,40.71076228,-73.99400398,51.63,51.77,0.14,-14.29,0.58,-12.98,10.57,14.9,Equilibrada,262,0.73
+508,W 46 St & 11 Ave,Manhattan,Chelsea and Clinton,40.76341379,-73.99667444,137.38,137.99,0.61,-13.37,1.38,-10.21,5.84,14.8,Equilibrada,263,0.73
+3238,E 80 St & 2 Ave,Manhattan,Upper East Side,40.77391390238118,-73.9543953537941,53.48,54.78,1.3,-13.46,1.35,-10.72,9.65,14.8,Equilibrada,264,0.73
+3106,Driggs Ave & N Henry St,Brooklyn,Greenpoint,40.72325,-73.94308,42.27,42.94,0.68,-14.07,0.68,-12.3,9.23,14.8,Equilibrada,265,0.73
+507,E 25 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.73912601,-73.97973776,180.99,179.29,-1.7,-12.48,2.18,-7.87,4.69,14.7,Equilibrada,266,0.73
+494,W 26 St & 8 Ave,Manhattan,Chelsea and Clinton,40.74734825,-73.99723551,163.11,165.57,2.48,-9.33,5.17,-7.53,4.25,14.5,Equilibrada,267,0.73
+3159,W 67 St & Broadway,Manhattan,Upper West Side,40.77492513,-73.98266566,127.97,115.69,-12.25,-13.45,0.99,-12.56,4.12,14.4,Equilibrada,268,0.74
+3368,5 Ave & 3 St,Brooklyn,Northwest Brooklyn,40.6728155,-73.98352355,44.59,45.06,0.43,-13.99,0.43,-11.98,9.16,14.4,Equilibrada,269,0.74
+143,Clinton St & Joralemon St,Brooklyn,Northwest Brooklyn,40.69239502,-73.99337909,75.46,74.12,-1.34,-1.34,12.96,8.86,-9.62,14.3,Equilibrada,270,0.74
+3641,Broadway & W 25 St,Manhattan,Gramercy Park and Murray Hill,40.74286877312112,-73.98918628692627,68.19,66.53,-1.63,-1.63,12.67,11.39,-6.81,14.3,Equilibrada,271,0.74
+3331,Riverside Dr & W 104 St,Manhattan,Upper West Side,40.8013434,-73.9711457439,40.89,41.02,0.13,-13.95,0.21,-12.33,9.59,14.2,Equilibrada,272,0.74
+320,Leonard St & Church St,Manhattan,Greenwich Village and Soho,40.717571,-74.005549,93.77,94.16,0.39,-0.72,13.34,8.74,-8.76,14.1,Equilibrada,273,0.74
+279,Peck Slip & Front St,Manhattan,Lower Manhattan,40.707873,-74.00167,118.56,120.08,1.55,-1.04,13.04,9.8,-9.73,14.1,Equilibrada,274,0.74
+406,Hicks St & Montague St,Brooklyn,Northwest Brooklyn,40.69512845,-73.99595065,63.86,59.62,-4.23,-13.4,0.72,-12.6,6.86,14.1,Equilibrada,275,0.74
+3116,Huron St & Franklin St,Brooklyn,Greenpoint,40.73266,-73.95826,46.57,47.46,0.86,-12.77,1.26,-10.66,7.28,14.0,Equilibrada,276,0.75
+3156,E 72 St & York Ave,Manhattan,Upper East Side,40.76663814,-73.95348296,104.87,104.24,-0.64,-3.73,10.28,-2.28,-0.66,14.0,Equilibrada,277,0.75
+3372,E 74 St & 1 Ave,Manhattan,Upper East Side,40.7689738,-73.95482273,61.32,62.7,1.39,-12.55,1.39,-10.38,8.25,13.9,Equilibrada,278,0.75
+152,Warren St & Church St,Manhattan,Lower Manhattan,40.71473993,-74.00910627,88.32,86.53,-1.76,-1.76,12.09,8.08,-12.38,13.8,Equilibrada,279,0.75
+3289,W 90 St & Amsterdam Ave,Manhattan,Upper West Side,40.790179480950805,-73.97288918495178,39.9,38.49,-1.43,-13.69,0.11,-11.76,7.59,13.8,Equilibrada,280,0.75
+3175,W 70 St & Amsterdam Ave,Manhattan,Upper West Side,40.77748046,-73.98288594,78.65,77.41,-1.21,-13.38,0.39,-11.07,8.24,13.8,Equilibrada,281,0.75
+325,E 19 St & 3 Ave,Manhattan,Lower East Side,40.73624527,-73.98473765,124.95,124.56,-0.4,-13.1,0.62,-12.72,8.17,13.7,Equilibrada,282,0.75
+3321,Clinton St & Union St,Brooklyn,Northwest Brooklyn,40.6831164,-73.99785267,33.14,33.42,0.31,-13.05,0.66,-11.51,6.39,13.7,Equilibrada,283,0.76
+295,Pike St & E Broadway,Manhattan,Lower East Side,40.71406667,-73.99293911,82.66,82.82,0.16,-12.01,1.71,-12.43,6.49,13.7,Equilibrada,284,0.76
+328,Watts St & Greenwich St,Manhattan,Greenwich Village and Soho,40.72405549,-74.00965965,129.62,128.21,-1.41,-1.78,11.87,10.08,-9.32,13.6,Equilibrada,285,0.76
+3441,10 Hudson Yards,Manhattan,Chelsea and Clinton,40.752957,-74.00264,17.18,17.1,-0.05,-0.07,13.44,11.88,-10.1,13.5,Equilibrada,286,0.76
+146,Hudson St & Reade St,Manhattan,Greenwich Village and Soho,40.71625008,-74.0091059,94.66,92.24,-2.43,-2.43,11.0,4.89,-8.12,13.4,Equilibrada,287,0.76
+3345,Madison Ave & E 99 St,Manhattan,East Harlem,40.789485415532155,-73.95242929458618,30.27,29.44,-0.81,-0.81,12.57,7.56,-5.29,13.4,Equilibrada,288,0.76
+441,E 52 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.756014,-73.967416,111.41,109.0,-2.41,-2.41,10.87,10.07,-12.79,13.3,Equilibrada,289,0.76
+3118,McGuinness Blvd & Eagle St,Brooklyn,Greenpoint,40.73555,-73.95284,40.89,41.75,0.86,-12.46,0.86,-11.58,7.21,13.3,Equilibrada,290,0.76
+3086,Graham Ave & Conselyea St,Brooklyn,Greenpoint,40.715143,-73.944507,65.75,65.81,0.04,-0.2,12.97,12.06,-7.69,13.2,Equilibrada,291,0.77
+467,Dean St & 4 Ave,Brooklyn,Northwest Brooklyn,40.68312489,-73.97895137,68.69,68.81,0.14,-0.42,12.7,10.49,-8.33,13.1,Equilibrada,292,0.77
+83,Atlantic Ave & Fort Greene Pl,Brooklyn,Northwest Brooklyn,40.68382604,-73.97632328,46.8,50.97,4.19,-0.66,12.15,9.19,-1.69,12.8,Equilibrada,293,0.77
+3124,46 Ave & 5 St,Queens,Northwest Queens,40.74731,-73.95451,39.66,40.88,1.25,-11.53,1.25,-8.8,8.4,12.8,Equilibrada,294,0.77
+3418,Plaza St West & Flatbush Ave,Brooklyn,Central Brooklyn,40.6750207,-73.97111473,68.29,62.31,-5.93,-6.05,6.77,5.95,-7.22,12.8,Equilibrada,295,0.77
+341,Stanton St & Mangin St,Manhattan,Lower East Side,40.71782143,-73.97628939,50.27,51.19,0.88,-11.85,0.88,-8.43,8.42,12.7,Equilibrada,296,0.77
+3242,Schermerhorn St & Court St,Brooklyn,Northwest Brooklyn,40.69102925677968,-73.99183362722398,50.87,48.87,-2.03,-2.03,10.67,8.19,-6.85,12.7,Equilibrada,297,0.77
+3430,Richardson St & N Henry St,Brooklyn,Greenpoint,40.71907891179564,-73.94223690032959,34.4,34.4,0.04,-11.72,0.91,-10.81,7.46,12.6,Equilibrada,298,0.77
+3400,E 110 St & Madison Ave,Manhattan,East Harlem,40.7961535,-73.94782145,40.44,42.07,1.62,-10.99,1.62,-7.74,7.71,12.6,Equilibrada,299,0.78
+3293,W 92 St & Broadway,Manhattan,Upper West Side,40.7921,-73.9739,55.36,53.29,-2.05,-10.99,1.53,-10.63,6.51,12.5,Equilibrada,300,0.78
+334,W 20 St & 7 Ave,Manhattan,Chelsea and Clinton,40.74238787,-73.99726235,180.92,180.72,-0.17,-5.24,7.24,-2.44,-4.02,12.5,Equilibrada,301,0.78
+354,Emerson Pl & Myrtle Ave,Brooklyn,Northwest Brooklyn,40.69363137,-73.96223558,41.3,41.45,0.17,-11.85,0.65,-8.72,6.46,12.5,Equilibrada,302,0.78
+289,Monroe St & Classon Ave,Brooklyn,Central Brooklyn,40.6845683,-73.95881081,20.8,13.48,-7.33,-12.02,0.46,-8.53,2.02,12.5,Equilibrada,303,0.78
+3259,9 Ave & W 28 St,Manhattan,Chelsea and Clinton,40.749370241932766,-73.99923384189604,122.1,123.85,1.7,-10.72,1.7,-3.78,1.06,12.4,Equilibrada,304,0.78
+498,Broadway & W 32 St,Manhattan,Chelsea and Clinton,40.74854862,-73.98808416,192.84,192.58,-0.22,-0.55,11.86,0.58,-6.96,12.4,Equilibrada,305,0.78
+365,Fulton St & Grand Ave,Brooklyn,Central Brooklyn,40.68223166,-73.9614583,33.92,32.61,-1.35,-11.97,0.39,-9.0,4.57,12.4,Equilibrada,306,0.78
+3158,W 63 St & Broadway,Manhattan,Upper West Side,40.77163851,-73.98261428,143.62,131.82,-11.8,-11.8,0.46,-6.1,4.68,12.3,Equilibrada,307,0.78
+418,Front St & Gold St,Brooklyn,Northwest Brooklyn,40.70224,-73.982578,36.4,39.1,2.7,-2.01,10.31,10.3,-6.89,12.3,Equilibrada,308,0.79
+437,Macon St & Nostrand Ave,Brooklyn,Central Brooklyn,40.6809833854,-73.9500479759,51.83,49.84,-2.04,-2.04,10.29,8.32,-5.33,12.3,Equilibrada,309,0.79
+3147,E 85 St & 3 Ave,Manhattan,Upper East Side,40.77801203,-73.95407149,108.09,108.41,0.33,-9.94,2.27,-7.78,8.9,12.2,Equilibrada,310,0.79
+525,W 34 St & 11 Ave,Manhattan,Chelsea and Clinton,40.75594159,-74.0021163,126.25,127.69,1.43,-4.4,7.77,-5.19,1.76,12.2,Equilibrada,311,0.79
+3316,W 104 St & Amsterdam Ave,Manhattan,Upper West Side,40.7989937,-73.9662173778,29.64,27.94,-1.72,-11.39,0.79,-10.15,5.93,12.2,Equilibrada,312,0.79
+3109,Banker St & Meserole Ave,Brooklyn,Greenpoint,40.72606,-73.95621,46.19,46.64,0.45,-11.38,0.67,-10.54,6.45,12.0,Equilibrada,313,0.79
+539,Metropolitan Ave & Bedford Ave,Brooklyn,Greenpoint,40.71534825,-73.96024116,111.46,114.06,2.61,-1.33,10.68,-1.82,5.61,12.0,Equilibrada,314,0.79
+400,Pitt St & Stanton St,Manhattan,Lower East Side,40.71926081,-73.98178024,28.26,28.2,-0.06,-11.52,0.5,-10.34,7.71,12.0,Equilibrada,315,0.79
+3311,Columbia St & Kane St,Brooklyn,Northwest Brooklyn,40.68763155,-74.0016256,30.18,31.05,0.85,-11.12,0.85,-7.83,9.24,12.0,Equilibrada,316,0.8
+3320,Central Park West & W 100 St,Manhattan,Upper West Side,40.793393,-73.9635556,48.62,47.36,-1.23,-11.78,0.26,-10.6,6.0,12.0,Equilibrada,317,0.8
+3467,W Broadway & Spring Street,Manhattan,Greenwich Village and Soho,40.72494672359416,-74.00165855884552,66.46,68.37,1.91,-0.91,11.12,10.41,-7.05,12.0,Equilibrada,318,0.8
+72,W 52 St & 11 Ave,Manhattan,Chelsea and Clinton,40.76727216,-73.99392888,125.78,125.59,-0.22,-10.2,1.58,-9.83,3.71,11.8,Equilibrada,319,0.8
+405,Washington St & Gansevoort St,Manhattan,Greenwich Village and Soho,40.739323,-74.008119,163.94,166.01,2.06,-8.67,3.15,-2.91,5.31,11.8,Equilibrada,320,0.8
+261,Johnson St & Gold St,Brooklyn,Northwest Brooklyn,40.69474881,-73.98362464,46.41,48.52,2.12,-9.58,2.12,-4.16,4.51,11.7,Equilibrada,321,0.8
+417,Barclay St & Church St,Manhattan,Lower Manhattan,40.71291224,-74.01020234,177.57,177.25,-0.31,-1.12,10.62,8.5,-8.89,11.7,Equilibrada,322,0.8
+3148,E 84 St & 1 Ave,Manhattan,Upper East Side,40.77565541,-73.95068615,31.88,32.85,0.97,-10.77,0.97,-8.27,8.84,11.7,Equilibrada,323,0.8
+481,S 3 St & Bedford Ave,Brooklyn,Greenpoint,40.71260486,-73.96264403,57.7,53.94,-3.76,-11.37,0.3,-9.55,5.18,11.7,Equilibrada,324,0.8
+3389,Carroll St & Columbia St,Brooklyn,Northwest Brooklyn,40.6830456,-74.00348559,31.08,31.49,0.4,-11.17,0.48,-9.81,6.71,11.6,Equilibrada,325,0.81
+3396,Clinton St & 4 Place,Brooklyn,Northwest Brooklyn,40.6783563,-74.00014502,32.39,32.31,-0.05,-11.16,0.47,-9.64,5.98,11.6,Equilibrada,326,0.81
+3328,W 100 St & Manhattan Ave,Manhattan,Upper West Side,40.795,-73.9645,36.09,35.91,-0.21,-11.25,0.26,-9.14,5.77,11.5,Equilibrada,327,0.81
+120,Lexington Ave & Classon Ave,Brooklyn,Central Brooklyn,40.68676793,-73.95928168,27.34,24.59,-2.77,-11.04,0.41,-8.46,4.72,11.5,Equilibrada,328,0.81
+416,Cumberland St & Lafayette Ave,Brooklyn,Northwest Brooklyn,40.68753406,-73.97265183,43.1,38.52,-4.55,-10.52,0.85,-7.56,3.59,11.4,Equilibrada,329,0.81
+3052,Lewis Ave & Madison St,Brooklyn,Bushwick and Williamsburg,40.686312,-73.935775,22.54,22.17,-0.35,-10.46,0.93,-8.88,4.42,11.4,Equilibrada,330,0.81
+3367,5 Ave & E 103 St,Manhattan,East Harlem,40.7922553,-73.95249933,54.76,54.26,-0.48,-1.11,10.21,7.81,-4.36,11.3,Equilibrada,331,0.81
+3002,South End Ave & Liberty St,Manhattan,Lower Manhattan,40.711512,-74.015756,247.75,247.61,-0.16,-6.32,5.0,2.86,-3.32,11.3,Equilibrada,332,0.81
+3357,W 106 St & Amsterdam Ave,Manhattan,Upper West Side,40.8008363,-73.9664492472,35.58,35.03,-0.59,-11.06,0.24,-9.16,6.73,11.3,Equilibrada,333,0.81
+3314,W 95 St & Broadway,Manhattan,Upper West Side,40.7937704,-73.971888,66.79,66.3,-0.5,-10.67,0.48,-9.49,6.01,11.2,Equilibrada,334,0.82
+345,W 13 St & 6 Ave,Manhattan,Chelsea and Clinton,40.73649403,-73.99704374,159.56,159.69,0.09,-3.18,8.03,-4.57,4.05,11.2,Equilibrada,335,0.82
+3341,Central Park West & W 102 St,Manhattan,East Harlem,40.795346,-73.96186,33.42,32.74,-0.7,-10.09,1.06,-9.19,4.39,11.2,Equilibrada,336,0.82
+389,Broadway & Berry St,Brooklyn,Greenpoint,40.71044554,-73.96525063,61.91,61.19,-0.75,-11.09,0.11,-9.02,6.56,11.2,Equilibrada,337,0.82
+3361,Carroll St & 6 Ave,Brooklyn,Northwest Brooklyn,40.6740886,-73.9787282,34.5,34.39,-0.11,-10.82,0.26,-9.32,6.83,11.1,Equilibrada,338,0.82
+247,Perry St & Bleecker St,Manhattan,Greenwich Village and Soho,40.73535398,-74.00483091,62.86,63.54,0.7,-9.93,1.21,-6.1,6.43,11.1,Equilibrada,339,0.82
+3134,3 Ave & E 62 St,Manhattan,Upper East Side,40.76312584,-73.96526895,82.85,81.56,-1.31,-1.31,9.76,8.66,-9.33,11.1,Equilibrada,340,0.82
+355,Bayard St & Baxter St,Manhattan,Greenwich Village and Soho,40.71602118,-73.99974372,115.02,115.07,0.03,-2.18,8.89,4.53,-4.84,11.1,Equilibrada,341,0.82
+3463,E 16 St & Irving Pl,Manhattan,Lower East Side,40.735367055605394,-73.98797392845155,122.98,122.53,-0.44,-0.97,10.03,4.88,-0.68,11.0,Equilibrada,342,0.82
+528,2 Ave & E 31 St,Manhattan,Gramercy Park and Murray Hill,40.74290902,-73.97706058,135.42,133.43,-1.99,-4.65,6.3,-4.83,2.16,11.0,Equilibrada,343,0.82
+2021,W 45 St & 8 Ave,Manhattan,Chelsea and Clinton,40.75929124,-73.98859651,169.73,168.78,-0.95,-5.58,5.28,-3.45,1.8,10.9,Equilibrada,344,0.83
+306,Cliff St & Fulton St,Manhattan,Lower Manhattan,40.70823502,-74.00530063,89.43,89.12,-0.33,-3.37,7.48,5.52,-8.17,10.9,Equilibrada,345,0.83
+3110,Meserole Ave & Manhattan Ave,Brooklyn,Greenpoint,40.72708584,-73.95299117,55.98,56.38,0.43,-9.72,1.13,-9.01,5.66,10.9,Equilibrada,346,0.83
+3383,Cathedral Pkwy & Broadway,Manhattan,Upper West Side,40.804213,-73.96699104,87.88,85.32,-2.57,-10.68,0.25,-9.3,5.17,10.9,Equilibrada,347,0.83
+422,W 59 St & 10 Ave,Manhattan,Chelsea and Clinton,40.770513,-73.988038,83.11,80.27,-2.83,-7.43,3.46,-9.17,3.07,10.9,Equilibrada,348,0.83
+3115,India St & Manhattan Ave,Brooklyn,Greenpoint,40.73232194,-73.9550858,44.92,45.51,0.57,-9.96,0.88,-6.63,6.58,10.8,Equilibrada,349,0.83
+3016,Kent Ave & N 7 St,Brooklyn,Greenpoint,40.72036775298455,-73.96165072917938,108.82,112.8,3.97,-3.56,7.19,-1.89,4.4,10.8,Equilibrada,350,0.83
+3365,3 St & 7 Ave,Brooklyn,Northwest Brooklyn,40.6703837,-73.97839676,37.68,37.04,-0.64,-10.3,0.51,-8.62,6.38,10.8,Equilibrada,351,0.83
+3244,University Pl & E 8 St,Manhattan,Lower East Side,40.73143724085228,-73.9949034154415,147.8,149.41,1.6,-1.16,9.59,6.83,1.69,10.8,Equilibrada,352,0.83
+3078,Broadway & Roebling St,Brooklyn,Greenpoint,40.70924826276157,-73.96063148975372,54.23,51.76,-2.49,-2.49,8.22,6.39,-5.5,10.7,Equilibrada,353,0.84
+3435,Grand St & Elizabeth St,Manhattan,Greenwich Village and Soho,40.718822,-73.99596,200.06,197.51,-2.56,-5.84,4.87,2.57,-5.6,10.7,Equilibrada,354,0.84
+267,Broadway & W 36 St,Manhattan,Chelsea and Clinton,40.75097711,-73.98765428,154.09,153.09,-1.03,-1.03,9.57,7.37,-9.39,10.6,Equilibrada,355,0.84
+397,Fulton St & Clermont Ave,Brooklyn,Central Brooklyn,40.68415748,-73.96922273,26.74,23.93,-2.82,-10.17,0.39,-7.92,3.21,10.6,Equilibrada,356,0.84
+3370,E 78 St & 2 Ave,Manhattan,Upper East Side,40.7727966,-73.95577801,31.99,33.07,1.1,-9.52,1.1,-7.96,6.18,10.6,Equilibrada,357,0.84
+3256,Pier 40 - Hudson River Park,Manhattan,Greenwich Village and Soho,40.7277140777778,-74.01129573583603,165.62,166.18,0.6,0.08,10.72,6.08,-4.16,10.6,Equilibrada,358,0.84
+157,Henry St & Atlantic Ave,Brooklyn,Northwest Brooklyn,40.69089272,-73.99612349,56.36,57.55,1.19,-8.02,2.54,-7.16,8.01,10.6,Equilibrada,359,0.84
+3423,West Drive & Prospect Park West,Brooklyn,Central Brooklyn,40.6610633719006,-73.97945255041121,57.71,57.76,0.03,-10.35,0.26,-8.9,6.94,10.6,Equilibrada,360,0.84
+3388,President St & Henry St,Brooklyn,Northwest Brooklyn,40.6828003,-73.99990419,23.0,23.36,0.35,-10.2,0.35,-7.03,6.79,10.5,Equilibrada,361,0.84
+3366,West End Ave & W 107 St,Manhattan,Upper West Side,40.8021174,-73.9681805305,30.8,29.71,-1.08,-10.08,0.31,-7.83,5.55,10.4,Equilibrada,362,0.84
+471,Grand St & Havemeyer St,Brooklyn,Greenpoint,40.71286844,-73.95698119,43.09,43.02,-0.04,-9.76,0.69,-6.11,7.35,10.4,Equilibrada,363,0.85
+275,Washington Ave & Greene Ave,Brooklyn,Central Brooklyn,40.68650065,-73.96563307,27.98,25.75,-2.22,-10.17,0.26,-7.95,4.87,10.4,Equilibrada,364,0.85
+460,S 4 St & Wythe Ave,Brooklyn,Greenpoint,40.71285887,-73.96590294,91.8,92.04,0.23,-9.97,0.33,-5.85,1.0,10.3,Equilibrada,365,0.85
+282,Kent Ave & S 11 St,Brooklyn,Greenpoint,40.707644944175705,-73.96841526031494,52.77,53.33,0.55,-9.67,0.62,-7.66,4.66,10.3,Equilibrada,366,0.85
+3408,Congress St & Clinton St,Brooklyn,Northwest Brooklyn,40.6881529,-73.99520919,34.85,34.53,-0.33,-10.03,0.28,-8.02,4.72,10.3,Equilibrada,367,0.85
+3054,Greene Ave & Throop Ave,Brooklyn,Bushwick and Williamsburg,40.6894932,-73.942061,18.09,18.49,0.38,-9.56,0.59,-7.85,4.3,10.2,Equilibrada,368,0.85
+3358,Garfield Pl & 8 Ave,Brooklyn,Northwest Brooklyn,40.6711978,-73.97484126,28.29,27.46,-0.85,-9.8,0.36,-7.91,4.97,10.2,Equilibrada,369,0.85
+3422,Columbia St & Degraw St,Brooklyn,Northwest Brooklyn,40.6859296,-74.00242364,31.79,32.77,1.01,-9.24,1.01,-6.41,7.31,10.2,Equilibrada,370,0.85
+3428,8 Ave & W 16 St,Manhattan,Chelsea and Clinton,40.740983,-74.001702,185.88,185.5,-0.35,-2.08,8.03,6.61,-1.4,10.1,Equilibrada,371,0.85
+3354,3 St & Prospect Park West,Brooklyn,Central Brooklyn,40.668132,-73.97363831,41.85,36.82,-4.99,-9.95,0.13,-7.88,4.44,10.1,Equilibrada,372,0.85
+420,Clermont Ave & Lafayette Ave,Brooklyn,Central Brooklyn,40.68764484,-73.96968902,24.38,19.85,-4.55,-9.95,0.04,-7.49,3.25,10.0,Equilibrada,373,0.86
+3310,14 St & 7 Ave,Brooklyn,Northwest Brooklyn,40.663779,-73.98396846,28.48,27.64,-0.87,-9.62,0.39,-7.74,5.44,10.0,Equilibrada,374,0.86
+251,Mott St & Prince St,Manhattan,Greenwich Village and Soho,40.72317958,-73.99480012,159.87,161.5,1.6,-3.52,6.53,-1.1,-0.7,10.0,Equilibrada,375,0.86
+457,Broadway & W 58 St,Manhattan,Chelsea and Clinton,40.76695317,-73.98169333,213.3,208.56,-4.75,-4.75,5.28,2.24,-3.72,10.0,Equilibrada,376,0.86
+3386,1 Pl & Clinton St,Brooklyn,Northwest Brooklyn,40.6809591,-73.99905709,24.67,24.67,-0.03,-9.39,0.58,-7.26,4.86,10.0,Equilibrada,377,0.86
+384,Fulton St & Washington Ave,Brooklyn,Central Brooklyn,40.683048,-73.964915,41.02,41.1,0.06,-9.65,0.35,-7.72,6.18,10.0,Equilibrada,378,0.86
+3146,E 81 St & 3 Ave,Manhattan,Upper East Side,40.77573034,-73.9567526,52.53,52.12,-0.45,-9.85,0.08,-7.95,7.92,9.9,Equilibrada,379,0.86
+242,Carlton Ave & Flushing Ave,Brooklyn,Northwest Brooklyn,40.697787,-73.973736,48.11,50.82,2.71,-0.09,9.84,8.34,-7.26,9.9,Equilibrada,380,0.86
+419,Carlton Ave & Park Ave,Brooklyn,Northwest Brooklyn,40.69580705,-73.97355569,28.22,29.34,1.12,-8.82,1.12,-5.12,3.44,9.9,Equilibrada,381,0.86
+276,Duane St & Greenwich St,Manhattan,Greenwich Village and Soho,40.71748752,-74.0104554,80.19,78.05,-2.14,-2.14,7.61,3.37,-7.25,9.8,Equilibrada,382,0.86
+3117,Franklin St & Dupont St,Brooklyn,Greenpoint,40.73564,-73.95866,30.92,31.42,0.51,-8.77,0.91,-8.22,5.14,9.7,Equilibrada,383,0.86
+450,W 49 St & 8 Ave,Manhattan,Chelsea and Clinton,40.76227205,-73.98788205,197.67,193.14,-4.54,-5.59,4.11,-5.89,-0.35,9.7,Equilibrada,384,0.87
+465,Broadway & W 41 St,Manhattan,Chelsea and Clinton,40.75513557,-73.98658032,248.2,248.56,0.36,0.29,10.02,4.64,-7.68,9.7,Equilibrada,385,0.87
+3343,W 107 St & Columbus Ave,Manhattan,Upper West Side,40.7997568,-73.9621128676,27.28,27.02,-0.3,-8.75,0.81,-6.81,3.95,9.6,Equilibrada,386,0.87
+3411,Bond St & Bergen St,Brooklyn,Northwest Brooklyn,40.6849668,-73.98620772,29.44,29.34,-0.13,-9.06,0.4,-6.85,4.14,9.5,Equilibrada,387,0.87
+3145,E 84 St & Park Ave,Manhattan,Upper East Side,40.77862688,-73.95772073,54.15,50.64,-3.51,-9.27,0.1,-7.26,4.46,9.4,Equilibrada,388,0.87
+297,E 15 St & 3 Ave,Manhattan,Lower East Side,40.734232,-73.986923,195.1,195.24,0.12,-7.73,1.56,-6.27,5.62,9.3,Equilibrada,389,0.87
+3057,Kosciuszko St & Tompkins Ave,Brooklyn,Bushwick and Williamsburg,40.69128258,-73.9452416,19.35,19.77,0.42,-8.76,0.56,-8.26,4.35,9.3,Equilibrada,390,0.87
+3457,E 58 St & Madison Ave,Manhattan,Gramercy Park and Murray Hill,40.76302594280519,-73.97209525108337,26.4,26.99,0.58,-0.07,9.19,6.52,-3.61,9.3,Equilibrada,391,0.87
+3241,Monroe St & Tompkins Ave,Brooklyn,Central Brooklyn,40.686203,-73.944694,18.96,18.29,-0.66,-8.47,0.71,-7.49,3.47,9.2,Equilibrada,392,0.87
+3112,Milton St & Franklin St,Brooklyn,Greenpoint,40.72906,-73.95779,89.11,89.54,0.38,-2.08,7.12,4.8,-6.21,9.2,Equilibrada,393,0.87
+344,Monroe St & Bedford Ave,Brooklyn,Central Brooklyn,40.6851443,-73.95380904,29.24,27.87,-1.32,-8.64,0.52,-6.61,4.24,9.2,Equilibrada,394,0.87
+3157,East End Ave & E 86 St,Manhattan,Upper East Side,40.77518615,-73.94446054,24.6,25.48,0.88,-8.25,0.88,-6.34,5.53,9.1,Equilibrada,395,0.88
+3643,E 41 St & 5 Ave,Manhattan,Gramercy Park and Murray Hill,40.75272201381189,-73.98123621940611,27.72,26.67,-1.09,-1.1,8.04,5.42,-5.89,9.1,Equilibrada,396,0.88
+316,Fulton St & William St,Manhattan,Lower Manhattan,40.70955958,-74.00653609,47.82,47.59,-0.27,-0.44,8.6,6.08,-7.51,9.0,Equilibrada,397,0.88
+3319,14 St & 5 Ave,Brooklyn,Northwest Brooklyn,40.666287,-73.98895053,27.17,27.41,0.22,-8.74,0.22,-7.64,5.49,9.0,Equilibrada,398,0.88
+421,Clermont Ave & Park Ave,Brooklyn,Northwest Brooklyn,40.69573398,-73.97129668,18.96,18.45,-0.5,-8.65,0.34,-6.64,4.08,9.0,Equilibrada,399,0.88
+396,Lefferts Pl & Franklin Ave,Brooklyn,Central Brooklyn,40.680342423,-73.9557689392,35.78,36.12,0.34,-8.37,0.57,-6.88,5.48,8.9,Equilibrada,400,0.88
+3135,E 75 St & 3 Ave,Manhattan,Upper East Side,40.77112927,-73.95772297,45.82,46.38,0.54,-7.82,0.97,-6.68,6.59,8.8,Equilibrada,401,0.88
+3049,Cambridge Pl & Gates Ave,Brooklyn,Central Brooklyn,40.68488,-73.96304,20.34,21.24,0.91,-7.86,0.91,-6.01,4.26,8.8,Equilibrada,402,0.88
+3454,Leonard St & Maujer St,Brooklyn,Bushwick and Williamsburg,40.7103685423523,-73.94705951213837,25.98,26.09,0.09,-8.02,0.69,-6.32,4.17,8.7,Equilibrada,403,0.88
+3369,E 82 St & East End Ave,Manhattan,Upper East Side,40.77246067789397,-73.94682079553603,20.13,20.72,0.59,-8.03,0.59,-5.77,4.79,8.6,Equilibrada,404,0.88
+3364,Carroll St & 5 Ave,Brooklyn,Northwest Brooklyn,40.6751622,-73.9814832,32.75,33.69,0.91,-7.72,0.91,-4.95,5.72,8.6,Equilibrada,405,0.88
+3137,5 Ave & E 73 St,Manhattan,Upper West Side,40.77282817,-73.96685276,142.48,142.19,-0.33,-0.35,8.2,2.53,-3.12,8.6,Equilibrada,406,0.88
+3425,2 Ave  & E 104 St,Manhattan,East Harlem,40.7892105,-73.94370784,27.09,28.11,1.04,-7.48,1.17,-4.4,2.21,8.6,Equilibrada,407,0.89
+3107,Bedford Ave & Nassau Ave,Brooklyn,Greenpoint,40.72311651,-73.95212324,78.53,80.12,1.59,-6.19,2.34,-4.69,6.2,8.5,Equilibrada,408,0.89
+241,DeKalb Ave & S Portland Ave,Brooklyn,Northwest Brooklyn,40.68981035,-73.97493121,39.21,36.14,-3.08,-7.69,0.8,-7.35,2.38,8.5,Equilibrada,409,0.89
+434,9 Ave & W 18 St,Manhattan,Chelsea and Clinton,40.74317449,-74.00366443,138.6,139.47,0.87,-1.0,7.47,4.61,-2.67,8.5,Equilibrada,410,0.89
+407,Henry St & Poplar St,Brooklyn,Northwest Brooklyn,40.700469,-73.991454,36.4,33.12,-3.33,-3.54,4.79,1.03,-4.41,8.3,Equilibrada,411,0.89
+3095,Graham Ave & Herbert St,Brooklyn,Greenpoint,40.71929301,-73.94500379,18.0,19.08,1.09,-7.13,1.14,-5.97,2.96,8.3,Equilibrada,412,0.89
+518,E 39 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.74780373,-73.9734419,188.96,186.74,-2.24,-5.13,3.17,2.3,-2.13,8.3,Equilibrada,413,0.89
+3050,Putnam Ave & Throop Ave,Brooklyn,Bushwick and Williamsburg,40.6851532,-73.94111,18.73,18.16,-0.55,-7.26,1.03,-5.95,2.53,8.3,Equilibrada,414,0.89
+3076,Scholes St & Manhattan Ave,Brooklyn,Bushwick and Williamsburg,40.70870368,-73.9448625,25.51,26.04,0.57,-7.61,0.63,-6.02,3.13,8.2,Equilibrada,415,0.89
+3377,Carroll St & Bond St,Brooklyn,Northwest Brooklyn,40.6786115,-73.99037292,26.75,27.47,0.72,-7.44,0.72,-5.93,5.4,8.2,Equilibrada,416,0.89
+446,W 24 St & 7 Ave,Manhattan,Chelsea and Clinton,40.74487634,-73.99529885,223.26,223.27,-0.01,-0.69,7.45,1.94,-6.39,8.1,Equilibrada,417,0.89
+3417,Baltic St & 5 Ave,Brooklyn,Northwest Brooklyn,40.6795766,-73.97854971,34.42,35.78,1.35,-6.63,1.35,-5.17,5.12,8.0,Equilibrada,418,0.89
+2002,Wythe Ave & Metropolitan Ave,Brooklyn,Greenpoint,40.716887,-73.963198,98.89,102.1,3.2,-3.86,4.16,-5.98,4.52,8.0,Equilibrada,419,0.9
+488,W 39 St & 9 Ave,Manhattan,Chelsea and Clinton,40.75645824,-73.99372222,47.71,48.9,1.16,-6.82,1.16,-1.41,0.84,8.0,Equilibrada,420,0.9
+3339,Berkeley Pl & 6 Ave,Brooklyn,Northwest Brooklyn,40.6765304,-73.97846879,25.41,25.88,0.43,-7.45,0.43,-5.8,5.74,7.9,Equilibrada,421,0.9
+364,Lafayette Ave & Classon Ave,Brooklyn,Central Brooklyn,40.68900443,-73.96023854,38.34,36.17,-2.16,-7.27,0.66,-5.14,2.22,7.9,Equilibrada,422,0.9
+3390,E 109 St & 3 Ave,Manhattan,East Harlem,40.79329668,-73.9432083,25.43,26.29,0.86,-7.02,0.86,-5.94,4.5,7.9,Equilibrada,423,0.9
+3300,Prospect Park West & 8 St,Brooklyn,Central Brooklyn,40.66514681533792,-73.97637605667114,32.92,29.34,-3.56,-7.4,0.16,-6.47,4.62,7.6,Equilibrada,424,0.9
+3391,E 106 St & 1 Ave,Manhattan,East Harlem,40.7892529,-73.93956237,19.25,19.68,0.43,-7.03,0.59,-6.2,4.6,7.6,Equilibrada,425,0.9
+3478,2 Ave & 36 St - Citi Bike HQ at Industry City,Brooklyn,Sunset Park,40.65708866668485,-74.00870203971863,12.9,13.57,0.69,-0.05,7.45,5.81,-5.65,7.5,Equilibrada,426,0.9
+3412,Pacific St & Nevins St,Brooklyn,Northwest Brooklyn,40.6853761,-73.98302136,27.04,27.31,0.25,-7.09,0.44,-6.13,3.47,7.5,Equilibrada,427,0.9
+3313,6 Ave & 12 St,Brooklyn,Northwest Brooklyn,40.6663181,-73.9854617,18.1,17.7,-0.38,-7.14,0.27,-5.75,2.97,7.4,Equilibrada,428,0.9
+3058,Lewis Ave & Kosciuszko St,Brooklyn,Bushwick and Williamsburg,40.69237074,-73.93705428,15.93,15.64,-0.33,-6.48,0.94,-5.55,1.89,7.4,Equilibrada,429,0.9
+3102,Driggs Ave & Lorimer St,Brooklyn,Greenpoint,40.72179134,-73.9504154,35.33,35.7,0.36,-6.64,0.63,-5.65,4.82,7.3,Equilibrada,430,0.9
+3373,3 St & 3 Ave,Brooklyn,Northwest Brooklyn,40.6750705,-73.98775226,39.01,40.28,1.27,-0.1,7.17,3.45,-2.95,7.3,Equilibrada,431,0.9
+3356,Amsterdam Ave & W 66 St,Manhattan,Upper West Side,40.7746671,-73.98470567,53.14,52.58,-0.55,-5.06,2.23,-5.48,6.37,7.3,Equilibrada,432,0.9
+2001,Sands St & Navy St,Brooklyn,Northwest Brooklyn,40.699773,-73.979927,14.73,18.09,3.39,-0.11,7.18,5.12,-2.69,7.3,Equilibrada,433,0.91
+3082,Hope St & Union Ave,Brooklyn,Greenpoint,40.71167351,-73.95141312,40.99,41.6,0.64,-6.7,0.64,-3.66,4.29,7.3,Equilibrada,434,0.91
+385,E 55 St & 2 Ave,Manhattan,Gramercy Park and Murray Hill,40.75797322,-73.96603308,119.16,117.98,-1.23,-1.43,5.76,3.68,-6.65,7.2,Equilibrada,435,0.91
+3405,5 St & 6 Ave,Brooklyn,Northwest Brooklyn,40.6704836,-73.98208968,18.71,18.99,0.25,-6.87,0.35,-5.73,4.26,7.2,Equilibrada,436,0.91
+3143,5 Ave & E 78 St,Manhattan,Upper West Side,40.77682863439968,-73.96388769149779,96.07,94.8,-1.26,-1.33,5.83,0.61,-1.62,7.2,Equilibrada,437,0.91
+3221,47 Ave & 31 St,Queens,Northwest Queens,40.743,-73.93561,16.44,16.22,-0.19,-0.46,6.79,6.04,-5.28,7.2,Equilibrada,438,0.91
+412,Forsyth St & Canal St,Manhattan,Lower East Side,40.7158155,-73.99422366,120.76,120.59,-0.18,-4.8,2.27,-5.75,0.99,7.1,Equilibrada,439,0.91
+540,Lexington Ave & E 29 St,Manhattan,Gramercy Park and Murray Hill,40.74311555376486,-73.98215353488922,167.09,166.13,-0.94,-1.25,5.88,2.16,-2.48,7.1,Equilibrada,440,0.91
+3437,Riverside Dr & W 91 St,Manhattan,Upper West Side,40.79313480986663,-73.97700369358063,17.59,15.68,-1.91,-6.97,0.15,-5.97,3.02,7.1,Equilibrada,441,0.91
+3142,1 Ave & E 62 St,Manhattan,Upper East Side,40.7612274,-73.96094022,128.1,125.95,-2.15,-6.17,0.89,-4.51,-1.35,7.1,Equilibrada,442,0.91
+274,Lafayette Ave & Fort Greene Pl,Brooklyn,Northwest Brooklyn,40.68691865,-73.976682,48.73,50.97,2.23,-3.23,3.72,-2.79,5.99,7.0,Equilibrada,443,0.91
+116,W 17 St & 8 Ave,Manhattan,Chelsea and Clinton,40.74177603,-74.00149746,127.76,127.66,-0.1,-1.84,5.11,0.09,-4.84,7.0,Equilibrada,444,0.91
+398,Atlantic Ave & Furman St,Brooklyn,Northwest Brooklyn,40.69165183,-73.9999786,53.11,57.18,4.06,0.13,7.16,1.88,4.17,7.0,Equilibrada,445,0.91
+3129,Queens Plaza North & Crescent St,Queens,Northwest Queens,40.75110165,-73.94073717,64.24,65.92,1.7,-5.28,1.7,-3.86,5.23,7.0,Equilibrada,446,0.91
+454,E 51 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.75455731,-73.96592976,69.45,68.55,-0.89,-3.1,3.82,3.05,-4.69,6.9,Equilibrada,447,0.91
+308,St James Pl & Oliver St,Manhattan,Lower Manhattan,40.71307916,-73.99851193,73.13,72.67,-0.44,-6.0,0.91,-5.14,2.28,6.9,Equilibrada,448,0.92
+533,Broadway & W 39 St,Manhattan,Chelsea and Clinton,40.75299641,-73.98721619,44.89,45.06,0.18,-0.04,6.89,6.03,-4.27,6.9,Equilibrada,449,0.92
+436,Hancock St & Bedford Ave,Brooklyn,Central Brooklyn,40.68216564,-73.95399026,18.38,16.18,-2.2,-5.97,0.78,-3.78,1.34,6.8,Equilibrada,450,0.92
+3416,7 Ave & Park Pl,Brooklyn,Northwest Brooklyn,40.6776147,-73.97324283,46.39,44.79,-1.61,-1.88,4.96,3.1,-3.39,6.8,Equilibrada,451,0.92
+3431,E 35 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.746524,-73.977885,101.31,100.11,-1.18,-5.35,1.38,-2.89,-0.18,6.7,Equilibrada,452,0.92
+3096,Union Ave & N 12 St,Brooklyn,Greenpoint,40.71924,-73.95242,49.68,49.2,-0.52,-5.52,1.14,-3.83,5.68,6.7,Equilibrada,453,0.92
+2008,Little West St & 1 Pl,Manhattan,Lower Manhattan,40.70569254,-74.01677685,160.24,158.85,-1.42,-5.82,0.82,-1.46,-0.49,6.6,Equilibrada,454,0.92
+3553,Frederick Douglass Blvd & W 112 St,Manhattan,Central Harlem,40.801694,-73.957145,15.34,16.23,0.88,-5.71,0.88,-3.91,4.07,6.6,Equilibrada,455,0.92
+476,E 31 St & 3 Ave,Manhattan,Gramercy Park and Murray Hill,40.74394314,-73.97966069,149.28,145.75,-3.53,-6.53,0.04,-3.2,1.44,6.6,Equilibrada,456,0.92
+3303,Butler St & Court St,Brooklyn,Northwest Brooklyn,40.6849894,-73.99440329,25.82,26.25,0.42,-5.92,0.56,-4.26,5.13,6.5,Equilibrada,457,0.92
+409,DeKalb Ave & Skillman St,Brooklyn,Northwest Brooklyn,40.6906495,-73.95643107,21.83,20.53,-1.34,-6.53,-0.02,-4.98,2.85,6.5,Equilibrada,458,0.92
+3060,Willoughby Ave & Tompkins Ave,Brooklyn,Bushwick and Williamsburg,40.69425403,-73.94626915,14.35,14.58,0.24,-5.51,0.85,-4.32,2.23,6.4,Equilibrada,459,0.92
+3047,Halsey St & Tompkins Ave,Brooklyn,Central Brooklyn,40.6823687,-73.944118,21.42,22.35,0.92,-5.52,0.92,-4.59,3.04,6.4,Equilibrada,460,0.92
+3083,Bushwick Ave & Powers St,Brooklyn,Greenpoint,40.71247661,-73.94100005,32.1,31.79,-0.34,-5.79,0.63,-3.12,2.33,6.4,Equilibrada,461,0.92
+3066,Tompkins Ave & Hopkins St,Brooklyn,Bushwick and Williamsburg,40.69957608,-73.94708417,18.86,19.04,0.16,-0.29,6.02,4.52,-3.35,6.3,Equilibrada,462,0.92
+449,W 52 St & 9 Ave,Manhattan,Chelsea and Clinton,40.76461837,-73.98789473,91.29,86.33,-4.95,-6.74,-0.44,-4.09,2.17,6.3,Equilibrada,463,0.92
+3046,Marcus Garvey Blvd & Macon St,Brooklyn,Central Brooklyn,40.682601,-73.938037,15.93,16.49,0.61,-5.43,0.83,-4.32,3.4,6.3,Equilibrada,464,0.93
+3318,2 Ave & E 96 St,Manhattan,Upper East Side,40.7839636,-73.9471673,65.72,67.51,1.8,-0.39,5.93,5.59,-1.06,6.3,Equilibrada,465,0.93
+343,Clinton Ave & Flushing Ave,Brooklyn,Northwest Brooklyn,40.69794,-73.96986848,37.53,42.82,5.28,0.19,6.43,2.81,-1.39,6.2,Equilibrada,466,0.93
+280,E 10 St & 5 Ave,Manhattan,Lower East Side,40.73331967,-73.99510132,108.66,109.46,0.77,-3.04,3.2,-1.31,2.35,6.2,Equilibrada,467,0.93
+3155,Lexington Ave & E 63 St,Manhattan,Upper East Side,40.76440023,-73.96648977,52.96,52.94,-0.01,-0.15,5.91,4.21,-4.61,6.1,Equilibrada,468,0.93
+3449,Eckford St & Engert Ave,Brooklyn,Greenpoint,40.72146256229816,-73.94800901412965,16.06,16.01,-0.02,-5.67,0.37,-4.78,3.31,6.0,Equilibrada,469,0.93
+313,Washington Ave & Park Ave,Brooklyn,Northwest Brooklyn,40.69610226,-73.96751037,43.55,46.66,3.12,-2.89,3.12,-2.18,1.89,6.0,Equilibrada,470,0.93
+443,Bedford Ave & S 9 St,Brooklyn,Greenpoint,40.70853074,-73.96408963,15.33,11.8,-3.53,-5.66,0.3,-3.76,0.6,6.0,Equilibrada,471,0.93
+3347,Van Brunt St & Wolcott St,Brooklyn,Northwest Brooklyn,40.6773429,-74.01275056,22.17,23.47,1.29,-4.59,1.29,-4.37,3.04,5.9,Equilibrada,472,0.93
+3059,Pulaski St & Marcus Garvey Blvd,Brooklyn,Bushwick and Williamsburg,40.6933982,-73.939877,11.98,12.08,0.09,-4.64,1.24,-3.67,1.74,5.9,Equilibrada,473,0.93
+3302,Columbus Ave & W 103 St,Manhattan,Upper West Side,40.7969347,-73.9643412291,13.2,8.89,-4.32,-5.55,0.2,-2.57,0.3,5.8,Equilibrada,474,0.93
+3081,Graham Ave & Grand St,Brooklyn,Greenpoint,40.711863,-73.944024,26.57,27.32,0.74,-5.03,0.74,-3.48,3.53,5.8,Equilibrada,475,0.93
+3070,McKibbin St & Manhattan Ave,Brooklyn,Bushwick and Williamsburg,40.70510918,-73.94407279,14.57,14.44,-0.11,-5.14,0.64,-3.98,2.1,5.8,Equilibrada,476,0.93
+2005,Railroad Ave & Kay Ave,Brooklyn,Northwest Brooklyn,40.70531194,-73.97100056,7.33,8.55,1.2,-0.05,5.8,5.16,-3.18,5.8,Equilibrada,477,0.93
+232,Cadman Plaza E & Tillary St,Brooklyn,Northwest Brooklyn,40.69597683,-73.99014892,46.03,44.07,-1.98,-2.02,3.72,1.02,-3.57,5.7,Equilibrada,478,0.93
+3329,Degraw St & Smith St,Brooklyn,Northwest Brooklyn,40.6829151,-73.99318208,21.44,21.09,-0.34,-5.54,0.13,-4.17,3.18,5.7,Equilibrada,479,0.93
+3469,India St & West St,Brooklyn,Greenpoint,40.73181401720966,-73.95995020866394,15.11,15.38,0.27,0.09,5.78,4.34,-3.36,5.7,Equilibrada,480,0.93
+3072,Leonard St & Boerum St,Brooklyn,Bushwick and Williamsburg,40.70583339,-73.94644578,14.6,15.19,0.59,-4.99,0.59,-3.75,2.46,5.6,Equilibrada,481,0.94
+3404,7 St & 5 Ave,Brooklyn,Northwest Brooklyn,40.6704922,-73.98541675,22.42,22.27,-0.1,-5.32,0.27,-4.24,2.71,5.6,Equilibrada,482,0.94
+3294,E 91 St & Park Ave,Manhattan,Upper East Side,40.7835016,-73.955327,37.58,36.87,-0.71,-4.5,0.96,-4.21,3.31,5.5,Equilibrada,483,0.94
+3231,E 67 St & Park Ave,Manhattan,Upper East Side,40.76780080148132,-73.96592080593109,42.38,42.16,-0.23,-0.23,5.3,4.57,-1.6,5.5,Equilibrada,484,0.94
+3282,5 Ave & E 88 St,Manhattan,Upper West Side,40.78307,-73.95939,121.9,121.35,-0.51,-3.54,1.83,-3.89,-0.13,5.4,Equilibrada,485,0.94
+3126,44 Dr & Jackson Ave,Queens,Northwest Queens,40.74718234,-73.9432635,38.69,38.53,-0.14,-0.57,4.82,4.41,-3.16,5.4,Equilibrada,486,0.94
+3085,Roebling St & N 4 St,Brooklyn,Greenpoint,40.71469,-73.95739,39.88,40.27,0.39,-3.91,1.47,-3.07,3.78,5.4,Equilibrada,487,0.94
+245,Myrtle Ave & St Edwards St,Brooklyn,Northwest Brooklyn,40.69327018,-73.97703874,23.05,20.35,-2.68,-4.84,0.51,-3.94,1.22,5.4,Equilibrada,488,0.94
+3438,E 76 St & 3 Ave,Manhattan,Upper East Side,40.772248537721744,-73.95842134952545,40.68,40.98,0.29,-3.89,1.47,-3.38,3.77,5.4,Equilibrada,489,0.94
+3048,Putnam Ave & Nostrand Ave,Brooklyn,Central Brooklyn,40.68402,-73.94977,15.3,15.55,0.3,-5.02,0.34,-3.33,2.21,5.4,Equilibrada,490,0.94
+3419,Douglass St & 4 Ave,Brooklyn,Northwest Brooklyn,40.6792788,-73.98154004,30.38,30.69,0.31,-3.39,1.9,-3.8,3.61,5.3,Equilibrada,491,0.94
+278,Concord St & Bridge St,Brooklyn,Northwest Brooklyn,40.69766564,-73.98476437,28.15,27.52,-0.65,-4.3,0.96,-3.93,2.06,5.3,Equilibrada,492,0.94
+3284,E 88 St & Park Ave,Manhattan,Upper East Side,40.781410700190015,-73.95595908164978,34.93,34.03,-0.92,-5.28,0.04,-3.89,3.84,5.3,Equilibrada,493,0.94
+3304,6 Ave & 9 St,Brooklyn,Northwest Brooklyn,40.668127,-73.98377641,29.47,28.38,-1.04,-3.66,1.62,-4.61,1.98,5.3,Equilibrada,494,0.94
+3381,3 St & Hoyt St,Brooklyn,Northwest Brooklyn,40.6777287,-73.99364123,19.8,19.24,-0.56,-1.43,3.89,2.69,-3.21,5.3,Equilibrada,495,0.94
+3101,N 12 St & Bedford Ave,Brooklyn,Greenpoint,40.72079821,-73.95484712,42.33,42.83,0.53,-0.86,4.33,0.87,2.84,5.2,Equilibrada,496,0.94
+3378,E 76 St & Park Ave,Manhattan,Upper East Side,40.773763,-73.96222088,51.57,51.16,-0.39,-0.39,4.82,0.53,-0.2,5.2,Equilibrada,497,0.94
+3332,Degraw St & Hoyt St,Brooklyn,Northwest Brooklyn,40.68199044270703,-73.99079024791716,13.51,13.72,0.23,-4.87,0.23,-3.56,3.36,5.1,Equilibrada,498,0.94
+357,E 11 St & Broadway,Manhattan,Lower East Side,40.73261787,-73.99158043,100.77,100.57,-0.14,-0.14,5.0,2.09,-1.7,5.1,Equilibrada,499,0.94
+3424,E 106 St & Lexington Ave,Manhattan,East Harlem,40.791976,-73.945993,13.85,15.0,1.16,-3.82,1.16,-2.8,2.25,5.0,Equilibrada,500,0.94
+3122,48 Ave & 5 St,Queens,Northwest Queens,40.74436328706688,-73.9558732509613,20.32,21.15,0.84,-4.01,1.0,-2.9,2.44,5.0,Equilibrada,501,0.95
+513,W 56 St & 10 Ave,Manhattan,Chelsea and Clinton,40.768254,-73.988639,96.07,95.14,-0.91,-3.79,1.23,-3.74,2.01,5.0,Equilibrada,502,0.95
+3125,45 Rd & 11 St,Queens,Northwest Queens,40.74708586,-73.94977234,33.83,34.25,0.44,-0.24,4.74,2.98,-0.59,5.0,Equilibrada,503,0.95
+3088,Union Ave & Jackson St,Brooklyn,Greenpoint,40.7160751,-73.952029,21.33,21.64,0.28,-4.13,0.78,-2.65,3.49,4.9,Equilibrada,504,0.95
+372,Franklin Ave & Myrtle Ave,Brooklyn,Northwest Brooklyn,40.694528,-73.958089,18.97,18.97,-0.02,-4.1,0.75,-3.24,1.34,4.9,Equilibrada,505,0.95
+423,W 54 St & 9 Ave,Manhattan,Chelsea and Clinton,40.76584941,-73.98690506,94.59,91.2,-3.42,-4.79,0.12,-3.31,1.43,4.9,Equilibrada,506,0.95
+3539,W 116 St & Amsterdam Ave,Manhattan,Central Harlem,40.8067581,-73.9607082,9.58,6.53,-3.03,-3.03,1.86,1.57,-1.84,4.9,Equilibrada,507,0.95
+3489,Gold St & Frankfort St,Manhattan,Lower Manhattan,40.71069994631387,-74.00354146957397,18.38,18.11,-0.25,-0.25,4.67,3.26,-3.08,4.9,Equilibrada,508,0.95
+3536,W 116 St & Broadway,Manhattan,Central Harlem,40.8082,-73.9641,17.19,13.42,-3.79,-3.79,1.07,1.14,-0.99,4.9,Equilibrada,509,0.95
+3325,E 95 St & 3 Ave,Manhattan,Upper East Side,40.7849032,-73.950503,25.85,26.45,0.6,-4.32,0.6,-3.81,2.91,4.9,Equilibrada,510,0.95
+3397,Court St & Nelson St,Brooklyn,Northwest Brooklyn,40.6763947,-73.99869893,26.4,26.75,0.32,-4.56,0.32,-3.11,2.7,4.9,Equilibrada,511,0.95
+3297,6 St & 7 Ave,Brooklyn,Northwest Brooklyn,40.6686627,-73.97988067,22.41,20.68,-1.73,-2.41,2.34,-2.0,0.54,4.8,Equilibrada,512,0.95
+3355,E 66 St & Madison Ave,Manhattan,Upper East Side,40.76800889305947,-73.96845281124115,27.47,26.97,-0.48,-0.48,4.36,2.72,-2.22,4.8,Equilibrada,513,0.95
+3113,Greenpoint Ave & Manhattan Ave,Brooklyn,Greenpoint,40.73026,-73.95394,56.73,57.49,0.76,-3.84,0.98,-4.49,3.62,4.8,Equilibrada,514,0.95
+3359,E 68 St & Madison Ave,Manhattan,Upper East Side,40.7691572,-73.96703464,28.85,27.87,-1.01,-1.01,3.8,3.31,-2.58,4.8,Equilibrada,515,0.95
+3635,W 36 St & 9 Ave,Manhattan,Chelsea and Clinton,40.754623240291046,-73.99516761302948,34.72,35.39,0.69,-4.03,0.69,-3.19,1.95,4.7,Equilibrada,516,0.95
+3421,Hoyt St & Warren St,Brooklyn,Northwest Brooklyn,40.6843549,-73.98901629,14.43,15.2,0.76,-3.98,0.76,-3.0,2.85,4.7,Equilibrada,517,0.95
+3445,Riverside Dr & W 89 St,Manhattan,Upper West Side,40.791811715010965,-73.9786022901535,14.31,14.57,0.29,-4.34,0.29,-3.92,2.59,4.6,Equilibrada,518,0.95
+3062,Myrtle Ave & Marcy Ave,Brooklyn,Bushwick and Williamsburg,40.69539817,-73.94954908,22.21,22.95,0.8,0.26,4.87,4.02,-2.6,4.6,Equilibrada,519,0.95
+3420,Douglass St & 3 Ave,Brooklyn,Northwest Brooklyn,40.6802133,-73.98432695,33.36,34.43,1.1,-0.17,4.36,0.01,1.53,4.5,Equilibrada,520,0.95
+3409,Bergen St & Smith St,Brooklyn,Northwest Brooklyn,40.6867443,-73.99063168,100.37,100.77,0.41,-0.36,4.16,-1.08,1.27,4.5,Equilibrada,521,0.95
+3087,Metropolitan Ave & Meeker Ave,Brooklyn,Greenpoint,40.71413311,-73.95234386,42.42,43.5,1.09,-2.0,2.49,1.44,2.1,4.5,Equilibrada,522,0.96
+3413,Wyckoff St & 3 Ave,Brooklyn,Northwest Brooklyn,40.6827549,-73.98258555,20.84,21.49,0.63,-3.91,0.63,-2.66,2.42,4.5,Equilibrada,523,0.96
+3243,E 58 St & 1 Ave,Manhattan,Gramercy Park and Murray Hill,40.75892386377695,-73.96226227283478,65.44,64.37,-1.07,-3.51,0.85,-1.52,-1.66,4.4,Equilibrada,524,0.96
+3379,E 103 St & Lexington Ave,Manhattan,East Harlem,40.7903051,-73.94755757,27.31,28.19,0.91,0.13,4.52,3.31,-1.88,4.4,Equilibrada,525,0.96
+3363,E 102 St & Park Ave,Manhattan,East Harlem,40.7904828,-73.95033068,19.43,19.33,-0.08,-1.2,3.23,2.9,-3.0,4.4,Equilibrada,526,0.96
+3338,2 Ave & E 99 St,Manhattan,East Harlem,40.7862586,-73.94552579,17.76,18.51,0.77,-2.24,2.18,0.65,-0.05,4.4,Equilibrada,527,0.96
+3476,Norman Ave & Leonard St,Brooklyn,Greenpoint,40.72576996727214,-73.9507395029068,15.48,15.86,0.37,-3.87,0.4,-3.18,1.79,4.3,Equilibrada,528,0.96
+3349,Grand Army Plaza & Plaza St West,Brooklyn,Central Brooklyn,40.6729679,-73.97087984,61.67,58.39,-3.28,-3.7,0.61,-1.23,-0.95,4.3,Equilibrada,529,0.96
+3402,Court St & State St,Brooklyn,Northwest Brooklyn,40.6902375,-73.99203074,64.12,63.91,-0.2,-0.7,3.57,-0.21,1.87,4.3,Equilibrada,530,0.96
+3103,N 11 St & Wythe Ave,Brooklyn,Greenpoint,40.72153267,-73.95782357,30.36,30.62,0.26,-1.43,2.74,1.7,1.62,4.2,Equilibrada,531,0.96
+3516,31 St & Astoria Blvd,Queens,Northwest Queens,40.7699176,-73.9184057,8.28,8.38,0.09,-0.13,4.11,3.51,-2.31,4.2,Equilibrada,532,0.96
+3322,12 St & 4 Ave,Brooklyn,Northwest Brooklyn,40.668603,-73.9904394,11.77,13.4,1.63,-2.56,1.63,-1.0,1.68,4.2,Equilibrada,533,0.96
+3306,10 St & 7 Ave,Brooklyn,Northwest Brooklyn,40.6662078,-73.98199886,27.83,26.18,-1.65,-3.67,0.57,-2.58,1.81,4.2,Equilibrada,534,0.96
+3061,Throop Ave & Myrtle Ave,Brooklyn,Bushwick and Williamsburg,40.69622937,-73.94371094,11.28,11.44,0.17,-3.05,1.08,-2.94,1.33,4.1,Equilibrada,535,0.96
+3123,31 St & Thomson Ave,Queens,Northwest Queens,40.74469738,-73.93540375,12.74,12.93,0.16,-0.07,4.02,3.54,-1.02,4.1,Equilibrada,536,0.96
+3464,W 37 St & Broadway,Manhattan,Chelsea and Clinton,40.75227093837409,-73.98770570755006,36.05,36.15,0.11,-0.02,3.99,3.62,-1.71,4.0,Equilibrada,537,0.96
+3080,S 4 St & Rodney St,Brooklyn,Greenpoint,40.70934,-73.95608,29.8,30.53,0.73,-3.31,0.73,-2.81,1.14,4.0,Equilibrada,538,0.96
+216,Columbia Heights & Cranberry St,Brooklyn,Northwest Brooklyn,40.70037867,-73.99548059,24.04,20.31,-3.73,-3.79,0.24,-2.11,-0.1,4.0,Equilibrada,539,0.96
+3335,Union St & 4 Ave,Brooklyn,Northwest Brooklyn,40.6772744,-73.98282002,39.13,41.07,1.88,-1.36,2.57,-1.49,2.83,3.9,Equilibrada,540,0.96
+3542,Amsterdam Ave & W 119 St,Manhattan,Central Harlem,40.8086249,-73.9596214,14.7,12.62,-2.07,-2.07,1.76,1.22,-1.46,3.8,Equilibrada,541,0.96
+3452,Bayard St & Leonard St,Brooklyn,Greenpoint,40.71915571696044,-73.94885390996933,21.12,20.55,-0.53,-3.52,0.29,-2.75,2.88,3.8,Equilibrada,542,0.96
+3067,Broadway & Whipple St,Brooklyn,Bushwick and Williamsburg,40.7016657,-73.9437303,24.0,24.35,0.36,-2.87,0.95,-1.52,1.18,3.8,Equilibrada,543,0.96
+3064,Myrtle Ave & Lewis Ave,Brooklyn,Bushwick and Williamsburg,40.69681963,-73.93756926,40.79,40.81,0.04,-3.03,0.77,-1.28,1.45,3.8,Equilibrada,544,0.96
+3324,3 Ave & 14 St,Brooklyn,Northwest Brooklyn,40.6685455,-73.99333264,17.34,18.24,0.92,-2.89,0.92,-1.93,1.92,3.8,Equilibrada,545,0.96
+144,Nassau St & Navy St,Brooklyn,Northwest Brooklyn,40.69839895,-73.98068914,19.87,23.63,3.76,0.12,3.93,1.78,0.28,3.8,Equilibrada,546,0.96
+373,Willoughby Ave & Walworth St,Brooklyn,Northwest Brooklyn,40.69331716,-73.95381995,14.41,14.68,0.27,-3.52,0.32,-2.75,1.57,3.8,Equilibrada,547,0.96
+3455,Schermerhorn St & 3 Ave,Brooklyn,Northwest Brooklyn,40.68680820503432,-73.98036181926726,21.83,22.36,0.56,-3.07,0.65,-1.99,2.83,3.7,Equilibrada,548,0.97
+3393,Richards St & Delavan St,Brooklyn,Northwest Brooklyn,40.6794327,-74.00785041,9.65,9.58,-0.04,-3.45,0.27,-2.44,1.71,3.7,Equilibrada,549,0.97
+3387,E 106 St & Madison Ave,Manhattan,East Harlem,40.7934337,-73.94945003,17.54,18.55,1.01,-2.57,1.01,-1.76,0.76,3.6,Equilibrada,550,0.97
+3111,Norman Ave & Leonard St,Brooklyn,Greenpoint,40.7258483,-73.95064893,12.75,12.92,0.15,-3.32,0.27,-2.76,1.28,3.6,Equilibrada,551,0.97
+3362,Madison Ave & E 82 St,Manhattan,Upper East Side,40.7781314,-73.96069399,51.52,49.58,-1.96,-3.49,0.12,-2.7,0.6,3.6,Equilibrada,552,0.97
+3053,Marcy Ave & Lafayette Ave,Brooklyn,Central Brooklyn,40.6900815,-73.947915,10.03,9.42,-0.57,-3.2,0.39,-2.67,0.74,3.6,Equilibrada,553,0.97
+3144,E 81 St & Park Ave,Manhattan,Upper East Side,40.77677702,-73.9590097,21.18,18.41,-2.77,-3.41,0.16,-2.55,1.16,3.6,Equilibrada,554,0.97
+119,Park Ave & St Edwards St,Brooklyn,Northwest Brooklyn,40.69608941,-73.97803415,10.28,11.63,1.36,-2.27,1.36,-1.37,2.38,3.6,Equilibrada,555,0.97
+225,W 14 St & The High Line,Manhattan,Greenwich Village and Soho,40.74195138,-74.00803013,16.51,17.41,0.87,-0.13,3.49,2.59,-1.65,3.6,Equilibrada,556,0.97
+3342,Pioneer St & Richards St,Brooklyn,Northwest Brooklyn,40.6777748,-74.0094613,9.23,11.29,2.11,-1.43,2.11,-1.28,1.27,3.5,Equilibrada,557,0.97
+3552,W 113 St & Broadway,Manhattan,Upper West Side,40.805973,-73.964928,16.05,12.5,-3.56,-3.56,-0.06,-0.31,-0.5,3.5,Equilibrada,558,0.97
+3371,4 Ave & 2 St,Brooklyn,Northwest Brooklyn,40.674613422475815,-73.98501142859459,17.09,17.53,0.47,-2.97,0.54,-2.54,1.82,3.5,Equilibrada,559,0.97
+3410,Dean St & Hoyt St,Brooklyn,Northwest Brooklyn,40.6864442,-73.98759104,22.43,23.09,0.68,-2.78,0.68,-1.75,1.93,3.5,Equilibrada,560,0.97
+3139,E 72 St & Park Ave,Manhattan,Upper East Side,40.77118287540657,-73.96409422159195,45.66,43.34,-2.31,-2.31,1.2,0.27,-0.67,3.5,Equilibrada,561,0.97
+3398,Smith St & 9 St,Brooklyn,Northwest Brooklyn,40.6746957,-73.99785768,30.97,28.91,-2.07,-2.07,1.41,1.49,-1.96,3.5,Equilibrada,562,0.97
+3403,4 Ave & 9 St,Brooklyn,Northwest Brooklyn,40.6705135,-73.98876585,30.44,32.52,2.11,-0.16,3.35,3.37,-0.26,3.5,Equilibrada,563,0.97
+3296,E 93 St & 2 Ave,Manhattan,Upper East Side,40.782454175279874,-73.9489196240902,13.25,13.33,0.08,-3.39,0.11,-2.38,1.89,3.5,Equilibrada,564,0.97
+3068,Humboldt St & Varet St,Brooklyn,Bushwick and Williamsburg,40.7031724,-73.940636,22.95,23.57,0.62,-2.85,0.62,-2.1,1.7,3.5,Equilibrada,565,0.97
+3094,Graham Ave & Withers St,Brooklyn,Greenpoint,40.7169811,-73.94485918,25.19,25.27,0.07,-2.95,0.52,-1.51,1.79,3.5,Equilibrada,566,0.97
+447,8 Ave & W 52 St,Manhattan,Chelsea and Clinton,40.76370739,-73.9851615,138.87,136.78,-2.13,-2.41,1.11,-0.74,-1.01,3.5,Equilibrada,567,0.97
+3317,10 St & 5 Ave,Brooklyn,Northwest Brooklyn,40.6686273,-73.98700053,18.26,18.09,-0.18,-3.07,0.33,-2.5,1.75,3.4,Equilibrada,568,0.97
+3292,5 Ave & E 93 St,Manhattan,Upper West Side,40.7857851,-73.957481,45.73,43.21,-2.48,-3.29,0.08,-1.75,1.2,3.4,Equilibrada,569,0.97
+3346,Berkeley Pl & 7 Ave,Brooklyn,Northwest Brooklyn,40.675146838709786,-73.97523209452629,46.75,45.61,-1.15,-2.72,0.65,-2.86,1.04,3.4,Equilibrada,570,0.97
+3041,Kingston Ave & Herkimer St,Brooklyn,Central Brooklyn,40.67890679,-73.94142771,14.83,14.93,0.1,-2.92,0.46,-1.79,0.6,3.4,Equilibrada,571,0.97
+3407,Union St & Nevins St,Brooklyn,Northwest Brooklyn,40.67909799721684,-73.98765474557875,27.29,28.43,1.13,-0.33,3.1,-0.61,2.73,3.4,Equilibrada,572,0.97
+3298,Warren St & Court St,Brooklyn,Northwest Brooklyn,40.686371,-73.99383324,38.41,37.64,-0.78,-3.17,0.15,-1.06,1.85,3.3,Equilibrada,573,0.97
+3069,Lorimer St & Broadway,Brooklyn,Bushwick and Williamsburg,40.70411791,-73.94818595,13.43,14.53,1.11,-0.2,2.99,3.04,-0.45,3.2,Equilibrada,574,0.97
+3529,Lenox Ave & W 130 St,Manhattan,Central Harlem,40.8107922,-73.9430681,8.11,8.48,0.4,-2.81,0.4,-2.26,1.74,3.2,Equilibrada,575,0.97
+2022,E 60 St & York Ave,Manhattan,Upper East Side,40.759107,-73.959223,31.14,30.11,-0.99,-1.18,1.88,0.7,-1.43,3.1,Equilibrada,576,0.97
+3128,21 St & 43 Ave,Queens,Northwest Queens,40.75052534,-73.94594845,9.66,10.22,0.49,-0.11,2.98,1.97,-0.45,3.1,Equilibrada,577,0.97
+3074,Montrose Ave & Bushwick Ave,Brooklyn,Bushwick and Williamsburg,40.70767788,-73.94016171,43.03,44.27,1.24,-1.68,1.38,0.01,1.35,3.1,Equilibrada,578,0.98
+3593,31 St & Broadway,Queens,Northwest Queens,40.761584,-73.925921,11.29,9.73,-1.55,-1.55,1.51,1.04,-1.66,3.1,Equilibrada,579,0.98
+3344,Pioneer St & Van Brunt St,Brooklyn,Northwest Brooklyn,40.679043,-74.011169,18.31,19.78,1.47,-1.53,1.47,-1.47,1.35,3.0,Equilibrada,580,0.98
+3254,Soissons Landing,Manhattan,Lower Manhattan,40.69231660719192,-74.01486575603485,17.61,17.36,-0.28,-2.98,-0.01,-0.1,1.52,3.0,Equilibrada,581,0.98
+353,S Portland Ave & Hanson Pl,Brooklyn,Northwest Brooklyn,40.68539567,-73.97431458,30.13,29.86,-0.27,-2.82,0.19,-1.33,1.82,3.0,Equilibrada,582,0.98
+296,Division St & Bowery,Manhattan,Lower East Side,40.71413089,-73.9970468,95.04,95.74,0.69,-1.76,1.16,-0.86,1.26,2.9,Equilibrada,583,0.98
+3091,Frost St & Meeker St,Brooklyn,Greenpoint,40.71764,-73.94882,16.6,17.01,0.38,-2.34,0.6,-1.46,1.75,2.9,Equilibrada,584,0.98
+3348,Coffey St & Conover St,Brooklyn,Northwest Brooklyn,40.677236,-74.015665,15.77,16.32,0.52,-2.32,0.52,-2.04,1.76,2.8,Equilibrada,585,0.98
+3538,W 110 St & Amsterdam Ave,Manhattan,Upper West Side,40.802692,-73.96295,10.22,8.68,-1.54,-2.73,0.03,-2.24,1.06,2.8,Equilibrada,586,0.98
+3179,Park Ave & Marcus Garvey Blvd,Brooklyn,Bushwick and Williamsburg,40.698617,-73.941342,11.16,11.07,-0.09,-1.56,1.21,0.17,0.54,2.8,Equilibrada,587,0.98
+3043,Lewis Ave & Decatur St,Brooklyn,Central Brooklyn,40.6814598,-73.934903,10.43,10.85,0.42,-2.31,0.42,-1.79,1.37,2.7,Equilibrada,588,0.98
+3637,Fulton St & Waverly Ave,Brooklyn,Central Brooklyn,40.68323865460341,-73.96599590778352,12.52,12.4,-0.11,-2.25,0.44,-2.23,1.49,2.7,Equilibrada,589,0.98
+3415,Prospect Pl & 6 Ave,Brooklyn,Northwest Brooklyn,40.6793307,-73.97519523,30.46,29.82,-0.61,-2.17,0.49,-0.7,1.37,2.7,Equilibrada,590,0.98
+3375,3 Ave & E 72 St,Manhattan,Upper East Side,40.7699426,-73.96060712,30.09,29.71,-0.39,-2.23,0.36,-2.08,1.23,2.6,Equilibrada,591,0.98
+3453,Devoe St & Lorimer St,Brooklyn,Greenpoint,40.71335226222875,-73.9491033554077,37.77,38.21,0.48,-1.25,1.38,1.31,0.92,2.6,Equilibrada,592,0.98
+3562,Classon Ave & St Marks Ave,Brooklyn,Central Brooklyn,40.6765198,-73.9596082,6.11,5.52,-0.58,-2.57,0.05,-2.11,0.77,2.6,Equilibrada,593,0.98
+3555,28 St & 41 Ave,Queens,Northwest Queens,40.751047,-73.93797,5.48,5.28,-0.19,-0.19,2.45,2.29,-1.32,2.6,Equilibrada,594,0.98
+3382,Carroll St & Smith St,Brooklyn,Northwest Brooklyn,40.680611,-73.99475825,54.27,53.83,-0.43,-1.87,0.63,-1.06,0.6,2.5,Equilibrada,595,0.98
+3496,1 Ave & E 110 St,Manhattan,East Harlem,40.7923272,-73.9383,8.2,8.45,0.21,-2.29,0.21,-1.75,1.28,2.5,Equilibrada,596,0.98
+310,State St & Smith St,Brooklyn,Northwest Brooklyn,40.68926942,-73.98912867,50.54,50.68,0.16,-0.68,1.81,1.22,1.74,2.5,Equilibrada,597,0.98
+3065,Union Ave & Wallabout St,Brooklyn,Bushwick and Williamsburg,40.70029511,-73.95032283,12.02,12.08,0.05,-2.22,0.32,-1.06,0.39,2.5,Equilibrada,598,0.98
+3353,Reed St & Van Brunt St,Brooklyn,Northwest Brooklyn,40.6747844,-74.01612847,12.1,13.47,1.39,-0.32,2.16,0.14,1.23,2.5,Equilibrada,599,0.98
+3180,Brooklyn Bridge Park - Pier 2,Brooklyn,Northwest Brooklyn,40.69878,-73.99712,34.92,35.67,0.77,0.15,2.62,0.83,1.89,2.5,Equilibrada,600,0.98
+3071,Boerum St & Broadway,Brooklyn,Bushwick and Williamsburg,40.70538077,-73.94976519,18.78,19.33,0.53,-1.77,0.73,-0.94,1.98,2.5,Equilibrada,601,0.98
+3055,Greene Ave & Nostrand Ave,Brooklyn,Central Brooklyn,40.6883337,-73.950916,15.67,15.05,-0.6,-2.22,0.28,-1.17,0.95,2.5,Equilibrada,602,0.98
+3447,E 71 St & 1 Ave,Manhattan,Upper East Side,40.76703432309872,-73.95622730255127,68.29,68.17,-0.11,-2.05,0.41,-1.47,-0.61,2.5,Equilibrada,603,0.98
+3507,Park Ave & E 124 St,Manhattan,East Harlem,40.8045555,-73.9396861,14.89,15.11,0.21,-0.02,2.39,0.51,-1.68,2.4,Equilibrada,604,0.98
+3511,Adam Clayton Powell Blvd & W 115 St,Manhattan,Central Harlem,40.802535,-73.9532423,6.56,6.94,0.38,-1.88,0.38,-1.33,1.12,2.3,Equilibrada,605,0.98
+3336,E 97 St & Madison Ave,Manhattan,East Harlem,40.787801,-73.953559,57.22,56.2,-1.03,-2.05,0.23,0.52,-0.89,2.3,Equilibrada,606,0.98
+3526,31 St & 23 Ave,Queens,Northwest Queens,40.7747878,-73.9125551,7.14,6.88,-0.26,-0.26,2.07,1.8,-1.09,2.3,Equilibrada,607,0.98
+3392,Commerce St & Van Brunt St,Brooklyn,Northwest Brooklyn,40.6812117,-74.00860912,11.31,12.32,1.05,-1.28,1.05,-1.67,0.79,2.3,Equilibrada,608,0.98
+82,St James Pl & Pearl St,Manhattan,Lower Manhattan,40.71117416,-74.00016545,29.43,28.94,-0.46,-1.97,0.31,-1.26,0.73,2.3,Equilibrada,609,0.98
+3602,31 Ave & 34 St,Queens,Northwest Queens,40.763154,-73.920827,5.99,5.36,-0.63,-2.21,0.09,-1.6,1.01,2.3,Equilibrada,610,0.98
+3399,7 St & 3 Ave,Brooklyn,Northwest Brooklyn,40.67260298150126,-73.98983001708984,15.73,16.11,0.38,-0.4,1.91,1.7,-0.83,2.3,Equilibrada,611,0.98
+3535,Mt Morris Park W & W 120 St,Manhattan,East Harlem,40.804038,-73.945925,5.5,5.87,0.37,-1.86,0.37,-1.61,1.12,2.2,Equilibrada,612,0.98
+3327,3 Ave & E 100 St,Manhattan,East Harlem,40.7877214,-73.94728331,8.72,9.49,0.82,-1.33,0.82,-1.11,0.75,2.2,Equilibrada,613,0.98
+3549,Grand Ave & Bergen St,Brooklyn,Central Brooklyn,40.678045,-73.962408,4.57,4.72,0.17,-1.98,0.17,-1.59,1.04,2.2,Equilibrada,614,0.98
+3569,Franklin Ave & St Marks Ave,Brooklyn,Central Brooklyn,40.6758324,-73.9561677,6.0,5.89,-0.12,-2.08,0.13,-1.81,0.88,2.2,Equilibrada,615,0.98
+3105,N 15 St & Wythe Ave,Brooklyn,Greenpoint,40.724055,-73.955736,22.66,23.15,0.53,-0.21,1.94,0.76,0.32,2.2,Equilibrada,616,0.98
+3130,21 St & Queens Plaza North,Queens,Northwest Queens,40.75325964,-73.94335788,15.19,16.05,0.86,-0.85,1.36,0.75,0.57,2.2,Equilibrada,617,0.98
+3509,Lenox Ave & W 115 St,Manhattan,Central Harlem,40.8011939,-73.9500739,10.21,10.73,0.5,-1.56,0.5,-1.31,0.98,2.1,Equilibrada,618,0.98
+3563,28 St & 36 Ave,Queens,Northwest Queens,40.757186,-73.932719,4.34,4.32,-0.04,-1.89,0.16,-1.82,0.95,2.1,Equilibrada,619,0.98
+224,Spruce St & Nassau St,Manhattan,Lower Manhattan,40.71146364,-74.00552427,15.64,15.22,-0.45,-0.45,1.68,0.93,-1.72,2.1,Equilibrada,620,0.99
+3056,Kosciuszko St & Nostrand Ave,Brooklyn,Central Brooklyn,40.69072549,-73.95133465,16.92,17.22,0.31,-0.33,1.78,1.18,0.27,2.1,Equilibrada,621,0.99
+3544,Underhill Ave & Pacific St,Brooklyn,Central Brooklyn,40.6804836,-73.9646795,4.83,4.92,0.11,-1.95,0.11,-1.55,1.13,2.1,Equilibrada,622,0.99
+3486,Schermerhorn St & Bond St,Brooklyn,Northwest Brooklyn,40.688417427540834,-73.98451656103134,19.14,18.89,-0.19,-0.24,1.76,0.92,-0.73,2.0,Equilibrada,623,0.99
+3517,31 St & Hoyt Ave N,Queens,Northwest Queens,40.7711528,-73.9170074,3.49,3.72,0.2,-0.1,1.94,1.69,-1.04,2.0,Equilibrada,624,0.99
+3245,"Industry City, Building 1 Basement",Brooklyn,Sunset Park,40.65594917783975,-74.00835871696472,2.07,2.27,0.2,0.01,1.97,1.73,-1.46,2.0,Equilibrada,625,0.99
+3477,39 St & 2 Ave - Citi Bike HQ at Industry City,Brooklyn,Sunset Park,40.65539977447831,-74.01062786579134,3.77,4.41,0.64,0.04,2.03,1.24,-0.68,2.0,Equilibrada,626,0.99
+3376,E 65 St & 2 Ave,Manhattan,Upper East Side,40.76471851944339,-73.96222069859505,48.09,47.75,-0.33,-1.2,0.83,-0.92,-0.59,2.0,Equilibrada,627,0.99
+3534,Frederick Douglass Blvd & W 117 St,Manhattan,Central Harlem,40.805159,-73.954692,8.69,8.99,0.29,-1.69,0.29,-1.33,1.26,2.0,Equilibrada,628,0.99
+3568,34 St & 35 Ave,Queens,Northwest Queens,40.7569332,-73.9262231,5.59,5.6,0.0,-1.75,0.14,-1.75,0.68,1.9,Equilibrada,629,0.99
+322,Clinton St & Tillary St,Brooklyn,Northwest Brooklyn,40.696192,-73.991218,36.98,35.81,-1.19,-1.22,0.67,-0.37,-0.87,1.9,Equilibrada,630,0.99
+3605,31 Ave & Crescent St,Queens,Northwest Queens,40.7658346,-73.9265474,3.6,3.6,-0.04,-1.79,0.09,-1.56,0.94,1.9,Equilibrada,631,0.99
+3340,Wolcott St & Dwight St,Brooklyn,Northwest Brooklyn,40.6753274,-74.0100698,7.68,8.36,0.65,-1.13,0.65,-1.19,1.03,1.8,Equilibrada,632,0.99
+3521,Lenox Ave & W 111 St,Manhattan,Central Harlem,40.7987859,-73.9523,11.86,12.47,0.61,-1.15,0.63,-0.11,1.21,1.8,Equilibrada,633,0.99
+3614,Crescent St & 30 Ave,Queens,Northwest Queens,40.768692,-73.9249574,4.47,4.59,0.12,-1.62,0.15,-1.21,0.87,1.8,Equilibrada,634,0.99
+3394,Columbia St & W 9 St,Brooklyn,Northwest Brooklyn,40.6769993,-74.00647134,3.98,5.15,1.17,-0.63,1.17,-0.81,0.51,1.8,Equilibrada,635,0.99
+3384,Smith St & 3 St,Brooklyn,Northwest Brooklyn,40.6787242,-73.99599099,31.98,30.51,-1.46,-1.69,0.07,-1.22,-0.33,1.8,Equilibrada,636,0.99
+3127,9 St & 44 Rd,Queens,Northwest Queens,40.74966,-73.9521,8.87,8.78,-0.14,-0.14,1.62,1.53,-0.5,1.8,Equilibrada,637,0.99
+3616,Steinway St & 28 Ave,Queens,Northwest Queens,40.7656251,-73.9136695,4.79,4.74,-0.02,-1.6,0.12,-1.27,0.93,1.7,Equilibrada,638,0.99
+3510,Adam Clayton Powell Blvd & W 123 St,Manhattan,Central Harlem,40.8078316,-73.949373,7.86,8.17,0.33,-1.34,0.33,-0.74,0.84,1.7,Equilibrada,639,0.99
+3613,Center Blvd & 48 Ave,Queens,Long Island City,40.745038,-73.957539,3.67,3.71,0.04,-1.6,0.07,-1.57,0.99,1.7,Equilibrada,640,0.99
+3619,Newtown Ave & 23 St,Queens,Northwest Queens,40.7713615,-73.9246145,3.68,3.86,0.18,-1.5,0.18,-1.26,1.05,1.7,Equilibrada,641,0.99
+3075,Division Ave & Marcy Ave,Brooklyn,Greenpoint,40.70708701,-73.95796783,8.13,7.48,-0.68,-0.68,1.01,0.58,-0.87,1.7,Equilibrada,642,0.99
+3577,34 Ave & 21 St,Queens,Northwest Queens,40.7628138,-73.9342862,2.63,2.85,0.23,-1.37,0.23,-1.2,1.08,1.6,Equilibrada,643,0.99
+3309,E 97 St & 3 Ave,Manhattan,East Harlem,40.7859201,-73.94860294,12.56,12.92,0.36,-1.27,0.36,-0.66,0.74,1.6,Equilibrada,644,0.99
+395,Bond St & Schermerhorn St,Brooklyn,Northwest Brooklyn,40.68807003,-73.98410637,29.76,30.86,1.08,-0.32,1.25,0.75,0.39,1.6,Equilibrada,645,0.99
+3121,Jackson Ave & 46 Rd,Queens,Northwest Queens,40.74524768,-73.94733276,17.14,17.11,-0.02,-0.98,0.57,-0.63,0.58,1.6,Equilibrada,646,0.99
+3432,NYCBS Depot - GOW,Brooklyn,Northwest Brooklyn,40.66906013501107,-73.99463653564453,2.13,3.49,1.34,0.01,1.64,0.58,-0.37,1.6,Equilibrada,647,0.99
+3131,E 68 St & 3 Ave,Manhattan,Upper East Side,40.76712840349542,-73.96224617958067,41.05,40.7,-0.35,-0.61,0.99,0.21,-0.69,1.6,Equilibrada,648,0.99
+3337,Dwight St & Van Dyke St,Brooklyn,Northwest Brooklyn,40.67363551341504,-74.01195555925369,5.59,7.09,1.55,-0.03,1.58,0.38,0.04,1.6,Equilibrada,649,0.99
+3580,St Johns Pl & Washington Ave,Brooklyn,Central Brooklyn,40.6737236,-73.9631611,4.4,4.09,-0.28,-1.51,0.09,-1.33,0.52,1.6,Equilibrada,650,0.99
+3414,Bergen St & Flatbush Ave,Brooklyn,Northwest Brooklyn,40.680944723477296,-73.97567331790921,37.1,36.83,-0.32,-0.42,1.04,0.37,0.94,1.5,Equilibrada,651,0.99
+3584,Eastern Pkwy & Franklin Ave,Brooklyn,Central Brooklyn,40.6707767,-73.9576801,6.08,6.08,-0.02,-0.07,1.39,1.32,-0.37,1.5,Equilibrada,652,0.99
+3531,Frederick Douglass Blvd & W 129 St,Manhattan,Central Harlem,40.8125511,-73.9492286,3.9,4.05,0.14,-1.37,0.14,-1.13,0.74,1.5,Equilibrada,653,0.99
+3073,Division Ave & Hooper St,Brooklyn,Greenpoint,40.70691254,-73.95441667,17.58,18.05,0.49,-0.96,0.49,-0.18,0.4,1.5,Equilibrada,654,0.99
+3558,Bergen St & Vanderbilt Ave,Brooklyn,Central Brooklyn,40.6794388,-73.9680438,6.45,6.1,-0.32,-1.54,-0.02,-1.2,0.79,1.5,Equilibrada,655,0.99
+3152,3 Ave & E 71 St,Manhattan,Upper East Side,40.76873687,-73.96119945,39.69,38.93,-0.75,-1.36,0.17,-0.62,0.7,1.5,Equilibrada,656,0.99
+3532,Ditmars Blvd & 19 St,Queens,Northwest Queens,40.78145,-73.9183302,2.82,3.0,0.15,-1.33,0.15,-1.07,0.78,1.5,Equilibrada,657,0.99
+3352,Sigourney St & Columbia St,Brooklyn,Northwest Brooklyn,40.67267243410948,-74.0087952464819,8.39,8.98,0.57,0.0,1.5,0.75,-0.27,1.5,Equilibrada,658,0.99
+3566,Crescent St & 35 Ave,Queens,Northwest Queens,40.7596276,-73.9321455,2.78,2.67,-0.12,-1.42,0.07,-1.25,0.43,1.5,Equilibrada,659,0.99
+3574,Prospect Pl & Underhill Ave,Brooklyn,Central Brooklyn,40.6769694,-73.96579,3.81,3.77,-0.02,-1.41,0.09,-1.13,0.71,1.5,Equilibrada,660,0.99
+3522,37 St & 24 Ave,Queens,Northwest Queens,40.7701477,-73.9120938,2.65,2.73,0.13,-1.38,0.13,-1.12,0.8,1.5,Equilibrada,661,0.99
+3456,Jackson St & Leonard St,Brooklyn,Greenpoint,40.716380319735606,-73.94821286201477,8.82,8.8,-0.0,-1.41,0.04,-1.0,0.67,1.4,Equilibrada,662,0.99
+3333,Columbia St & Lorraine St,Brooklyn,Northwest Brooklyn,40.6747055,-74.0075572,3.33,4.03,0.71,-0.73,0.71,-0.6,0.48,1.4,Equilibrada,663,0.99
+3617,28 Ave & 35 St,Queens,Northwest Queens,40.7671,-73.9169858,3.34,3.22,-0.11,-1.38,0.06,-1.17,0.51,1.4,Equilibrada,664,0.99
+3623,W 120 St & Claremont Ave,Manhattan,Morningside Heights,40.8109494,-73.9634,3.66,2.93,-0.7,-0.74,0.62,0.38,-0.56,1.4,Equilibrada,665,0.99
+3547,Broadway & Moylan Pl,Manhattan,Central Harlem,40.8143256,-73.9590255,8.31,8.7,0.4,-1.02,0.4,-0.6,1.06,1.4,Equilibrada,666,0.99
+3609,Vernon Blvd & 31 Ave,Queens,Northwest Queens,40.7692475,-73.9354504,2.44,2.91,0.46,-0.91,0.46,-0.7,0.71,1.4,Equilibrada,667,0.99
+3468,NYCBS Depot - STY - Garage 4,Manhattan,Lower East Side,40.7303801,-73.9747502,1.01,2.06,1.04,-0.03,1.31,0.27,0.84,1.3,Equilibrada,668,0.99
+3615,44 Dr & 21 St,Queens,Northwest Queens,40.748,-73.9460927,3.98,4.35,0.37,-0.03,1.29,0.99,-0.19,1.3,Equilibrada,669,0.99
+3579,Sterling Pl & Bedford Ave,Brooklyn,Central Brooklyn,40.672695,-73.954131,2.95,3.17,0.2,-1.1,0.2,-0.79,0.57,1.3,Equilibrada,670,0.99
+3326,Clinton St & Centre St,Brooklyn,Northwest Brooklyn,40.67434,-74.00194698,6.2,6.5,0.32,-1.01,0.32,-0.57,0.67,1.3,Equilibrada,671,0.99
+3395,Henry St & W 9 St,Brooklyn,Northwest Brooklyn,40.6763744,-74.00324957,5.62,5.83,0.21,-0.84,0.36,-0.78,0.36,1.2,Equilibrada,672,0.99
+3520,Adam Clayton Powell Blvd & W 118 St,Manhattan,Central Harlem,40.804372,-73.951475,3.36,3.61,0.23,-0.96,0.23,-0.55,0.62,1.2,Equilibrada,673,0.99
+3063,Nostrand Ave & Myrtle Ave,Brooklyn,Bushwick and Williamsburg,40.69527008,-73.95238108,10.84,11.22,0.38,-0.87,0.38,-0.3,0.3,1.2,Equilibrada,674,0.99
+3589,Broadway & 12 St,Queens,Northwest Queens,40.7668,-73.9347774,2.72,2.82,0.11,-1.09,0.11,-0.56,0.58,1.2,Equilibrada,675,0.99
+3603,31 Ave & 30 St,Queens,Northwest Queens,40.7647,-73.9240312,3.59,3.48,-0.12,-1.23,0.0,-0.67,0.65,1.2,Equilibrada,676,0.99
+3518,Lenox Ave & W 126 St,Manhattan,Central Harlem,40.808442,-73.9452087,9.86,10.06,0.21,-0.42,0.64,0.54,0.47,1.1,Equilibrada,677,0.99
+3524,19 St & 24 Ave,Queens,Northwest Queens,40.7774552,-73.9225403,2.42,2.48,0.08,-1.04,0.08,-0.97,0.65,1.1,Equilibrada,678,0.99
+3548,Pacific St & Bedford Ave,Brooklyn,Central Brooklyn,40.6777747,-73.9529322,2.36,2.29,-0.08,-0.83,0.23,-0.77,0.24,1.1,Equilibrada,679,0.99
+3042,Fulton St & Utica Ave,Brooklyn,Central Brooklyn,40.6794268,-73.9298911,21.36,22.25,0.86,-0.27,0.86,0.03,0.29,1.1,Equilibrada,680,0.99
+3044,Albany Ave & Fulton St,Brooklyn,Central Brooklyn,40.6800105,-73.938475,8.43,8.29,-0.13,-0.87,0.27,0.04,0.03,1.1,Equilibrada,681,0.99
+3545,Broadway & W 122 St,Manhattan,Central Harlem,40.8120562,-73.9612547,8.07,7.01,-1.06,-1.06,0.07,-0.2,-0.2,1.1,Equilibrada,682,0.99
+3401,2 Ave & 9 St,Brooklyn,Northwest Brooklyn,40.6724811,-73.99331394,10.71,10.85,0.15,-0.54,0.6,-0.25,0.82,1.1,Equilibrada,683,0.99
+3500,E 115 St & Madison Ave,Manhattan,East Harlem,40.7989445,-73.944846,3.14,3.25,0.13,-0.88,0.23,-0.82,0.51,1.1,Equilibrada,684,0.99
+3493,E 118 St & 3 Ave,Manhattan,East Harlem,40.799139,-73.9389152,4.38,4.39,0.02,-0.98,0.09,-0.63,0.27,1.1,Equilibrada,685,0.99
+3530,Crescent St & Ditmars Blvd,Queens,Northwest Queens,40.7787185,-73.9145645,2.32,2.47,0.16,-0.96,0.16,-0.77,0.67,1.1,Equilibrada,686,0.99
+3537,Carlton Ave & Dean St,Brooklyn,Central Brooklyn,40.6809741,-73.9710097,5.2,5.24,0.06,-0.96,0.06,-0.79,0.6,1.0,Equilibrada,687,0.99
+3561,37 Ave & 35 St,Queens,Northwest Queens,40.7531106,-73.9279917,3.17,3.35,0.15,-0.05,0.98,0.71,-0.23,1.0,Equilibrada,688,1.0
+3560,28 St & 38 Ave,Queens,Northwest Queens,40.754876,-73.934326,2.95,2.92,-0.04,-0.9,0.1,-0.63,0.31,1.0,Equilibrada,689,1.0
+3572,34 Ave & 38 St,Queens,Northwest Queens,40.756913,-73.921631,5.11,4.85,-0.24,-0.24,0.77,0.46,-0.11,1.0,Equilibrada,690,1.0
+3610,Vernon Blvd & 30 Rd,Queens,Northwest Queens,40.770845,-73.934171,3.39,3.65,0.27,0.02,1.0,0.71,-0.62,1.0,Equilibrada,691,1.0
+3612,30 Ave & 21 St,Queens,Northwest Queens,40.7703743,-73.9286078,1.69,1.87,0.22,-0.77,0.22,-0.73,0.6,1.0,Equilibrada,692,1.0
+3450,Penn Station Valet - Valet Scan,Manhattan,Chelsea and Clinton,40.7512836,-73.9969245,1.53,0.02,-1.51,-1.51,-0.47,-1.51,,1.0,Equilibrada,693,1.0
+3581,Underhill Ave & Lincoln Pl,Brooklyn,Central Brooklyn,40.6740123,-73.9671457,5.37,5.23,-0.11,-0.82,0.15,-0.65,0.22,1.0,Equilibrada,694,1.0
+3599,Franklin Ave & Empire Blvd,Brooklyn,Flatbush,40.66314,-73.9605695,4.17,4.41,0.25,-0.67,0.25,-0.7,0.42,0.9,Equilibrada,695,1.0
+3249,Verona Pl & Fulton St,Brooklyn,Central Brooklyn,40.6803560840434,-73.9476791024208,18.71,18.72,0.03,-0.63,0.23,-0.39,-0.02,0.9,Equilibrada,696,1.0
+3591,21 St & 31 Dr,Queens,Northwest Queens,40.7659,-73.930819,3.22,3.28,0.05,-0.81,0.06,-0.56,0.46,0.9,Equilibrada,697,1.0
+3648,Flushing Ave & Vanderbilt Ave,Brooklyn,Northwest Brooklyn,40.69795031569544,-73.97077560424803,3.35,3.97,0.66,-0.23,0.66,-0.05,0.29,0.9,Equilibrada,698,1.0
+3598,Newton Rd & 44 St,Queens,Northwest Queens,40.7595701,-73.9142678,2.82,2.82,0.02,-0.68,0.19,-0.49,0.21,0.9,Equilibrada,699,1.0
+3495,E 114 St & 1 Ave,Manhattan,East Harlem,40.7945663,-73.9362541,3.42,3.57,0.13,-0.75,0.13,-0.54,0.62,0.9,Equilibrada,700,1.0
+3570,35 Ave & 37 St,Queens,Northwest Queens,40.7557327,-73.9236611,3.61,3.64,0.0,-0.08,0.81,0.38,-0.4,0.9,Equilibrada,701,1.0
+3508,St Nicholas Ave & Manhattan Ave,Manhattan,Central Harlem,40.809725,-73.953149,8.83,9.41,0.57,-0.07,0.81,0.32,0.4,0.9,Equilibrada,702,1.0
+3565,36 Ave & 10 St,Queens,Northwest Queens,40.7614376,-73.9411265,2.64,2.64,0.0,-0.58,0.22,-0.13,0.3,0.8,Equilibrada,703,1.0
+3578,Park Pl & Franklin Ave,Brooklyn,Central Brooklyn,40.6741806,-73.9564947,2.58,2.45,-0.14,-0.73,0.02,-0.58,0.25,0.8,Equilibrada,704,1.0
+3567,11 St & 35 Ave,Queens,Northwest Queens,40.7627442,-73.9391141,1.45,1.36,-0.11,-0.79,0.03,-0.45,0.39,0.8,Equilibrada,705,1.0
+3606,49 Ave & 21 St,Queens,Northwest Queens,40.74252,-73.948852,2.37,2.3,-0.05,-0.86,-0.01,-0.63,0.62,0.8,Equilibrada,706,1.0
+3607,31 Ave & 14 St,Queens,Northwest Queens,40.7682,-73.9322662,1.67,1.71,0.04,-0.67,0.12,-0.39,0.37,0.8,Equilibrada,707,1.0
+3597,43 St & Broadway,Queens,Northwest Queens,40.7577284,-73.9166368,3.27,3.32,0.04,-0.72,0.05,-0.42,0.41,0.8,Equilibrada,708,1.0
+3219,NYCBS Depot - STY,Manhattan,Lower East Side,40.729193,-73.976655,0.38,1.05,0.67,0.0,0.78,0.05,0.56,0.8,Equilibrada,709,1.0
+3497,Pleasant Ave & E 116 St,Manhattan,East Harlem,40.7949879,-73.9333349,10.98,11.29,0.37,-0.3,0.47,-0.38,0.34,0.8,Equilibrada,710,1.0
+3515,24 Ave & 26 St,Queens,Northwest Queens,40.774591,-73.918544,2.42,2.4,-0.05,-0.74,0.08,-0.59,0.33,0.8,Equilibrada,711,1.0
+3647,48 Ave & 30 Pl,Queens,Northwest Queens,40.74128309355993,-73.93725872039794,1.02,1.1,0.06,-0.08,0.7,0.54,-0.4,0.8,Equilibrada,712,1.0
+3556,24 St & 41 Ave,Queens,Northwest Queens,40.7527085,-73.9397405,3.87,3.76,-0.13,-0.13,0.63,0.53,-0.48,0.8,Equilibrada,713,1.0
+3592,Crescent St & Broadway,Queens,Northwest Queens,40.7633589,-73.9286471,4.44,4.04,-0.4,-0.59,0.2,-0.64,0.28,0.8,Equilibrada,714,1.0
+3604,Rogers Ave & Sterling St,Brooklyn,Flatbush,40.6630619,-73.9538746,1.62,1.86,0.25,-0.5,0.25,-0.29,0.26,0.8,Equilibrada,715,1.0
+3491,E 118 St & 1 Ave,Manhattan,East Harlem,40.79747,-73.93504,1.74,1.72,-0.01,-0.63,0.04,-0.39,0.2,0.7,Equilibrada,716,1.0
+3503,Madison Ave & E 120 St,Manhattan,East Harlem,40.80295,-73.942954,2.46,2.61,0.21,-0.5,0.21,-0.32,0.14,0.7,Equilibrada,717,1.0
+3546,Pacific St & Classon Ave,Brooklyn,Central Brooklyn,40.6791944,-73.9587903,1.99,1.78,-0.2,-0.53,0.18,-0.47,0.09,0.7,Equilibrada,718,1.0
+3644,Van Dyke St & Van Brunt St,Brooklyn,Northwest Brooklyn,40.67581622522832,-74.01488184928894,3.65,4.15,0.5,-0.19,0.5,-0.01,0.24,0.7,Equilibrada,719,1.0
+3330,Henry St & Bay St,Brooklyn,Northwest Brooklyn,40.6725058,-74.00494695,5.99,6.19,0.21,-0.04,0.67,-0.14,0.3,0.7,Equilibrada,720,1.0
+3551,3 Ave & E 112 St,Manhattan,East Harlem,40.795508,-73.941606,2.76,2.89,0.14,-0.5,0.19,-0.35,0.17,0.7,Equilibrada,721,1.0
+3611,Vernon Blvd & 47 Rd,Queens,Northwest Queens,40.7449067,-73.9534573,2.46,2.57,0.05,-0.16,0.51,0.04,0.28,0.7,Equilibrada,722,1.0
+3621,27 Ave & 9 St,Queens,Northwest Queens,40.7739825,-73.9309134,1.31,1.37,0.04,-0.6,0.07,-0.33,0.23,0.7,Equilibrada,723,1.0
+3513,21 St & Hoyt Ave S,Queens,Northwest Queens,40.774645,-73.923706,1.59,1.65,0.04,-0.63,0.04,-0.13,0.4,0.7,Equilibrada,724,1.0
+255,NYCBS Depot - SSP,Brooklyn,Sunset Park,40.646768,-74.01651,0.86,0.48,-0.36,-0.36,0.33,0.28,-0.59,0.7,Equilibrada,725,1.0
+3120,Center Blvd & Borden Ave,Queens,Northwest Queens,40.74161,-73.96044,15.64,16.08,0.41,-0.01,0.68,0.24,-0.51,0.7,Equilibrada,726,1.0
+3490,E 116 St & 2 Ave,Manhattan,East Harlem,40.796879,-73.937261,3.08,3.02,-0.09,-0.48,0.18,-0.43,0.17,0.7,Equilibrada,727,1.0
+3514,Astoria Park S & Shore Blvd,Queens,Northwest Queens,40.7767,-73.927631,1.79,1.86,0.07,-0.66,0.07,-0.47,0.37,0.7,Equilibrada,728,1.0
+3501,E 118 St & Madison Ave,Manhattan,East Harlem,40.8014866,-73.9442507,3.01,3.06,0.05,-0.69,0.05,-0.32,0.15,0.7,Equilibrada,729,1.0
+3182,Yankee Ferry Terminal,Manhattan,Lower Manhattan,40.686931,-74.016966,10.48,10.68,0.24,0.03,0.6,0.08,-0.08,0.6,Equilibrada,730,1.0
+3622,E 128 St & Madison Ave,Manhattan,East Harlem,40.80756,-73.939182,2.07,2.13,0.12,-0.48,0.12,-0.48,0.32,0.6,Equilibrada,731,1.0
+3571,Bedford Ave & Bergen St,Brooklyn,Central Brooklyn,40.676368,-73.952918,1.71,1.71,-0.02,-0.59,0.05,-0.42,0.25,0.6,Equilibrada,732,1.0
+3494,E 115 St & Lexington Ave,Manhattan,East Harlem,40.797911,-73.9423,4.11,4.33,0.21,-0.28,0.27,0.13,0.21,0.6,Equilibrada,733,1.0
+3504,E 123 St & Lexington Ave,Manhattan,East Harlem,40.8029263,-73.9379,3.89,3.92,-0.01,-0.04,0.59,0.45,-0.36,0.6,Equilibrada,734,1.0
+3587,Carroll St & Washington Ave,Brooklyn,Flatbush,40.6686744,-73.9618148,1.17,0.99,-0.18,-0.57,0.03,-0.34,0.24,0.6,Equilibrada,735,1.0
+3583,Eastern Pkwy & Washington Ave,Brooklyn,Central Brooklyn,40.6716493,-73.9631145,2.58,2.09,-0.52,-0.52,0.03,0.01,-0.22,0.6,Equilibrada,736,1.0
+3601,Sterling St & Bedford Ave,Brooklyn,Flatbush,40.6627059,-73.9569115,1.45,1.56,0.1,-0.52,0.1,-0.14,0.24,0.6,Equilibrada,737,1.0
+3541,Amsterdam Ave & W 125 St,Manhattan,Central Harlem,40.813358,-73.956461,3.27,3.76,0.46,0.01,0.55,0.23,0.31,0.5,Equilibrada,738,1.0
+3588,Vernon Blvd & 10 St,Queens,Northwest Queens,40.7671863,-73.9373554,2.99,3.02,0.02,-0.44,0.04,-0.11,0.26,0.5,Equilibrada,739,1.0
+3585,Union St & Bedford Ave,Brooklyn,Flatbush,40.6691783,-73.9554162,1.54,1.5,-0.02,-0.44,0.05,-0.38,0.18,0.5,Equilibrada,740,1.0
+3646,35 Ave & 10 St,Queens,Northwest Queens,40.763154819103725,-73.93985509872435,1.0,1.0,-0.02,-0.46,0.06,-0.06,0.06,0.5,Equilibrada,741,1.0
+3642,E 98 St & Lexington Ave,Manhattan,East Harlem,40.78728519860952,-73.95012259483337,1.61,1.64,0.07,-0.28,0.24,-0.34,0.07,0.5,Equilibrada,742,1.0
+3582,Lincoln Pl & Classon Ave,Brooklyn,Central Brooklyn,40.6721683,-73.9609,1.91,1.83,-0.09,-0.42,0.08,-0.38,0.28,0.5,Equilibrada,743,1.0
+3576,Park Pl & Vanderbilt Ave,Brooklyn,Central Brooklyn,40.6767,-73.969024,8.87,8.58,-0.28,-0.3,0.18,-0.02,-0.38,0.5,Equilibrada,744,1.0
+3540,Morningside Ave & W 123 St,Manhattan,Central Harlem,40.81,-73.9551508,4.42,4.39,-0.06,-0.51,0.03,-0.35,0.43,0.5,Equilibrada,745,1.0
+3523,24 Ave & 29 St,Queens,Northwest Queens,40.7729,-73.916142,1.9,1.87,-0.06,-0.46,0.02,-0.27,0.28,0.5,Equilibrada,746,1.0
+3525,23 Ave & 27 St,Queens,Northwest Queens,40.776165,-73.9153175,1.33,1.49,0.19,-0.27,0.19,-0.19,0.05,0.5,Equilibrada,747,1.0
+3512,27 Ave & 4 St,Queens,Northwest Queens,40.7747175,-73.9337894,0.58,0.79,0.25,-0.16,0.32,-0.13,0.4,0.5,Equilibrada,748,1.0
+3533,St. Nicholas Ave & W 126 St,Manhattan,Central Harlem,40.8114323,-73.9518776,6.39,6.46,0.07,-0.38,0.12,-0.2,0.49,0.5,Equilibrada,749,1.0
+3527,5 Ave & E 126 St,Manhattan,East Harlem,40.80698,-73.941747,2.25,2.36,0.12,-0.39,0.12,-0.45,0.3,0.5,Equilibrada,750,1.0
+3586,34 Ave & 13 St,Queens,Northwest Queens,40.7638753,-73.9364848,1.15,1.15,0.06,-0.34,0.06,-0.2,0.22,0.4,Equilibrada,751,1.0
+3479,Picnic Point,Manhattan,Lower Manhattan,40.685125595154155,-74.02535319328307,4.26,4.45,0.19,0.01,0.4,0.01,0.05,0.4,Equilibrada,752,1.0
+3499,2 Ave & E 122 St,Manhattan,East Harlem,40.8006721,-73.9349,2.57,2.76,0.24,-0.11,0.24,-0.02,0.04,0.4,Equilibrada,753,1.0
+3502,Lexington Ave & E 111 St,Manhattan,East Harlem,40.7954121,-73.9441232,4.76,4.89,0.14,0.0,0.4,0.4,-0.09,0.4,Equilibrada,754,1.0
+3498,Pleasant Ave & E 120 St,Manhattan,East Harlem,40.7974772,-73.9311847,1.36,1.41,0.05,-0.3,0.05,-0.09,0.25,0.4,Equilibrada,755,1.0
+3575,Crescent St & 34 Ave,Queens,Northwest Queens,40.76108,-73.930562,1.07,1.17,0.1,-0.27,0.1,-0.28,0.13,0.4,Equilibrada,756,1.0
+3528,Steinway St & 23 Ave,Queens,Northwest Queens,40.7713937,-73.9077436,1.66,1.74,0.09,-0.25,0.1,-0.22,0.24,0.4,Equilibrada,757,1.0
+3573,35 St & 34 Ave,Queens,Northwest Queens,40.7580583,-73.9242751,2.6,2.58,-0.07,-0.24,0.09,-0.09,0.06,0.3,Equilibrada,758,1.0
+3618,27 St & Hunter St,Queens,Northwest Queens,40.7485,-73.941275,1.55,1.67,0.13,-0.09,0.17,-0.04,0.11,0.3,Equilibrada,759,1.0
+3595,35 St & Broadway,Queens,Northwest Queens,40.760339,-73.9222427,3.02,2.91,-0.13,-0.18,0.12,-0.08,0.16,0.3,Equilibrada,760,1.0
+3505,Lexington Ave & E 127 St,Manhattan,East Harlem,40.805726,-73.936322,0.48,0.49,0.02,-0.02,0.13,0.15,-0.04,0.2,Equilibrada,761,1.0
+3596,Sullivan Pl & Bedford Ave,Brooklyn,Flatbush,40.6642406,-73.9574686,0.28,0.32,0.07,-0.13,0.07,-0.06,0.04,0.2,Equilibrada,762,1.0
+3590,Carroll St & Franklin Ave,Brooklyn,Flatbush,40.6679411,-73.9588,0.77,0.81,0.04,-0.14,0.04,-0.01,0.1,0.2,Equilibrada,763,1.0
+3564,21 St & 36 Ave,Queens,Northwest Queens,40.7601853,-73.9362726,0.93,0.96,0.02,-0.02,0.2,-0.0,0.03,0.2,Equilibrada,764,1.0
+3594,Montgomery St & Franklin Ave OLD,Brooklyn,Flatbush,40.6661649,-73.9593484,0.95,1.03,0.09,-0.08,0.16,-0.03,0.01,0.2,Equilibrada,765,1.0
+3184,Paulus Hook,Jersey City (NJ),Jersey City (NJ),40.7141454,-74.0335519,0.0,0.17,0.17,0.01,0.17,0.04,0.06,0.2,Equilibrada,766,1.0
+3506,Lexington Ave & E 120 St,Manhattan,East Harlem,40.8013066,-73.9398167,1.3,1.25,-0.06,-0.09,0.08,0.07,-0.02,0.2,Equilibrada,767,1.0
+3649,W 129 St & Convent Ave,Manhattan,Central Harlem,40.814394437915816,-73.95324736833571,0.71,0.74,0.09,0.0,0.22,0.06,-0.08,0.2,Equilibrada,768,1.0
+3554,Vernon Blvd & 41 Rd,Queens,Northwest Queens,40.7552433,-73.9485678,1.3,1.35,0.02,-0.13,0.07,-0.06,0.14,0.2,Equilibrada,769,1.0
+3492,E 118 St & Park Ave,Manhattan,East Harlem,40.8005385,-73.9419949,1.5,1.62,0.12,-0.1,0.13,-0.07,0.11,0.2,Equilibrada,770,1.0
+3620,11 St & 43 Ave,Queens,Northwest Queens,40.7519071,-73.9479119,0.5,0.55,0.06,-0.01,0.13,0.03,0.01,0.1,Equilibrada,771,1.0
+3636,Expansion Warehouse 333 Johnson Ave,Brooklyn,Bushwick and Williamsburg,40.707731483954696,-73.93452286720277,0.03,0.07,0.04,0.01,0.07,0.04,,0.1,Equilibrada,772,1.0
+3559,21 St & 38 Ave,Queens,Northwest Queens,40.7576314,-73.9391224,0.44,0.46,0.03,-0.02,0.07,0.03,-0.02,0.1,Equilibrada,773,1.0
+3192,Liberty Light Rail,Jersey City (NJ),Jersey City (NJ),40.7112423,-74.0557013,0.0,0.07,0.07,0.01,0.07,,0.02,0.1,Equilibrada,774,1.0
+3276,Marin Light Rail,Jersey City (NJ),Jersey City (NJ),40.714584035358925,-74.04281705617905,0.0,0.09,0.09,0.01,0.09,,0.03,0.1,Equilibrada,775,1.0
+3214,Essex Light Rail,Jersey City (NJ),Jersey City (NJ),40.7127742,-74.0364857,0.0,0.15,0.15,0.01,0.15,,0.06,0.1,Equilibrada,776,1.0
+3267,Morris Canal,Jersey City (NJ),Jersey City (NJ),40.7124188237569,-74.03852552175523,0.0,0.15,0.15,0.01,0.15,,0.1,0.1,Equilibrada,777,1.0
+3240,NYCBS Depot BAL - DYR,Manhattan,Chelsea and Clinton,40.759030082196055,-73.99385869503021,0.03,0.09,0.06,0.01,0.07,0.01,0.01,0.1,Equilibrada,778,1.0
+3250,NYCBS Depot - PIT,Manhattan,Lower East Side,40.716909780459645,-73.98383796215057,0.1,0.16,0.08,0.0,0.08,-0.01,-0.01,0.1,Equilibrada,779,1.0
+3114,India St & East River,Brooklyn,Greenpoint,40.73165141,-73.96161892,0.04,0.09,0.05,0.02,0.08,0.07,-0.03,0.1,Equilibrada,780,1.0
+3183,Exchange Place,Jersey City (NJ),Jersey City (NJ),40.7162469,-74.0334588,0.0,0.1,0.1,0.01,0.1,0.04,0.01,0.1,Equilibrada,781,1.0
+3625,28 St & 40 Ave,Queens,Northwest Queens,40.7525758,-73.9364281,1.33,1.36,0.02,-0.04,0.08,0.04,-0.03,0.1,Equilibrada,782,1.0
+3197,Hs Don't Use,Jersey City (NJ),Jersey City (NJ),40.71925170740989,-74.03423398733139,0.11,0.06,-0.06,-0.07,0.0,0.01,0.01,0.1,Equilibrada,783,1.0
+3557,40 Ave & 9 St,Queens,Northwest Queens,40.75742,-73.945133,0.5,0.61,0.1,-0.02,0.1,-0.03,0.11,0.1,Equilibrada,784,1.0
+3653,31 St & 35 Ave,Queens,Northwest Queens,40.75820464696758,-73.92832159996031,0.12,0.15,0.02,-0.06,0.02,-0.02,0.02,0.1,Equilibrada,785,1.0
+147,Greenwich St & Warren St,Manhattan,Lower Manhattan,40.71542197,-74.01121978,0.03,0.02,-0.02,-0.02,-0.01,,,0.0,Equilibrada,786,1.0
+3481,York St,Jersey City (NJ),Jersey City (NJ),40.71649,-74.04105,0.0,0.02,0.02,0.01,0.02,,0.01,0.0,Equilibrada,787,1.0
+3485,NYCBS Depot - RIS,Manhattan,Lower East Side,40.725208,-73.974724,0.07,0.11,0.04,0.0,0.05,0.01,0.02,0.0,Equilibrada,788,1.0
+3273,Manila & 1st,Jersey City (NJ),Jersey City (NJ),40.72165072487999,-74.04288411140443,0.0,0.02,0.02,0.01,0.02,,0.01,0.0,Equilibrada,789,1.0
+3211,Newark Ave,Jersey City (NJ),Jersey City (NJ),40.72152515,-74.046304543,0.0,0.01,0.01,0.01,0.01,,0.01,0.0,Equilibrada,790,1.0
+3471,NYCBS Depot - GOW Annex,Brooklyn,Northwest Brooklyn,40.66888415753938,-73.9948135614395,0.0,0.01,0.01,0.01,0.01,,,0.0,Equilibrada,791,1.0
+3470,Gowanus Tech Station,Brooklyn,Northwest Brooklyn,40.66980193089616,-73.99490475654602,0.06,0.05,-0.01,-0.02,0.0,,0.01,0.0,Equilibrada,792,1.0
+3278,Monmouth and 6th,Jersey City (NJ),Jersey City (NJ),40.72568548362901,-74.04879033565521,0.0,0.01,0.01,0.01,0.01,,0.01,0.0,Equilibrada,793,1.0
+3275,Columbus Drive,Jersey City (NJ),Jersey City (NJ),40.71835519823214,-74.03891444206236,0.0,0.01,0.01,0.01,0.01,,0.01,0.0,Equilibrada,794,1.0
+3213,Van Vorst Park,Jersey City (NJ),Jersey City (NJ),40.71848892,-74.047726625,0.0,0.02,0.02,0.01,0.02,,,0.0,Equilibrada,795,1.0
+3239,Bressler,Brooklyn,Sunset Park,40.64653836709648,-74.01658773422241,0.19,0.2,0.0,-0.01,0.0,0.0,0.0,0.0,Equilibrada,796,1.0
+3270,Jersey & 6th St,Jersey City (NJ),Jersey City (NJ),40.72528910781132,-74.04557168483734,0.0,0.02,0.02,0.01,0.02,,0.01,0.0,Equilibrada,797,1.0
+493,W 45 St & 6 Ave,Manhattan,Chelsea and Clinton,40.7568001,-73.98291153,0.06,0.08,0.02,0.0,0.02,,,0.0,Equilibrada,798,1.0
+475,E 16 St & Irving Pl,Manhattan,Lower East Side,40.73524276,-73.98758561,0.0,0.01,0.01,0.01,0.01,,,0.0,Equilibrada,799,1.0
+352,W 56 St & 6 Ave,Manhattan,Chelsea and Clinton,40.76340613,-73.97722479,0.0,0.03,0.03,0.01,0.03,0.03,,0.0,Equilibrada,800,1.0
+3040,GOW Tech Shop,Brooklyn,Northwest Brooklyn,40.66979964220026,-73.99497985839844,0.04,0.07,0.02,0.01,0.03,,0.0,0.0,Equilibrada,801,1.0
+3036,8D OPS 01,Bronx,Kingsbridge and Riverdale,40.88092055523877,-73.89660179615021,0.08,0.08,0.0,-0.01,0.0,,0.0,0.0,Equilibrada,802,1.0
+3639,Harborside,Jersey City (NJ),Jersey City (NJ),40.7192517,-74.034234,0.0,0.02,0.02,0.01,0.02,0.02,,0.0,Equilibrada,803,1.0
+3199,Newport Pkwy,Jersey City (NJ),Jersey City (NJ),40.7287448,-74.0321082,0.0,0.04,0.04,0.01,0.04,0.01,0.02,0.0,Equilibrada,804,1.0
+3202,Newport PATH,Jersey City (NJ),Jersey City (NJ),40.7272235,-74.0337589,0.0,0.06,0.06,0.01,0.06,0.01,0.01,0.0,Equilibrada,805,1.0
+3185,City Hall,Jersey City (NJ),Jersey City (NJ),40.7177325,-74.043845,0.0,0.02,0.02,0.01,0.02,,0.01,0.0,Equilibrada,806,1.0
+3203,Hamilton Park,Jersey City (NJ),Jersey City (NJ),40.727595966,-74.044247311,0.0,0.04,0.04,0.01,0.04,,0.01,0.0,Equilibrada,807,1.0
+3205,JC Medical Center,Jersey City (NJ),Jersey City (NJ),40.71653978099194,-74.0496379137039,0.0,0.04,0.04,0.01,0.04,,0.03,0.0,Equilibrada,808,1.0
+3550,Convent Ave & W 129 St,Manhattan,Central Harlem,40.81413,-73.953005,0.22,0.24,0.03,-0.02,0.03,0.0,0.01,0.0,Equilibrada,809,1.0
+3186,Grove St PATH,Jersey City (NJ),Jersey City (NJ),40.71958611647166,-74.0431174635887,0.0,0.05,0.05,0.01,0.05,0.01,0.01,0.0,Equilibrada,810,1.0
+3198,Heights Elevator,Jersey City (NJ),Jersey City (NJ),40.74871594538023,-74.04044330120087,0.0,0.02,0.02,0.01,0.02,,0.01,0.0,Equilibrada,811,1.0
+3654,31 St & Northern Blvd,Queens,Northwest Queens,40.75186951421875,-73.93349289894103,0.15,0.14,-0.02,-0.04,0.0,0.0,-0.02,0.0,Equilibrada,812,1.0
+3645,Pathmark Depot,Brooklyn,Northwest Brooklyn,40.67233267189711,-73.997061252594,0.0,0.01,0.01,0.01,0.01,,,0.0,Equilibrada,813,1.0

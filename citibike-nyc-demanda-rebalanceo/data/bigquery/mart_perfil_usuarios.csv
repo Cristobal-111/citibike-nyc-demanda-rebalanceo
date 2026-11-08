@@ -1,0 +1,97 @@
+tipo_usuario,tipo_dia,hora,viajes,duracion_mediana_min,pct_ida_y_vuelta
+Abonado,Día laboral,8,991392,10.2,0.006
+Abonado,Día laboral,9,692972,9.5,0.007
+Abonado,Día laboral,7,579265,9.2,0.007
+Abonado,Día laboral,6,279646,8.1,0.007
+Abonado,Día laboral,5,75400,7.6,0.008
+Abonado,Día laboral,18,1021456,10.5,0.01
+Abonado,Día laboral,17,1033387,10.6,0.01
+Abonado,Día laboral,10,371565,9.1,0.012
+Abonado,Día laboral,16,627074,9.8,0.013
+Abonado,Día laboral,19,680886,9.7,0.014
+Abonado,Día laboral,4,14177,7.6,0.015
+Abonado,Día laboral,21,307481,9.4,0.016
+Abonado,Día laboral,20,447543,9.5,0.016
+Abonado,Día laboral,22,224377,9.4,0.017
+Abonado,Día laboral,15,483389,9.6,0.017
+Abonado,Día laboral,23,140387,9.0,0.017
+Abonado,Día laboral,14,446271,9.1,0.018
+Abonado,Día laboral,11,344067,9.2,0.019
+Abonado,Día laboral,0,66115,8.7,0.02
+Abonado,Día laboral,13,427911,8.8,0.02
+Abonado,Día laboral,12,408176,8.7,0.022
+Abonado,Día laboral,1,30313,8.3,0.026
+Abonado,Día laboral,2,15228,8.4,0.031
+Abonado,Día laboral,3,9012,8.2,0.032
+Ocasional,Día laboral,8,21230,18.5,0.045
+Ocasional,Día laboral,9,32992,21.1,0.046
+Ocasional,Día laboral,18,64828,20.0,0.053
+Ocasional,Día laboral,10,49258,22.6,0.053
+Ocasional,Día laboral,17,78575,20.3,0.054
+Ocasional,Día laboral,13,76189,21.6,0.055
+Ocasional,Día laboral,19,47412,19.8,0.056
+Ocasional,Día laboral,11,65348,22.6,0.056
+Ocasional,Día laboral,12,73391,22.1,0.057
+Ocasional,Día laboral,14,80564,21.8,0.058
+Ocasional,Día laboral,20,32470,19.4,0.06
+Ocasional,Día laboral,21,24261,18.6,0.061
+Ocasional,Día laboral,15,82757,21.5,0.061
+Ocasional,Día laboral,16,82762,20.9,0.062
+Ocasional,Día laboral,22,20250,18.8,0.062
+Ocasional,Día laboral,7,9258,17.6,0.064
+Ocasional,Día laboral,23,13734,18.3,0.069
+Ocasional,Día laboral,0,8256,18.1,0.072
+Ocasional,Día laboral,6,3881,16.3,0.077
+Ocasional,Día laboral,5,1170,17.1,0.091
+Ocasional,Día laboral,2,2400,18.1,0.093
+Ocasional,Día laboral,1,4467,18.0,0.096
+Ocasional,Día laboral,4,825,17.9,0.097
+Ocasional,Día laboral,3,1314,18.3,0.103
+Abonado,Fin de semana,0,44016,9.3,0.018
+Abonado,Fin de semana,1,29531,8.9,0.019
+Abonado,Fin de semana,23,50581,9.2,0.02
+Abonado,Fin de semana,2,18372,8.4,0.02
+Abonado,Fin de semana,22,69831,9.4,0.021
+Abonado,Fin de semana,3,11402,8.1,0.021
+Abonado,Fin de semana,21,87448,9.5,0.022
+Abonado,Fin de semana,12,214280,10.3,0.022
+Abonado,Fin de semana,13,217577,10.5,0.022
+Abonado,Fin de semana,14,215104,10.9,0.023
+Abonado,Fin de semana,11,196916,9.8,0.023
+Abonado,Fin de semana,5,6565,8.2,0.023
+Abonado,Fin de semana,9,126812,8.7,0.023
+Abonado,Fin de semana,18,194610,10.2,0.023
+Abonado,Fin de semana,15,216376,10.8,0.023
+Abonado,Fin de semana,10,168192,9.1,0.023
+Abonado,Fin de semana,16,216387,10.5,0.023
+Abonado,Fin de semana,17,207343,10.5,0.024
+Abonado,Fin de semana,19,160892,9.8,0.024
+Abonado,Fin de semana,6,17448,8.4,0.025
+Abonado,Fin de semana,20,118356,9.8,0.025
+Abonado,Fin de semana,7,39826,8.5,0.025
+Abonado,Fin de semana,8,78836,8.3,0.026
+Abonado,Fin de semana,4,7125,8.0,0.026
+Ocasional,Fin de semana,19,40619,19.5,0.054
+Ocasional,Fin de semana,18,56764,20.8,0.055
+Ocasional,Fin de semana,20,27524,19.0,0.055
+Ocasional,Fin de semana,13,76542,22.6,0.056
+Ocasional,Fin de semana,21,18316,18.9,0.057
+Ocasional,Fin de semana,12,70360,22.6,0.057
+Ocasional,Fin de semana,10,41960,22.6,0.058
+Ocasional,Fin de semana,14,80197,22.8,0.058
+Ocasional,Fin de semana,17,69588,21.7,0.059
+Ocasional,Fin de semana,9,22476,21.8,0.06
+Ocasional,Fin de semana,16,78087,22.2,0.06
+Ocasional,Fin de semana,15,82344,22.4,0.061
+Ocasional,Fin de semana,11,60059,22.8,0.062
+Ocasional,Fin de semana,22,14040,18.1,0.062
+Ocasional,Fin de semana,0,6386,18.5,0.072
+Ocasional,Fin de semana,23,9773,18.6,0.073
+Ocasional,Fin de semana,2,2785,17.7,0.073
+Ocasional,Fin de semana,1,4204,17.4,0.074
+Ocasional,Fin de semana,8,10017,20.9,0.076
+Ocasional,Fin de semana,3,1846,18.5,0.078
+Ocasional,Fin de semana,5,777,20.1,0.089
+Ocasional,Fin de semana,7,3761,20.6,0.102
+Ocasional,Fin de semana,4,1214,18.8,0.109
+Ocasional,Fin de semana,6,1371,20.5,0.109

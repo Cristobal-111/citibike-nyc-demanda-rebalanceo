@@ -1,0 +1,19 @@
+tramo_edad,genero,viajes,duracion_mediana_min
+1. Menos de 25,Hombre,711960,8.8
+3. 35-44,Hombre,2293437,9.2
+2. 25-34,Hombre,3474532,9.2
+4. 45-54,Hombre,1589584,9.4
+5. 55-64,Hombre,839490,9.8
+6. 65 o más,Hombre,192890,10.2
+1. Menos de 25,Mujer,292750,10.9
+3. 35-44,Mujer,661561,10.9
+2. 25-34,Mujer,1365461,11.0
+4. 45-54,Mujer,476642,11.0
+6. 65 o más,Mujer,47471,11.1
+5. 55-64,Mujer,273683,11.5
+6. 65 o más,Sin dato,1289,8.6
+3. 35-44,Sin dato,17604,8.8
+4. 45-54,Sin dato,7434,8.9
+5. 55-64,Sin dato,2548,9.6
+1. Menos de 25,Sin dato,5944,10.4
+2. 25-34,Sin dato,17133,10.8
